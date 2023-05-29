@@ -22,6 +22,6 @@
 -  不是最优解，只是能用。
 
 ## 关于github action的坑，萌新关注。
-  - 涉及到文件提交等操作，需要在repo设置里代开action的读写权限,否则会面临提价失败。及时你是owner
+  - 涉及到文件提交等操作，需要在repo设置里代开action的读写权限,否则会面临提价失败。即使你是owner
   - > setting-Actions-General-workflow permissions-打开read and write permissions
   
