@@ -10,6 +10,7 @@
 ### 一些说明
 
 - 通过提取客户端v2rayNG的订阅链接通过shortcuts自动更新到lemon.site
+- extract-lemon-list.yml中没有加入异常处理机制，为确保运行正常，务必确保lemon.site文件内容为单网址，shortcuts里有处理自动提交时可忽略该问题。
 - 触发extract-lemon-list.yml
      - 每3个小时更新一次  
      - 读取lemon.site内的订阅链接网址对应的内容
