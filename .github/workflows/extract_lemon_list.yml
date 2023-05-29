@@ -1,0 +1,53 @@
+#  快柠檬的使用说明
+# extract-lemon-list.yml：  
+#   每3个小时更新一次  
+#   读取lemon.site内的网址内容  
+#   将网址内容同步至lemon.sub，解决v2ray订阅  
+#   对lemon.sub进行解码同步至lemon.list，解决loon订阅   
+#   取代了read-and-save.yml在yml中指定网址的用法。  
+#   注意代码没有加入异常处理，请务必确保lemon.site存在，且内容包含的网址时正确的，否则会运行失败。
+
+name: extract_lemon_list
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+  push:
+#   branches: [ main ]
+    path:
+      - "lemon.site"
+jobs:
+  read-and-save:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Read and save content
+      run: |
+          url=$(cat lemon.site)
+          echo "url=$url" >> $GITHUB_ENV
+          echo "" > lemon.sub
+          echo "" > lemon.list
+          curl -L "$url" -o lemon.sub
+          cat lemon.sub | base64 -d > lemon.list
+          
+          url2=$(cat lemon.site | sed 's/vrn/ch/g')
+          echo "url2=$url2" >> $GITHUB_ENV
+          echo "" > lemon.yaml
+          curl -L "$url2" -o lemon.yaml
+          
+          echo "" > lemonlite.yaml
+          cat lemon.yaml | perl -ne 'print unless /^proxy-group/../^$/' > lemonlite.yaml
+          cat lemonlitebanner.yaml >> lemonlite.yaml
+
+          echo "" > lemonnode.yaml
+          cat lemon.yaml | perl -ne 'print unless /^proxy-group/../^$/' > lemonnode.yaml
+          
+#        curl https://knmvc.site/N2o9/CddhK/vrn -o lemon.sub
+#        cat lemon.sub | base64 -d > lemon.list
+    - name: Commit changes
+      run: |
+        git config --global user.email "wang_zi_mo@163.com"
+        git config --global user.name "fqw000"
+        git add lemon.sub lemon.list lemon.yaml lemonlite.yaml lemonnode.yaml
+        git commit -m "Add lemon.sub lemon.list lemon.yaml lemonlite.yaml lemonnode.yaml"
+        git push
