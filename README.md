@@ -25,3 +25,9 @@
   - 涉及到文件提交等操作，需要在repo设置里代开action的读写权限,否则会面临提价失败。即使你是owner
   - > setting-Actions-General-workflow permissions-打开read and write permissions
   
+    
+  ## lemonlite.yaml
+    这里使用的是黑名单机制，gfw列表走代理，其余DIRECT,只是对spotify和telegram单独分流。
+    没有涉及任何去广告和script操作，去广告交给了AdgurandHome和adbyby。
+    
+ 
