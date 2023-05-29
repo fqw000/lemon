@@ -3,8 +3,8 @@
 > 测试lemon使用，过度依赖现有运行规则，随时会失效，不保证维护。 
 > 
 
-**鉴于Clash的完善，目前对各平台的良好支持，一个配置全平台通用的便利让我不的不考虑全面转战Clash**
-对个人而言：折腾 > 使用 。
+**鉴于Clash的完善，目前对各平台的良好支持，一个配置全平台通用的便利让我不的不考虑全面转战Clash**  
+    对个人而言：折腾 > 使用 。
 
 
 ### 一些说明
@@ -21,7 +21,7 @@
    - 注：lemonbanner.yaml内容为代理集和规则集合。
 -  不是最优解，只是能用。
 
-## 关于github action的说明，萌新关注。
-  - 涉及到文件提交等操作，需要在repo设置里代开action的读写权限,否则会面临提价失败
+## 关于github action的坑，萌新关注。
+  - 涉及到文件提交等操作，需要在repo设置里代开action的读写权限,否则会面临提价失败。及时你是owner
   - > setting-Actions-General-workflow permissions-打开read and write permissions
   
