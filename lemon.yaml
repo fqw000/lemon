@@ -14,9 +14,9 @@ proxies:
   - {name: 🇺🇸 美国 G22A | 天津联通、ChatGPT | 3x, server: 125.39.152.214, port: 26336, type: trojan, password: 3O5p82fo0J, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G29A | 天津联通、ChatGPT | 3x, server: 125.39.152.214, port: 35492, type: trojan, password: 3O5p82fo0J, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 印度 B46 | 深美电信 | 2x, server: 121.11.118.250, port: 21346, type: trojan, password: 3O5p82fo0J, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇵🇭 菲律宾 B11 | 嘉兴联通、ChatGPT | 2x, server: 123.158.253.20, port: 30264, type: trojan, password: 3O5p82fo0J, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 越南 B60 | 直连、移动联通优化、新开机 | 2x, server: 42.112.30.68, port: 16130, type: trojan, password: 3O5p82fo0J, sni: l30b.ft4.xyz, skip-cert-verify: true, udp: true}
-  - {name: 🇵🇭 菲律宾 B11 | 嘉兴联通、ChatGPT | 2x, server: 123.158.253.105, port: 30264, type: trojan, password: 3O5p82fo0J, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇨🇦 加拿大 B40 | 浙江联通 | 1x, server: 123.158.253.140, port: 18140, type: trojan, password: 3O5p82fo0J, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇦 加拿大 B40 | 浙江联通 | 1x, server: 123.158.253.169, port: 18140, type: trojan, password: 3O5p82fo0J, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: ----- 账号信息 -----, server: 123.158.253.169, port: 28432, type: trojan, password: 3O5p82fo0J, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "登录邮箱: ppijdqv@f.lm", server: 123.158.253.169, port: 28432, type: trojan, password: 3O5p82fo0J, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "体验套餐: 剩余3天", server: 123.158.253.169, port: 28432, type: trojan, password: 3O5p82fo0J, sni: v.qq.com, skip-cert-verify: true, udp: true}
@@ -25,7 +25,7 @@ proxies:
   - {name: "电报: https://t.me/falemon_group", server: 123.158.253.169, port: 28432, type: trojan, password: 3O5p82fo0J, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "邮箱: contact@falemon.com", server: 123.158.253.169, port: 28432, type: trojan, password: 3O5p82fo0J, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "官网: falm.cc", server: 123.158.253.169, port: 28432, type: trojan, password: 3O5p82fo0J, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2023-05-31 23:24:03", server: 123.158.253.169, port: 28432, type: trojan, password: 3O5p82fo0J, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2023-05-31 23:32:19", server: 123.158.253.169, port: 28432, type: trojan, password: 3O5p82fo0J, sni: v.qq.com, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -39,8 +39,8 @@ proxy-groups:
       - 🇺🇸 美国 G22A | 天津联通、ChatGPT | 3x
       - 🇺🇸 美国 G29A | 天津联通、ChatGPT | 3x
       - 🇺🇸 印度 B46 | 深美电信 | 2x
-      - 🇸🇬 越南 B60 | 直连、移动联通优化、新开机 | 2x
       - 🇵🇭 菲律宾 B11 | 嘉兴联通、ChatGPT | 2x
+      - 🇸🇬 越南 B60 | 直连、移动联通优化、新开机 | 2x
       - 🇨🇦 加拿大 B40 | 浙江联通 | 1x
       - ----- 账号信息 -----
       - "登录邮箱: ppijdqv@f.lm"
@@ -50,7 +50,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-05-31 23:24:03"
+      - "🏳️‍🌈 时间: 2023-05-31 23:32:19"
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -65,8 +65,8 @@ proxy-groups:
       - 🇺🇸 美国 G22A | 天津联通、ChatGPT | 3x
       - 🇺🇸 美国 G29A | 天津联通、ChatGPT | 3x
       - 🇺🇸 印度 B46 | 深美电信 | 2x
-      - 🇸🇬 越南 B60 | 直连、移动联通优化、新开机 | 2x
       - 🇵🇭 菲律宾 B11 | 嘉兴联通、ChatGPT | 2x
+      - 🇸🇬 越南 B60 | 直连、移动联通优化、新开机 | 2x
       - 🇨🇦 加拿大 B40 | 浙江联通 | 1x
       - ----- 账号信息 -----
       - "登录邮箱: ppijdqv@f.lm"
@@ -76,7 +76,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-05-31 23:24:03"
+      - "🏳️‍🌈 时间: 2023-05-31 23:32:19"
   - name: 📲 电报信息
     type: select
     proxies:
@@ -91,8 +91,8 @@ proxy-groups:
       - 🇺🇸 美国 G22A | 天津联通、ChatGPT | 3x
       - 🇺🇸 美国 G29A | 天津联通、ChatGPT | 3x
       - 🇺🇸 印度 B46 | 深美电信 | 2x
-      - 🇸🇬 越南 B60 | 直连、移动联通优化、新开机 | 2x
       - 🇵🇭 菲律宾 B11 | 嘉兴联通、ChatGPT | 2x
+      - 🇸🇬 越南 B60 | 直连、移动联通优化、新开机 | 2x
       - 🇨🇦 加拿大 B40 | 浙江联通 | 1x
       - ----- 账号信息 -----
       - "登录邮箱: ppijdqv@f.lm"
@@ -102,7 +102,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-05-31 23:24:03"
+      - "🏳️‍🌈 时间: 2023-05-31 23:32:19"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -117,8 +117,8 @@ proxy-groups:
       - 🇺🇸 美国 G22A | 天津联通、ChatGPT | 3x
       - 🇺🇸 美国 G29A | 天津联通、ChatGPT | 3x
       - 🇺🇸 印度 B46 | 深美电信 | 2x
-      - 🇸🇬 越南 B60 | 直连、移动联通优化、新开机 | 2x
       - 🇵🇭 菲律宾 B11 | 嘉兴联通、ChatGPT | 2x
+      - 🇸🇬 越南 B60 | 直连、移动联通优化、新开机 | 2x
       - 🇨🇦 加拿大 B40 | 浙江联通 | 1x
       - ----- 账号信息 -----
       - "登录邮箱: ppijdqv@f.lm"
@@ -128,7 +128,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-05-31 23:24:03"
+      - "🏳️‍🌈 时间: 2023-05-31 23:32:19"
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -143,8 +143,8 @@ proxy-groups:
       - 🇺🇸 美国 G22A | 天津联通、ChatGPT | 3x
       - 🇺🇸 美国 G29A | 天津联通、ChatGPT | 3x
       - 🇺🇸 印度 B46 | 深美电信 | 2x
-      - 🇸🇬 越南 B60 | 直连、移动联通优化、新开机 | 2x
       - 🇵🇭 菲律宾 B11 | 嘉兴联通、ChatGPT | 2x
+      - 🇸🇬 越南 B60 | 直连、移动联通优化、新开机 | 2x
       - 🇨🇦 加拿大 B40 | 浙江联通 | 1x
       - ----- 账号信息 -----
       - "登录邮箱: ppijdqv@f.lm"
@@ -154,7 +154,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-05-31 23:24:03"
+      - "🏳️‍🌈 时间: 2023-05-31 23:32:19"
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -169,8 +169,8 @@ proxy-groups:
       - 🇺🇸 美国 G22A | 天津联通、ChatGPT | 3x
       - 🇺🇸 美国 G29A | 天津联通、ChatGPT | 3x
       - 🇺🇸 印度 B46 | 深美电信 | 2x
-      - 🇸🇬 越南 B60 | 直连、移动联通优化、新开机 | 2x
       - 🇵🇭 菲律宾 B11 | 嘉兴联通、ChatGPT | 2x
+      - 🇸🇬 越南 B60 | 直连、移动联通优化、新开机 | 2x
       - 🇨🇦 加拿大 B40 | 浙江联通 | 1x
       - ----- 账号信息 -----
       - "登录邮箱: ppijdqv@f.lm"
@@ -180,7 +180,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-05-31 23:24:03"
+      - "🏳️‍🌈 时间: 2023-05-31 23:32:19"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -206,8 +206,8 @@ proxy-groups:
       - 🇺🇸 美国 G22A | 天津联通、ChatGPT | 3x
       - 🇺🇸 美国 G29A | 天津联通、ChatGPT | 3x
       - 🇺🇸 印度 B46 | 深美电信 | 2x
-      - 🇸🇬 越南 B60 | 直连、移动联通优化、新开机 | 2x
       - 🇵🇭 菲律宾 B11 | 嘉兴联通、ChatGPT | 2x
+      - 🇸🇬 越南 B60 | 直连、移动联通优化、新开机 | 2x
       - 🇨🇦 加拿大 B40 | 浙江联通 | 1x
       - ----- 账号信息 -----
       - "登录邮箱: ppijdqv@f.lm"
@@ -217,7 +217,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-05-31 23:24:03"
+      - "🏳️‍🌈 时间: 2023-05-31 23:32:19"
   - name: 🐟 漏网之鱼
     type: select
     proxies:
@@ -232,8 +232,8 @@ proxy-groups:
       - 🇺🇸 美国 G22A | 天津联通、ChatGPT | 3x
       - 🇺🇸 美国 G29A | 天津联通、ChatGPT | 3x
       - 🇺🇸 印度 B46 | 深美电信 | 2x
-      - 🇸🇬 越南 B60 | 直连、移动联通优化、新开机 | 2x
       - 🇵🇭 菲律宾 B11 | 嘉兴联通、ChatGPT | 2x
+      - 🇸🇬 越南 B60 | 直连、移动联通优化、新开机 | 2x
       - 🇨🇦 加拿大 B40 | 浙江联通 | 1x
       - ----- 账号信息 -----
       - "登录邮箱: ppijdqv@f.lm"
@@ -243,7 +243,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-05-31 23:24:03"
+      - "🏳️‍🌈 时间: 2023-05-31 23:32:19"
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
