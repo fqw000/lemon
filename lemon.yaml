@@ -6,27 +6,27 @@ log-level: info
 external-controller: :9090
 proxies:
   - {name: "消息: 1条未读，在APP查看", server: 139.226.166.117, port: 12851, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇭🇰 香港 I2A | IEPL、上海联通、限时体验2小时 | 3x, server: 139.226.166.117, port: 12851, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇭🇰 香港 I3A | IEPL、Telegram、限时体验2小时 | 3x, server: 183.213.200.205, port: 12752, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇨🇳 台湾 I4A | 嘉兴联通、AWS、限时体验4小时 | 3x, server: 123.158.253.105, port: 31860, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇰🇷 韩国 I6A | Netflix(KR)、ChatGPT、SVIP、限时体验4小时 | 3x, server: 123.158.253.105, port: 31862, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国 V1 | 上海电信、ChatGPT、SVIP、限时体验4小时 | 2x, server: 124.225.26.154, port: 27380, type: trojan, password: qT4g9Iy3by, sni: sw4sy.duoyi.com, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇬 新加坡 V1 | 嘉兴联通、ChatGPT、SVIP、限时体验2小时 | 3x, server: 123.158.253.105, port: 16139, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国 M19 | 天津联通、Netflix(US)、限时体验2小时 | 3x, server: 125.39.152.214, port: 35490, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 香港 I2A | IEPL、上海联通、限时体验1小时 | 3x, server: 139.226.166.117, port: 12851, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 香港 I3A | IEPL、Telegram、限时体验1小时 | 3x, server: 183.213.200.205, port: 12752, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 台湾 I4A | 嘉兴联通、AWS、限时体验3小时 | 3x, server: 123.158.253.105, port: 31860, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇰🇷 韩国 I6A | Netflix(KR)、ChatGPT、SVIP、限时体验3小时 | 3x, server: 123.158.253.105, port: 31862, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国 V1 | 上海电信、ChatGPT、SVIP、限时体验3小时 | 2x, server: 124.225.26.154, port: 27380, type: trojan, password: qT4g9Iy3by, sni: sw4sy.duoyi.com, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 新加坡 V1 | 嘉兴联通、ChatGPT、SVIP、限时体验1小时 | 3x, server: 123.158.253.20, port: 16139, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国 M19 | 天津联通、Netflix(US)、限时体验1小时 | 3x, server: 125.39.152.214, port: 35490, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇯🇵 日本 W1 | 浙江联通、高配 | 3x, server: 123.158.253.169, port: 28432, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇭🇰 香港 W17 | 安徽移动 | 3x, server: 112.26.32.6, port: 28471, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇬 新加坡 W55 | 浙江电信、高配 | 3x, server: 218.78.98.222, port: 26136, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国 G03 | 深美电信 | 2x, server: 101.89.185.130, port: 23103, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇬 美国 G04 | 深美电信、新开机 | 3x, server: 101.89.217.132, port: 21474, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国 G22 | 深美电信 | 3x, server: 101.89.165.165, port: 30186, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国 G29 | 深美电信 | 3x, server: 101.89.144.3, port: 30187, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 新加坡 W55 | 浙江电信、高配 | 3x, server: 218.78.104.147, port: 26136, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国 G03 | 深美电信 | 2x, server: 101.89.217.132, port: 23103, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 美国 G04 | 深美电信、新开机 | 3x, server: 101.91.161.115, port: 21474, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国 G22 | 深美电信 | 3x, server: 101.89.217.132, port: 30186, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国 G29 | 深美电信 | 3x, server: 101.91.161.115, port: 30187, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 菲律宾 B12 | 深美电信、新开机 | 2x, server: 101.89.217.132, port: 23312, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇬 阿根廷 B46 | 深美电信、新开机 | 2x, server: 101.89.217.132, port: 24548, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇨🇦 加拿大 B40 | 浙江联通 | 2x, server: 123.158.253.169, port: 18140, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇬 印尼 B46 | 深美电信、新开机 | 1x, server: 101.89.185.130, port: 26139, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 越南 B60 | 深美电信、移动联通优化 | 2x, server: 101.91.161.115, port: 16130, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇬 泰国 B29 | 深美电信、新开机 | 2x, server: 218.78.98.222, port: 23229, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇮🇳 印度 B46 | 浙江电信 | 2x, server: 101.89.217.132, port: 21346, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 泰国 B29 | 深美电信、新开机 | 2x, server: 101.89.144.3, port: 23229, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 越南 B60 | 深美电信、移动联通优化 | 2x, server: 101.89.185.130, port: 16130, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 阿根廷 B46 | 深美电信、新开机 | 2x, server: 101.89.108.53, port: 24548, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 印尼 B46 | 深美电信、新开机 | 1x, server: 218.78.98.222, port: 26139, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇮🇳 印度 B46 | 浙江电信 | 2x, server: 101.89.185.130, port: 21346, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇦 加拿大 B40 | 浙江联通 | 2x, server: 123.158.253.140, port: 18140, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: ----- 账号信息 -----, server: 139.226.166.117, port: 12851, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "登录邮箱: rpijfnw@f.lm", server: 139.226.166.117, port: 12851, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "体验套餐: 剩余5天", server: 139.226.166.117, port: 12851, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
@@ -35,19 +35,19 @@ proxies:
   - {name: "电报: https://t.me/falemon_group", server: 139.226.166.117, port: 12851, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "邮箱: contact@falemon.com", server: 139.226.166.117, port: 12851, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "官网: falm.cc", server: 139.226.166.117, port: 12851, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2023-06-03 21:24:46", server: 139.226.166.117, port: 12851, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2023-06-03 23:11:32", server: 139.226.166.117, port: 12851, type: trojan, password: qT4g9Iy3by, sni: v.qq.com, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - "消息: 1条未读，在APP查看"
-      - 🇭🇰 香港 I2A | IEPL、上海联通、限时体验2小时 | 3x
-      - 🇭🇰 香港 I3A | IEPL、Telegram、限时体验2小时 | 3x
-      - 🇨🇳 台湾 I4A | 嘉兴联通、AWS、限时体验4小时 | 3x
-      - 🇰🇷 韩国 I6A | Netflix(KR)、ChatGPT、SVIP、限时体验4小时 | 3x
-      - 🇺🇸 美国 V1 | 上海电信、ChatGPT、SVIP、限时体验4小时 | 2x
-      - 🇸🇬 新加坡 V1 | 嘉兴联通、ChatGPT、SVIP、限时体验2小时 | 3x
-      - 🇺🇸 美国 M19 | 天津联通、Netflix(US)、限时体验2小时 | 3x
+      - 🇭🇰 香港 I2A | IEPL、上海联通、限时体验1小时 | 3x
+      - 🇭🇰 香港 I3A | IEPL、Telegram、限时体验1小时 | 3x
+      - 🇨🇳 台湾 I4A | 嘉兴联通、AWS、限时体验3小时 | 3x
+      - 🇰🇷 韩国 I6A | Netflix(KR)、ChatGPT、SVIP、限时体验3小时 | 3x
+      - 🇺🇸 美国 V1 | 上海电信、ChatGPT、SVIP、限时体验3小时 | 2x
+      - 🇸🇬 新加坡 V1 | 嘉兴联通、ChatGPT、SVIP、限时体验1小时 | 3x
+      - 🇺🇸 美国 M19 | 天津联通、Netflix(US)、限时体验1小时 | 3x
       - 🇯🇵 日本 W1 | 浙江联通、高配 | 3x
       - 🇭🇰 香港 W17 | 安徽移动 | 3x
       - 🇸🇬 新加坡 W55 | 浙江电信、高配 | 3x
@@ -56,12 +56,12 @@ proxy-groups:
       - 🇺🇸 美国 G22 | 深美电信 | 3x
       - 🇺🇸 美国 G29 | 深美电信 | 3x
       - 🇸🇬 菲律宾 B12 | 深美电信、新开机 | 2x
-      - 🇸🇬 阿根廷 B46 | 深美电信、新开机 | 2x
-      - 🇨🇦 加拿大 B40 | 浙江联通 | 2x
-      - 🇸🇬 印尼 B46 | 深美电信、新开机 | 1x
-      - 🇺🇸 越南 B60 | 深美电信、移动联通优化 | 2x
       - 🇸🇬 泰国 B29 | 深美电信、新开机 | 2x
+      - 🇺🇸 越南 B60 | 深美电信、移动联通优化 | 2x
+      - 🇸🇬 阿根廷 B46 | 深美电信、新开机 | 2x
+      - 🇸🇬 印尼 B46 | 深美电信、新开机 | 1x
       - 🇮🇳 印度 B46 | 浙江电信 | 2x
+      - 🇨🇦 加拿大 B40 | 浙江联通 | 2x
       - ----- 账号信息 -----
       - "登录邮箱: rpijfnw@f.lm"
       - "体验套餐: 剩余5天"
@@ -70,20 +70,20 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-06-03 21:24:46"
+      - "🏳️‍🌈 时间: 2023-06-03 23:11:32"
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - "消息: 1条未读，在APP查看"
-      - 🇭🇰 香港 I2A | IEPL、上海联通、限时体验2小时 | 3x
-      - 🇭🇰 香港 I3A | IEPL、Telegram、限时体验2小时 | 3x
-      - 🇨🇳 台湾 I4A | 嘉兴联通、AWS、限时体验4小时 | 3x
-      - 🇰🇷 韩国 I6A | Netflix(KR)、ChatGPT、SVIP、限时体验4小时 | 3x
-      - 🇺🇸 美国 V1 | 上海电信、ChatGPT、SVIP、限时体验4小时 | 2x
-      - 🇸🇬 新加坡 V1 | 嘉兴联通、ChatGPT、SVIP、限时体验2小时 | 3x
-      - 🇺🇸 美国 M19 | 天津联通、Netflix(US)、限时体验2小时 | 3x
+      - 🇭🇰 香港 I2A | IEPL、上海联通、限时体验1小时 | 3x
+      - 🇭🇰 香港 I3A | IEPL、Telegram、限时体验1小时 | 3x
+      - 🇨🇳 台湾 I4A | 嘉兴联通、AWS、限时体验3小时 | 3x
+      - 🇰🇷 韩国 I6A | Netflix(KR)、ChatGPT、SVIP、限时体验3小时 | 3x
+      - 🇺🇸 美国 V1 | 上海电信、ChatGPT、SVIP、限时体验3小时 | 2x
+      - 🇸🇬 新加坡 V1 | 嘉兴联通、ChatGPT、SVIP、限时体验1小时 | 3x
+      - 🇺🇸 美国 M19 | 天津联通、Netflix(US)、限时体验1小时 | 3x
       - 🇯🇵 日本 W1 | 浙江联通、高配 | 3x
       - 🇭🇰 香港 W17 | 安徽移动 | 3x
       - 🇸🇬 新加坡 W55 | 浙江电信、高配 | 3x
@@ -92,12 +92,12 @@ proxy-groups:
       - 🇺🇸 美国 G22 | 深美电信 | 3x
       - 🇺🇸 美国 G29 | 深美电信 | 3x
       - 🇸🇬 菲律宾 B12 | 深美电信、新开机 | 2x
-      - 🇸🇬 阿根廷 B46 | 深美电信、新开机 | 2x
-      - 🇨🇦 加拿大 B40 | 浙江联通 | 2x
-      - 🇸🇬 印尼 B46 | 深美电信、新开机 | 1x
-      - 🇺🇸 越南 B60 | 深美电信、移动联通优化 | 2x
       - 🇸🇬 泰国 B29 | 深美电信、新开机 | 2x
+      - 🇺🇸 越南 B60 | 深美电信、移动联通优化 | 2x
+      - 🇸🇬 阿根廷 B46 | 深美电信、新开机 | 2x
+      - 🇸🇬 印尼 B46 | 深美电信、新开机 | 1x
       - 🇮🇳 印度 B46 | 浙江电信 | 2x
+      - 🇨🇦 加拿大 B40 | 浙江联通 | 2x
       - ----- 账号信息 -----
       - "登录邮箱: rpijfnw@f.lm"
       - "体验套餐: 剩余5天"
@@ -106,20 +106,20 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-06-03 21:24:46"
+      - "🏳️‍🌈 时间: 2023-06-03 23:11:32"
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - "消息: 1条未读，在APP查看"
-      - 🇭🇰 香港 I2A | IEPL、上海联通、限时体验2小时 | 3x
-      - 🇭🇰 香港 I3A | IEPL、Telegram、限时体验2小时 | 3x
-      - 🇨🇳 台湾 I4A | 嘉兴联通、AWS、限时体验4小时 | 3x
-      - 🇰🇷 韩国 I6A | Netflix(KR)、ChatGPT、SVIP、限时体验4小时 | 3x
-      - 🇺🇸 美国 V1 | 上海电信、ChatGPT、SVIP、限时体验4小时 | 2x
-      - 🇸🇬 新加坡 V1 | 嘉兴联通、ChatGPT、SVIP、限时体验2小时 | 3x
-      - 🇺🇸 美国 M19 | 天津联通、Netflix(US)、限时体验2小时 | 3x
+      - 🇭🇰 香港 I2A | IEPL、上海联通、限时体验1小时 | 3x
+      - 🇭🇰 香港 I3A | IEPL、Telegram、限时体验1小时 | 3x
+      - 🇨🇳 台湾 I4A | 嘉兴联通、AWS、限时体验3小时 | 3x
+      - 🇰🇷 韩国 I6A | Netflix(KR)、ChatGPT、SVIP、限时体验3小时 | 3x
+      - 🇺🇸 美国 V1 | 上海电信、ChatGPT、SVIP、限时体验3小时 | 2x
+      - 🇸🇬 新加坡 V1 | 嘉兴联通、ChatGPT、SVIP、限时体验1小时 | 3x
+      - 🇺🇸 美国 M19 | 天津联通、Netflix(US)、限时体验1小时 | 3x
       - 🇯🇵 日本 W1 | 浙江联通、高配 | 3x
       - 🇭🇰 香港 W17 | 安徽移动 | 3x
       - 🇸🇬 新加坡 W55 | 浙江电信、高配 | 3x
@@ -128,12 +128,12 @@ proxy-groups:
       - 🇺🇸 美国 G22 | 深美电信 | 3x
       - 🇺🇸 美国 G29 | 深美电信 | 3x
       - 🇸🇬 菲律宾 B12 | 深美电信、新开机 | 2x
-      - 🇸🇬 阿根廷 B46 | 深美电信、新开机 | 2x
-      - 🇨🇦 加拿大 B40 | 浙江联通 | 2x
-      - 🇸🇬 印尼 B46 | 深美电信、新开机 | 1x
-      - 🇺🇸 越南 B60 | 深美电信、移动联通优化 | 2x
       - 🇸🇬 泰国 B29 | 深美电信、新开机 | 2x
+      - 🇺🇸 越南 B60 | 深美电信、移动联通优化 | 2x
+      - 🇸🇬 阿根廷 B46 | 深美电信、新开机 | 2x
+      - 🇸🇬 印尼 B46 | 深美电信、新开机 | 1x
       - 🇮🇳 印度 B46 | 浙江电信 | 2x
+      - 🇨🇦 加拿大 B40 | 浙江联通 | 2x
       - ----- 账号信息 -----
       - "登录邮箱: rpijfnw@f.lm"
       - "体验套餐: 剩余5天"
@@ -142,20 +142,20 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-06-03 21:24:46"
+      - "🏳️‍🌈 时间: 2023-06-03 23:11:32"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
       - "消息: 1条未读，在APP查看"
-      - 🇭🇰 香港 I2A | IEPL、上海联通、限时体验2小时 | 3x
-      - 🇭🇰 香港 I3A | IEPL、Telegram、限时体验2小时 | 3x
-      - 🇨🇳 台湾 I4A | 嘉兴联通、AWS、限时体验4小时 | 3x
-      - 🇰🇷 韩国 I6A | Netflix(KR)、ChatGPT、SVIP、限时体验4小时 | 3x
-      - 🇺🇸 美国 V1 | 上海电信、ChatGPT、SVIP、限时体验4小时 | 2x
-      - 🇸🇬 新加坡 V1 | 嘉兴联通、ChatGPT、SVIP、限时体验2小时 | 3x
-      - 🇺🇸 美国 M19 | 天津联通、Netflix(US)、限时体验2小时 | 3x
+      - 🇭🇰 香港 I2A | IEPL、上海联通、限时体验1小时 | 3x
+      - 🇭🇰 香港 I3A | IEPL、Telegram、限时体验1小时 | 3x
+      - 🇨🇳 台湾 I4A | 嘉兴联通、AWS、限时体验3小时 | 3x
+      - 🇰🇷 韩国 I6A | Netflix(KR)、ChatGPT、SVIP、限时体验3小时 | 3x
+      - 🇺🇸 美国 V1 | 上海电信、ChatGPT、SVIP、限时体验3小时 | 2x
+      - 🇸🇬 新加坡 V1 | 嘉兴联通、ChatGPT、SVIP、限时体验1小时 | 3x
+      - 🇺🇸 美国 M19 | 天津联通、Netflix(US)、限时体验1小时 | 3x
       - 🇯🇵 日本 W1 | 浙江联通、高配 | 3x
       - 🇭🇰 香港 W17 | 安徽移动 | 3x
       - 🇸🇬 新加坡 W55 | 浙江电信、高配 | 3x
@@ -164,12 +164,12 @@ proxy-groups:
       - 🇺🇸 美国 G22 | 深美电信 | 3x
       - 🇺🇸 美国 G29 | 深美电信 | 3x
       - 🇸🇬 菲律宾 B12 | 深美电信、新开机 | 2x
-      - 🇸🇬 阿根廷 B46 | 深美电信、新开机 | 2x
-      - 🇨🇦 加拿大 B40 | 浙江联通 | 2x
-      - 🇸🇬 印尼 B46 | 深美电信、新开机 | 1x
-      - 🇺🇸 越南 B60 | 深美电信、移动联通优化 | 2x
       - 🇸🇬 泰国 B29 | 深美电信、新开机 | 2x
+      - 🇺🇸 越南 B60 | 深美电信、移动联通优化 | 2x
+      - 🇸🇬 阿根廷 B46 | 深美电信、新开机 | 2x
+      - 🇸🇬 印尼 B46 | 深美电信、新开机 | 1x
       - 🇮🇳 印度 B46 | 浙江电信 | 2x
+      - 🇨🇦 加拿大 B40 | 浙江联通 | 2x
       - ----- 账号信息 -----
       - "登录邮箱: rpijfnw@f.lm"
       - "体验套餐: 剩余5天"
@@ -178,20 +178,20 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-06-03 21:24:46"
+      - "🏳️‍🌈 时间: 2023-06-03 23:11:32"
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - "消息: 1条未读，在APP查看"
-      - 🇭🇰 香港 I2A | IEPL、上海联通、限时体验2小时 | 3x
-      - 🇭🇰 香港 I3A | IEPL、Telegram、限时体验2小时 | 3x
-      - 🇨🇳 台湾 I4A | 嘉兴联通、AWS、限时体验4小时 | 3x
-      - 🇰🇷 韩国 I6A | Netflix(KR)、ChatGPT、SVIP、限时体验4小时 | 3x
-      - 🇺🇸 美国 V1 | 上海电信、ChatGPT、SVIP、限时体验4小时 | 2x
-      - 🇸🇬 新加坡 V1 | 嘉兴联通、ChatGPT、SVIP、限时体验2小时 | 3x
-      - 🇺🇸 美国 M19 | 天津联通、Netflix(US)、限时体验2小时 | 3x
+      - 🇭🇰 香港 I2A | IEPL、上海联通、限时体验1小时 | 3x
+      - 🇭🇰 香港 I3A | IEPL、Telegram、限时体验1小时 | 3x
+      - 🇨🇳 台湾 I4A | 嘉兴联通、AWS、限时体验3小时 | 3x
+      - 🇰🇷 韩国 I6A | Netflix(KR)、ChatGPT、SVIP、限时体验3小时 | 3x
+      - 🇺🇸 美国 V1 | 上海电信、ChatGPT、SVIP、限时体验3小时 | 2x
+      - 🇸🇬 新加坡 V1 | 嘉兴联通、ChatGPT、SVIP、限时体验1小时 | 3x
+      - 🇺🇸 美国 M19 | 天津联通、Netflix(US)、限时体验1小时 | 3x
       - 🇯🇵 日本 W1 | 浙江联通、高配 | 3x
       - 🇭🇰 香港 W17 | 安徽移动 | 3x
       - 🇸🇬 新加坡 W55 | 浙江电信、高配 | 3x
@@ -200,12 +200,12 @@ proxy-groups:
       - 🇺🇸 美国 G22 | 深美电信 | 3x
       - 🇺🇸 美国 G29 | 深美电信 | 3x
       - 🇸🇬 菲律宾 B12 | 深美电信、新开机 | 2x
-      - 🇸🇬 阿根廷 B46 | 深美电信、新开机 | 2x
-      - 🇨🇦 加拿大 B40 | 浙江联通 | 2x
-      - 🇸🇬 印尼 B46 | 深美电信、新开机 | 1x
-      - 🇺🇸 越南 B60 | 深美电信、移动联通优化 | 2x
       - 🇸🇬 泰国 B29 | 深美电信、新开机 | 2x
+      - 🇺🇸 越南 B60 | 深美电信、移动联通优化 | 2x
+      - 🇸🇬 阿根廷 B46 | 深美电信、新开机 | 2x
+      - 🇸🇬 印尼 B46 | 深美电信、新开机 | 1x
       - 🇮🇳 印度 B46 | 浙江电信 | 2x
+      - 🇨🇦 加拿大 B40 | 浙江联通 | 2x
       - ----- 账号信息 -----
       - "登录邮箱: rpijfnw@f.lm"
       - "体验套餐: 剩余5天"
@@ -214,20 +214,20 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-06-03 21:24:46"
+      - "🏳️‍🌈 时间: 2023-06-03 23:11:32"
   - name: 📢 谷歌FCM
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - "消息: 1条未读，在APP查看"
-      - 🇭🇰 香港 I2A | IEPL、上海联通、限时体验2小时 | 3x
-      - 🇭🇰 香港 I3A | IEPL、Telegram、限时体验2小时 | 3x
-      - 🇨🇳 台湾 I4A | 嘉兴联通、AWS、限时体验4小时 | 3x
-      - 🇰🇷 韩国 I6A | Netflix(KR)、ChatGPT、SVIP、限时体验4小时 | 3x
-      - 🇺🇸 美国 V1 | 上海电信、ChatGPT、SVIP、限时体验4小时 | 2x
-      - 🇸🇬 新加坡 V1 | 嘉兴联通、ChatGPT、SVIP、限时体验2小时 | 3x
-      - 🇺🇸 美国 M19 | 天津联通、Netflix(US)、限时体验2小时 | 3x
+      - 🇭🇰 香港 I2A | IEPL、上海联通、限时体验1小时 | 3x
+      - 🇭🇰 香港 I3A | IEPL、Telegram、限时体验1小时 | 3x
+      - 🇨🇳 台湾 I4A | 嘉兴联通、AWS、限时体验3小时 | 3x
+      - 🇰🇷 韩国 I6A | Netflix(KR)、ChatGPT、SVIP、限时体验3小时 | 3x
+      - 🇺🇸 美国 V1 | 上海电信、ChatGPT、SVIP、限时体验3小时 | 2x
+      - 🇸🇬 新加坡 V1 | 嘉兴联通、ChatGPT、SVIP、限时体验1小时 | 3x
+      - 🇺🇸 美国 M19 | 天津联通、Netflix(US)、限时体验1小时 | 3x
       - 🇯🇵 日本 W1 | 浙江联通、高配 | 3x
       - 🇭🇰 香港 W17 | 安徽移动 | 3x
       - 🇸🇬 新加坡 W55 | 浙江电信、高配 | 3x
@@ -236,12 +236,12 @@ proxy-groups:
       - 🇺🇸 美国 G22 | 深美电信 | 3x
       - 🇺🇸 美国 G29 | 深美电信 | 3x
       - 🇸🇬 菲律宾 B12 | 深美电信、新开机 | 2x
-      - 🇸🇬 阿根廷 B46 | 深美电信、新开机 | 2x
-      - 🇨🇦 加拿大 B40 | 浙江联通 | 2x
-      - 🇸🇬 印尼 B46 | 深美电信、新开机 | 1x
-      - 🇺🇸 越南 B60 | 深美电信、移动联通优化 | 2x
       - 🇸🇬 泰国 B29 | 深美电信、新开机 | 2x
+      - 🇺🇸 越南 B60 | 深美电信、移动联通优化 | 2x
+      - 🇸🇬 阿根廷 B46 | 深美电信、新开机 | 2x
+      - 🇸🇬 印尼 B46 | 深美电信、新开机 | 1x
       - 🇮🇳 印度 B46 | 浙江电信 | 2x
+      - 🇨🇦 加拿大 B40 | 浙江联通 | 2x
       - ----- 账号信息 -----
       - "登录邮箱: rpijfnw@f.lm"
       - "体验套餐: 剩余5天"
@@ -250,7 +250,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-06-03 21:24:46"
+      - "🏳️‍🌈 时间: 2023-06-03 23:11:32"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -268,13 +268,13 @@ proxy-groups:
       - DIRECT
       - 🚀 节点选择
       - "消息: 1条未读，在APP查看"
-      - 🇭🇰 香港 I2A | IEPL、上海联通、限时体验2小时 | 3x
-      - 🇭🇰 香港 I3A | IEPL、Telegram、限时体验2小时 | 3x
-      - 🇨🇳 台湾 I4A | 嘉兴联通、AWS、限时体验4小时 | 3x
-      - 🇰🇷 韩国 I6A | Netflix(KR)、ChatGPT、SVIP、限时体验4小时 | 3x
-      - 🇺🇸 美国 V1 | 上海电信、ChatGPT、SVIP、限时体验4小时 | 2x
-      - 🇸🇬 新加坡 V1 | 嘉兴联通、ChatGPT、SVIP、限时体验2小时 | 3x
-      - 🇺🇸 美国 M19 | 天津联通、Netflix(US)、限时体验2小时 | 3x
+      - 🇭🇰 香港 I2A | IEPL、上海联通、限时体验1小时 | 3x
+      - 🇭🇰 香港 I3A | IEPL、Telegram、限时体验1小时 | 3x
+      - 🇨🇳 台湾 I4A | 嘉兴联通、AWS、限时体验3小时 | 3x
+      - 🇰🇷 韩国 I6A | Netflix(KR)、ChatGPT、SVIP、限时体验3小时 | 3x
+      - 🇺🇸 美国 V1 | 上海电信、ChatGPT、SVIP、限时体验3小时 | 2x
+      - 🇸🇬 新加坡 V1 | 嘉兴联通、ChatGPT、SVIP、限时体验1小时 | 3x
+      - 🇺🇸 美国 M19 | 天津联通、Netflix(US)、限时体验1小时 | 3x
       - 🇯🇵 日本 W1 | 浙江联通、高配 | 3x
       - 🇭🇰 香港 W17 | 安徽移动 | 3x
       - 🇸🇬 新加坡 W55 | 浙江电信、高配 | 3x
@@ -283,12 +283,12 @@ proxy-groups:
       - 🇺🇸 美国 G22 | 深美电信 | 3x
       - 🇺🇸 美国 G29 | 深美电信 | 3x
       - 🇸🇬 菲律宾 B12 | 深美电信、新开机 | 2x
-      - 🇸🇬 阿根廷 B46 | 深美电信、新开机 | 2x
-      - 🇨🇦 加拿大 B40 | 浙江联通 | 2x
-      - 🇸🇬 印尼 B46 | 深美电信、新开机 | 1x
-      - 🇺🇸 越南 B60 | 深美电信、移动联通优化 | 2x
       - 🇸🇬 泰国 B29 | 深美电信、新开机 | 2x
+      - 🇺🇸 越南 B60 | 深美电信、移动联通优化 | 2x
+      - 🇸🇬 阿根廷 B46 | 深美电信、新开机 | 2x
+      - 🇸🇬 印尼 B46 | 深美电信、新开机 | 1x
       - 🇮🇳 印度 B46 | 浙江电信 | 2x
+      - 🇨🇦 加拿大 B40 | 浙江联通 | 2x
       - ----- 账号信息 -----
       - "登录邮箱: rpijfnw@f.lm"
       - "体验套餐: 剩余5天"
@@ -297,20 +297,20 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-06-03 21:24:46"
+      - "🏳️‍🌈 时间: 2023-06-03 23:11:32"
   - name: 🐟 漏网之鱼
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - "消息: 1条未读，在APP查看"
-      - 🇭🇰 香港 I2A | IEPL、上海联通、限时体验2小时 | 3x
-      - 🇭🇰 香港 I3A | IEPL、Telegram、限时体验2小时 | 3x
-      - 🇨🇳 台湾 I4A | 嘉兴联通、AWS、限时体验4小时 | 3x
-      - 🇰🇷 韩国 I6A | Netflix(KR)、ChatGPT、SVIP、限时体验4小时 | 3x
-      - 🇺🇸 美国 V1 | 上海电信、ChatGPT、SVIP、限时体验4小时 | 2x
-      - 🇸🇬 新加坡 V1 | 嘉兴联通、ChatGPT、SVIP、限时体验2小时 | 3x
-      - 🇺🇸 美国 M19 | 天津联通、Netflix(US)、限时体验2小时 | 3x
+      - 🇭🇰 香港 I2A | IEPL、上海联通、限时体验1小时 | 3x
+      - 🇭🇰 香港 I3A | IEPL、Telegram、限时体验1小时 | 3x
+      - 🇨🇳 台湾 I4A | 嘉兴联通、AWS、限时体验3小时 | 3x
+      - 🇰🇷 韩国 I6A | Netflix(KR)、ChatGPT、SVIP、限时体验3小时 | 3x
+      - 🇺🇸 美国 V1 | 上海电信、ChatGPT、SVIP、限时体验3小时 | 2x
+      - 🇸🇬 新加坡 V1 | 嘉兴联通、ChatGPT、SVIP、限时体验1小时 | 3x
+      - 🇺🇸 美国 M19 | 天津联通、Netflix(US)、限时体验1小时 | 3x
       - 🇯🇵 日本 W1 | 浙江联通、高配 | 3x
       - 🇭🇰 香港 W17 | 安徽移动 | 3x
       - 🇸🇬 新加坡 W55 | 浙江电信、高配 | 3x
@@ -319,12 +319,12 @@ proxy-groups:
       - 🇺🇸 美国 G22 | 深美电信 | 3x
       - 🇺🇸 美国 G29 | 深美电信 | 3x
       - 🇸🇬 菲律宾 B12 | 深美电信、新开机 | 2x
-      - 🇸🇬 阿根廷 B46 | 深美电信、新开机 | 2x
-      - 🇨🇦 加拿大 B40 | 浙江联通 | 2x
-      - 🇸🇬 印尼 B46 | 深美电信、新开机 | 1x
-      - 🇺🇸 越南 B60 | 深美电信、移动联通优化 | 2x
       - 🇸🇬 泰国 B29 | 深美电信、新开机 | 2x
+      - 🇺🇸 越南 B60 | 深美电信、移动联通优化 | 2x
+      - 🇸🇬 阿根廷 B46 | 深美电信、新开机 | 2x
+      - 🇸🇬 印尼 B46 | 深美电信、新开机 | 1x
       - 🇮🇳 印度 B46 | 浙江电信 | 2x
+      - 🇨🇦 加拿大 B40 | 浙江联通 | 2x
       - ----- 账号信息 -----
       - "登录邮箱: rpijfnw@f.lm"
       - "体验套餐: 剩余5天"
@@ -333,7 +333,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-06-03 21:24:46"
+      - "🏳️‍🌈 时间: 2023-06-03 23:11:32"
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
