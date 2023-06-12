@@ -7,31 +7,31 @@ external-controller: :9090
 proxies:
   - {name: "消息: 6条未读，在APP查看", server: 123.158.253.120, port: 28431, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇯🇵 日本 W2 | 嘉兴联通、高配 | 3x, server: 123.158.253.120, port: 28431, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇯🇵 日本 W1 | 深圳电信、动态IP、闲时可见 | 3x, server: 14.29.174.240, port: 25334, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 日本 W1 | 深圳电信、动态IP、闲时可见 | 3x, server: 121.11.102.36, port: 25334, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇭🇰 香港 W13 | 小带宽 | 3x, server: 183.213.200.206, port: 14571, type: trojan, password: rqSyzCgW1f, sni: y.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G04 | 嘉兴联通、高配 | 3x, server: 123.158.253.120, port: 21475, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G03 | 深圳电信 | 3x, server: 14.29.207.77, port: 23103, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国 G29 | 深美电信 | 3x, server: 101.91.161.115, port: 30187, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国 G22 | 深美电信 | 3x, server: 101.89.108.53, port: 30186, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇵🇭 菲律宾 B12 | 江苏移动 | 2x, server: 223.113.143.218, port: 33891, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇮🇩 印尼 B46 | 江苏移动 | 1x, server: 223.113.143.217, port: 33892, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国 G29 | 深美电信 | 3x, server: 101.89.185.130, port: 30187, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国 G22 | 深美电信 | 3x, server: 101.89.165.165, port: 30186, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇵🇭 菲律宾 B12 | 江苏移动 | 2x, server: 223.113.141.251, port: 33891, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇻🇳 越南 B60 | 江苏移动、移动联通优化 | 2x, server: 223.113.143.217, port: 33893, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇨🇦 加拿大 B40 | 深圳电信、闲时可见 | 2x, server: 121.11.102.36, port: 18140, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇹🇭 泰国 B29 | 江苏移动 | 2x, server: 223.113.143.217, port: 33890, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇦🇷 阿根廷 B46 | 深圳电信、闲时可见 | 2x, server: 121.11.102.36, port: 24548, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇹🇭 泰国 B29 | 江苏移动 | 2x, server: 223.113.143.217, port: 33890, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇮🇩 印尼 B46 | 江苏移动 | 1x, server: 223.113.143.217, port: 33892, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇮🇳 印度 B46 | 深圳电信 | 2x, server: 121.11.102.36, port: 21346, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇦 乌克兰 B11 | 深圳电信、ChatGPT、闲时可见 | 2x, server: 14.29.207.77, port: 30282, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇷🇺 俄罗斯 B75 | 深圳电信、闲时可见 | 2x, server: 14.29.174.240, port: 30183, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇦 加拿大 B40 | 深圳电信、闲时可见 | 2x, server: 121.11.102.36, port: 18140, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇦 乌克兰 B11 | 深圳电信、ChatGPT、闲时可见 | 2x, server: 121.11.102.36, port: 30282, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇺 俄罗斯 B75 | 深圳电信、闲时可见 | 2x, server: 14.29.207.77, port: 30183, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇩🇪 德国 B16 | 深圳电信、ChatGPT、闲时可见 | 2x, server: 121.11.102.36, port: 22116, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: ----- 账号信息 -----, server: 123.158.253.120, port: 28431, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "登录邮箱: pgijhae@f.lm", server: 123.158.253.120, port: 28431, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "体验套餐: 剩余3小时29分钟", server: 123.158.253.120, port: 28431, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "体验套餐: 剩余3小时11分钟", server: 123.158.253.120, port: 28431, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "🏳️‍🌈 流量重置: 每月7日 10G，剩余8G", server: 123.158.253.120, port: 28431, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: ----- 联系我们 -----, server: 123.158.253.120, port: 28431, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "电报: https://t.me/falemon_group", server: 123.158.253.120, port: 28431, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "邮箱: contact@falemon.com", server: 123.158.253.120, port: 28431, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "官网: falm.cc", server: 123.158.253.120, port: 28431, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2023-06-12 13:58:13", server: 123.158.253.120, port: 28431, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2023-06-12 14:16:58", server: 123.158.253.120, port: 28431, type: trojan, password: rqSyzCgW1f, sni: v.qq.com, skip-cert-verify: true, udp: true}
 # banner.yaml
 
 # 为lemonnode.yaml追加规则分流文件，合并整体订阅到lemonlite.yaml中。
