@@ -1,7 +1,7 @@
 on:
   push:
   pull_request_target:
-    branches: [master]
+    branches: [main]
 name: Mirror Github to Gitee with white list
 jobs:
   run:
@@ -11,7 +11,7 @@ jobs:
     - name: Checkout source codes
       uses: actions/checkout@v1
     - name: Mirror Github to Gitee with white list
-      uses: fqw000/lemon@master
+      uses: fqw000/lemon@main
       with:
         src: github.com/fqw000
         dst: gitee.com/neteasy
