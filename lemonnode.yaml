@@ -9,15 +9,15 @@ proxies:
   - {name: 🇯🇵 日本 W2 | 嘉兴联通、高配 | 3x, server: 123.158.253.120, port: 28432, type: trojan, password: YlwHsSFGIt, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇭🇰 香港 W17 | 小带宽 | 3x, server: 183.213.200.225, port: 14551, type: trojan, password: YlwHsSFGIt, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 新加坡 W55 | 深圳电信、高配 | 3x, server: 121.11.102.36, port: 26136, type: trojan, password: YlwHsSFGIt, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国 G04 | 嘉兴联通、高配 | 3x, server: 123.158.253.237, port: 21475, type: trojan, password: YlwHsSFGIt, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国 G97 | 深圳电信 | 3x, server: 121.11.102.36, port: 26597, type: trojan, password: YlwHsSFGIt, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国 G22 | 深美电信 | 3x, server: 101.89.185.130, port: 30186, type: trojan, password: YlwHsSFGIt, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国 G29 | 深美电信 | 3x, server: 218.78.98.222, port: 30187, type: trojan, password: YlwHsSFGIt, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇹🇭 泰国 B29 | 江苏移动 | 2x, server: 223.113.143.218, port: 33890, type: trojan, password: YlwHsSFGIt, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国 G04 | 嘉兴联通、高配 | 3x, server: 123.158.253.120, port: 21475, type: trojan, password: YlwHsSFGIt, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国 G97 | 深圳电信 | 3x, server: 14.29.207.77, port: 26597, type: trojan, password: YlwHsSFGIt, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国 G22 | 深美电信 | 3x, server: 101.89.144.3, port: 30186, type: trojan, password: YlwHsSFGIt, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国 G29 | 深美电信 | 3x, server: 101.89.165.165, port: 30187, type: trojan, password: YlwHsSFGIt, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇮🇳 印度 B46 | 深圳电信 | 2x, server: 14.29.174.240, port: 21346, type: trojan, password: YlwHsSFGIt, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇵🇭 菲律宾 B12 | 江苏移动 | 2x, server: 223.113.143.217, port: 33891, type: trojan, password: YlwHsSFGIt, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇹🇭 泰国 B29 | 江苏移动 | 2x, server: 223.113.143.218, port: 33890, type: trojan, password: YlwHsSFGIt, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇵🇭 菲律宾 B12 | 江苏移动 | 2x, server: 223.113.141.251, port: 33891, type: trojan, password: YlwHsSFGIt, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇮🇩 印尼 B46 | 江苏移动 | 1x, server: 223.113.143.217, port: 33892, type: trojan, password: YlwHsSFGIt, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇻🇳 越南 B60 | 江苏移动、移动联通优化 | 2x, server: 223.113.143.217, port: 33893, type: trojan, password: YlwHsSFGIt, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇻🇳 越南 B60 | 江苏移动、移动联通优化 | 2x, server: 223.113.141.251, port: 33893, type: trojan, password: YlwHsSFGIt, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: ----- 账号信息 -----, server: 123.158.253.120, port: 28432, type: trojan, password: YlwHsSFGIt, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "登录邮箱: sdijgpt@f.lm", server: 123.158.253.120, port: 28432, type: trojan, password: YlwHsSFGIt, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "体验套餐: 剩余3天", server: 123.158.253.120, port: 28432, type: trojan, password: YlwHsSFGIt, sni: v.qq.com, skip-cert-verify: true, udp: true}
@@ -26,4 +26,4 @@ proxies:
   - {name: "电报: https://t.me/falemon_group", server: 123.158.253.120, port: 28432, type: trojan, password: YlwHsSFGIt, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "邮箱: contact@falemon.com", server: 123.158.253.120, port: 28432, type: trojan, password: YlwHsSFGIt, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "官网: falm.cc", server: 123.158.253.120, port: 28432, type: trojan, password: YlwHsSFGIt, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2023-06-14 17:12:06", server: 123.158.253.120, port: 28432, type: trojan, password: YlwHsSFGIt, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2023-06-14 20:26:25", server: 123.158.253.120, port: 28432, type: trojan, password: YlwHsSFGIt, sni: v.qq.com, skip-cert-verify: true, udp: true}
