@@ -326,5 +326,12 @@ rules:
 
   - DOMAIN,clash.razord.top,DIRECT
   - DOMAIN,yacd.haishan.me,DIRECT
+
+  - DOMAIN-SUFFIX,adrise.tv,🚀 节点选择
+  - DOMAIN-SUFFIX,tubi.tv,🚀 节点选择
+  - DOMAIN-SUFFIX,tubi.io,🚀 节点选择
+  - DOMAIN-SUFFIX,tubi.video,🚀 节点选择
+  - DOMAIN-SUFFIX,tubitv.com,🚀 节点选择
+
   - RULE-SET,gfw,🚀 节点选择
   - MATCH,🐟 兜底策略
