@@ -5,26 +5,29 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: "消息: 3条未读，在APP查看", server: 121.11.102.36, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇯🇵 日本 W2 | 深圳电信、高配 | 3x, server: 121.11.102.36, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "消息: 3条未读，在APP查看", server: 14.29.174.240, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 日本 W2 | 深圳电信、高配 | 3x, server: 14.29.174.240, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇯🇵 日本 W1 | 深圳电信、动态IP、闲时可见 | 3x, server: 14.29.207.77, port: 25334, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇭🇰 香港 W17 | 小带宽 | 3x, server: 180.103.119.186, port: 14551, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇬 新加坡 W55 | 深圳电信、高配 | 3x, server: 121.11.102.36, port: 26136, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 香港 W17 | 小带宽 | 3x, server: 117.80.144.131, port: 14551, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G04 | 深圳电信、高配 | 3x, server: 14.29.174.240, port: 21475, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G97 | 直连 | 3x, server: 164.90.147.194, port: 11111, type: trojan, password: jDy6l3PnVM, sni: g97b.ft4.xyz, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国 G22 | 沪美电信 | 3x, server: 101.89.144.3, port: 30186, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G29 | 沪美电信 | 3x, server: 101.89.108.53, port: 30187, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国 G22 | 沪美电信 | 3x, server: 101.89.144.3, port: 30186, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 泰国 B29 | 沪台隧道 | 2x, server: 139.227.182.57, port: 31008, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇦 加拿大 B40 | 深圳电信、闲时可见 | 2x, server: 14.29.207.77, port: 18140, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 越南 B60 | 沪台隧道 | 3x, server: 139.227.182.57, port: 31011, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 菲律宾 B12 | 沪台隧道 | 2x, server: 139.227.182.57, port: 31009, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 印度 B46 | 沪台隧道 | 2x, server: 139.227.182.57, port: 31007, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇦🇷 阿根廷 B46 | 深圳电信、闲时可见 | 2x, server: 14.29.207.77, port: 24548, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇨🇦 加拿大 B40 | 深圳电信、闲时可见 | 2x, server: 14.29.174.240, port: 18140, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇦 乌克兰 B11 | 深圳电信、ChatGPT、闲时可见 | 2x, server: 14.29.174.240, port: 30282, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇷🇺 俄罗斯 B75 | 深圳电信、闲时可见 | 2x, server: 121.11.102.36, port: 30183, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇩🇪 德国 B16 | 深圳电信、ChatGPT、闲时可见 | 2x, server: 14.29.174.240, port: 22116, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: ----- 账号信息 -----, server: 121.11.102.36, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "登录邮箱: qvijphp@f.lm", server: 121.11.102.36, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "体验套餐: 剩余4天", server: 121.11.102.36, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 流量重置: 每月18日 10G，剩余7G", server: 121.11.102.36, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: ----- 联系我们 -----, server: 121.11.102.36, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "电报: https://t.me/falemon_group", server: 121.11.102.36, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "邮箱: contact@falemon.com", server: 121.11.102.36, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "官网: falm.cc", server: 121.11.102.36, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2023-06-19 11:13:45", server: 121.11.102.36, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 印尼 B46 | 沪台隧道 | 3x, server: 139.227.182.57, port: 31010, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇦 乌克兰 B11 | 深圳电信、ChatGPT、闲时可见 | 2x, server: 14.29.207.77, port: 30282, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇩🇪 德国 B16 | 深圳电信、ChatGPT、闲时可见 | 2x, server: 121.11.102.36, port: 22116, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: ----- 账号信息 -----, server: 14.29.174.240, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "登录邮箱: qvijphp@f.lm", server: 14.29.174.240, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "体验套餐: 剩余4天", server: 14.29.174.240, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 流量重置: 每月18日 10G，剩余7G", server: 14.29.174.240, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: ----- 联系我们 -----, server: 14.29.174.240, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "电报: https://t.me/falemon_group", server: 14.29.174.240, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "邮箱: contact@falemon.com", server: 14.29.174.240, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "官网: falm.cc", server: 14.29.174.240, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2023-06-19 14:17:22", server: 14.29.174.240, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
