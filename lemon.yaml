@@ -5,40 +5,38 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: "消息: 5条未读，在APP查看", server: 218.78.98.222, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇯🇵 日本 W2 | 沪美电信、高配 | 3x, server: 218.78.98.222, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇯🇵 日本 W1 | 深圳电信、动态IP、闲时可见 | 3x, server: 14.29.225.243, port: 25334, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "消息: 5条未读，在APP查看", server: 121.11.102.36, port: 25334, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 日本 W1 | 深圳电信、动态IP、闲时可见 | 3x, server: 121.11.102.36, port: 25334, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇭🇰 香港 W17 | 小带宽 | 3x, server: 180.103.124.220, port: 14551, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇬 新加坡 W55 | 沪美电信、高配 | 3x, server: 218.78.98.222, port: 26136, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 新加坡 W55 | 沪美电信、高配 | 3x, server: 101.89.185.130, port: 26136, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G97 | 直连 | 3x, server: 164.90.147.194, port: 11111, type: trojan, password: jDy6l3PnVM, sni: g97b.ft4.xyz, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G04 | 深圳电信、高配 | 3x, server: 14.29.174.240, port: 21475, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国 G29 | 沪美电信 | 3x, server: 101.89.144.3, port: 30187, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国 G22 | 沪美电信 | 3x, server: 101.89.144.3, port: 30186, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇨🇦 加拿大 B40 | 深圳电信、闲时可见 | 2x, server: 14.29.225.243, port: 18140, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国 G29 | 沪美电信 | 3x, server: 101.89.165.165, port: 30187, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国 G22 | 沪美电信 | 3x, server: 101.89.185.130, port: 30186, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇦🇷 阿根廷 B46 | 深圳电信、闲时可见 | 2x, server: 14.29.225.243, port: 24548, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇨🇳 印度 B46 | 沪台隧道 | 2x, server: 139.227.182.57, port: 31007, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 菲律宾 B12 | 沪台隧道 | 2x, server: 139.227.182.57, port: 31009, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇨🇳 泰国 B29 | 沪台隧道 | 2x, server: 139.227.182.57, port: 31008, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇨🇳 印尼 B46 | 沪台隧道 | 3x, server: 139.227.182.57, port: 31010, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇨🇳 菲律宾 B12 | 沪台隧道 | 2x, server: 139.227.182.57, port: 31009, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇨🇳 越南 B60 | 沪台隧道 | 3x, server: 139.227.182.57, port: 31011, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇦🇷 阿根廷 B46 | 深圳电信、闲时可见 | 2x, server: 14.29.225.243, port: 24548, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇦 乌克兰 B11 | 深圳电信、ChatGPT、闲时可见 | 2x, server: 14.29.225.243, port: 30282, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇷🇺 俄罗斯 B75 | 深圳电信、闲时可见 | 2x, server: 121.11.102.36, port: 30183, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇩🇪 德国 B16 | 深圳电信、ChatGPT、闲时可见 | 2x, server: 14.29.174.240, port: 22116, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: ----- 账号信息 -----, server: 218.78.98.222, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "登录邮箱: qvijphp@f.lm", server: 218.78.98.222, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "体验套餐: 剩余2天", server: 218.78.98.222, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 流量重置: 每月18日 10G，剩余6G", server: 218.78.98.222, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: ----- 联系我们 -----, server: 218.78.98.222, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "电报: https://t.me/falemon_group", server: 218.78.98.222, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "邮箱: contact@falemon.com", server: 218.78.98.222, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "官网: falm.cc", server: 218.78.98.222, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2023-06-21 02:14:33", server: 218.78.98.222, port: 28432, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇦 加拿大 B40 | 深圳电信、闲时可见 | 2x, server: 14.29.174.240, port: 18140, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇦 乌克兰 B11 | 深圳电信、ChatGPT、闲时可见 | 2x, server: 14.29.174.240, port: 30282, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇺 俄罗斯 B75 | 深圳电信、闲时可见 | 2x, server: 14.29.174.240, port: 30183, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇩🇪 德国 B16 | 深圳电信、ChatGPT、闲时可见 | 2x, server: 121.11.102.36, port: 22116, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: ----- 账号信息 -----, server: 121.11.102.36, port: 25334, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "登录邮箱: qvijphp@f.lm", server: 121.11.102.36, port: 25334, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "体验套餐: 剩余2天", server: 121.11.102.36, port: 25334, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 流量重置: 每月18日 10G，剩余6G", server: 121.11.102.36, port: 25334, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: ----- 联系我们 -----, server: 121.11.102.36, port: 25334, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "电报: https://t.me/falemon_group", server: 121.11.102.36, port: 25334, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "邮箱: contact@falemon.com", server: 121.11.102.36, port: 25334, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "官网: falm.cc", server: 121.11.102.36, port: 25334, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2023-06-21 05:10:33", server: 121.11.102.36, port: 25334, type: trojan, password: jDy6l3PnVM, sni: v.qq.com, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - "消息: 5条未读，在APP查看"
-      - 🇯🇵 日本 W2 | 沪美电信、高配 | 3x
       - 🇯🇵 日本 W1 | 深圳电信、动态IP、闲时可见 | 3x
       - 🇭🇰 香港 W17 | 小带宽 | 3x
       - 🇸🇬 新加坡 W55 | 沪美电信、高配 | 3x
@@ -46,13 +44,13 @@ proxy-groups:
       - 🇺🇸 美国 G04 | 深圳电信、高配 | 3x
       - 🇺🇸 美国 G29 | 沪美电信 | 3x
       - 🇺🇸 美国 G22 | 沪美电信 | 3x
-      - 🇨🇦 加拿大 B40 | 深圳电信、闲时可见 | 2x
+      - 🇦🇷 阿根廷 B46 | 深圳电信、闲时可见 | 2x
       - 🇨🇳 印度 B46 | 沪台隧道 | 2x
+      - 🇨🇳 菲律宾 B12 | 沪台隧道 | 2x
       - 🇨🇳 泰国 B29 | 沪台隧道 | 2x
       - 🇨🇳 印尼 B46 | 沪台隧道 | 3x
-      - 🇨🇳 菲律宾 B12 | 沪台隧道 | 2x
       - 🇨🇳 越南 B60 | 沪台隧道 | 3x
-      - 🇦🇷 阿根廷 B46 | 深圳电信、闲时可见 | 2x
+      - 🇨🇦 加拿大 B40 | 深圳电信、闲时可见 | 2x
       - 🇺🇦 乌克兰 B11 | 深圳电信、ChatGPT、闲时可见 | 2x
       - 🇷🇺 俄罗斯 B75 | 深圳电信、闲时可见 | 2x
       - 🇩🇪 德国 B16 | 深圳电信、ChatGPT、闲时可见 | 2x
@@ -64,14 +62,13 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-06-21 02:14:33"
+      - "🏳️‍🌈 时间: 2023-06-21 05:10:33"
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - "消息: 5条未读，在APP查看"
-      - 🇯🇵 日本 W2 | 沪美电信、高配 | 3x
       - 🇯🇵 日本 W1 | 深圳电信、动态IP、闲时可见 | 3x
       - 🇭🇰 香港 W17 | 小带宽 | 3x
       - 🇸🇬 新加坡 W55 | 沪美电信、高配 | 3x
@@ -79,13 +76,13 @@ proxy-groups:
       - 🇺🇸 美国 G04 | 深圳电信、高配 | 3x
       - 🇺🇸 美国 G29 | 沪美电信 | 3x
       - 🇺🇸 美国 G22 | 沪美电信 | 3x
-      - 🇨🇦 加拿大 B40 | 深圳电信、闲时可见 | 2x
+      - 🇦🇷 阿根廷 B46 | 深圳电信、闲时可见 | 2x
       - 🇨🇳 印度 B46 | 沪台隧道 | 2x
+      - 🇨🇳 菲律宾 B12 | 沪台隧道 | 2x
       - 🇨🇳 泰国 B29 | 沪台隧道 | 2x
       - 🇨🇳 印尼 B46 | 沪台隧道 | 3x
-      - 🇨🇳 菲律宾 B12 | 沪台隧道 | 2x
       - 🇨🇳 越南 B60 | 沪台隧道 | 3x
-      - 🇦🇷 阿根廷 B46 | 深圳电信、闲时可见 | 2x
+      - 🇨🇦 加拿大 B40 | 深圳电信、闲时可见 | 2x
       - 🇺🇦 乌克兰 B11 | 深圳电信、ChatGPT、闲时可见 | 2x
       - 🇷🇺 俄罗斯 B75 | 深圳电信、闲时可见 | 2x
       - 🇩🇪 德国 B16 | 深圳电信、ChatGPT、闲时可见 | 2x
@@ -97,14 +94,13 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-06-21 02:14:33"
+      - "🏳️‍🌈 时间: 2023-06-21 05:10:33"
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - "消息: 5条未读，在APP查看"
-      - 🇯🇵 日本 W2 | 沪美电信、高配 | 3x
       - 🇯🇵 日本 W1 | 深圳电信、动态IP、闲时可见 | 3x
       - 🇭🇰 香港 W17 | 小带宽 | 3x
       - 🇸🇬 新加坡 W55 | 沪美电信、高配 | 3x
@@ -112,13 +108,13 @@ proxy-groups:
       - 🇺🇸 美国 G04 | 深圳电信、高配 | 3x
       - 🇺🇸 美国 G29 | 沪美电信 | 3x
       - 🇺🇸 美国 G22 | 沪美电信 | 3x
-      - 🇨🇦 加拿大 B40 | 深圳电信、闲时可见 | 2x
+      - 🇦🇷 阿根廷 B46 | 深圳电信、闲时可见 | 2x
       - 🇨🇳 印度 B46 | 沪台隧道 | 2x
+      - 🇨🇳 菲律宾 B12 | 沪台隧道 | 2x
       - 🇨🇳 泰国 B29 | 沪台隧道 | 2x
       - 🇨🇳 印尼 B46 | 沪台隧道 | 3x
-      - 🇨🇳 菲律宾 B12 | 沪台隧道 | 2x
       - 🇨🇳 越南 B60 | 沪台隧道 | 3x
-      - 🇦🇷 阿根廷 B46 | 深圳电信、闲时可见 | 2x
+      - 🇨🇦 加拿大 B40 | 深圳电信、闲时可见 | 2x
       - 🇺🇦 乌克兰 B11 | 深圳电信、ChatGPT、闲时可见 | 2x
       - 🇷🇺 俄罗斯 B75 | 深圳电信、闲时可见 | 2x
       - 🇩🇪 德国 B16 | 深圳电信、ChatGPT、闲时可见 | 2x
@@ -130,14 +126,13 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-06-21 02:14:33"
+      - "🏳️‍🌈 时间: 2023-06-21 05:10:33"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
       - "消息: 5条未读，在APP查看"
-      - 🇯🇵 日本 W2 | 沪美电信、高配 | 3x
       - 🇯🇵 日本 W1 | 深圳电信、动态IP、闲时可见 | 3x
       - 🇭🇰 香港 W17 | 小带宽 | 3x
       - 🇸🇬 新加坡 W55 | 沪美电信、高配 | 3x
@@ -145,13 +140,13 @@ proxy-groups:
       - 🇺🇸 美国 G04 | 深圳电信、高配 | 3x
       - 🇺🇸 美国 G29 | 沪美电信 | 3x
       - 🇺🇸 美国 G22 | 沪美电信 | 3x
-      - 🇨🇦 加拿大 B40 | 深圳电信、闲时可见 | 2x
+      - 🇦🇷 阿根廷 B46 | 深圳电信、闲时可见 | 2x
       - 🇨🇳 印度 B46 | 沪台隧道 | 2x
+      - 🇨🇳 菲律宾 B12 | 沪台隧道 | 2x
       - 🇨🇳 泰国 B29 | 沪台隧道 | 2x
       - 🇨🇳 印尼 B46 | 沪台隧道 | 3x
-      - 🇨🇳 菲律宾 B12 | 沪台隧道 | 2x
       - 🇨🇳 越南 B60 | 沪台隧道 | 3x
-      - 🇦🇷 阿根廷 B46 | 深圳电信、闲时可见 | 2x
+      - 🇨🇦 加拿大 B40 | 深圳电信、闲时可见 | 2x
       - 🇺🇦 乌克兰 B11 | 深圳电信、ChatGPT、闲时可见 | 2x
       - 🇷🇺 俄罗斯 B75 | 深圳电信、闲时可见 | 2x
       - 🇩🇪 德国 B16 | 深圳电信、ChatGPT、闲时可见 | 2x
@@ -163,14 +158,13 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-06-21 02:14:33"
+      - "🏳️‍🌈 时间: 2023-06-21 05:10:33"
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - "消息: 5条未读，在APP查看"
-      - 🇯🇵 日本 W2 | 沪美电信、高配 | 3x
       - 🇯🇵 日本 W1 | 深圳电信、动态IP、闲时可见 | 3x
       - 🇭🇰 香港 W17 | 小带宽 | 3x
       - 🇸🇬 新加坡 W55 | 沪美电信、高配 | 3x
@@ -178,13 +172,13 @@ proxy-groups:
       - 🇺🇸 美国 G04 | 深圳电信、高配 | 3x
       - 🇺🇸 美国 G29 | 沪美电信 | 3x
       - 🇺🇸 美国 G22 | 沪美电信 | 3x
-      - 🇨🇦 加拿大 B40 | 深圳电信、闲时可见 | 2x
+      - 🇦🇷 阿根廷 B46 | 深圳电信、闲时可见 | 2x
       - 🇨🇳 印度 B46 | 沪台隧道 | 2x
+      - 🇨🇳 菲律宾 B12 | 沪台隧道 | 2x
       - 🇨🇳 泰国 B29 | 沪台隧道 | 2x
       - 🇨🇳 印尼 B46 | 沪台隧道 | 3x
-      - 🇨🇳 菲律宾 B12 | 沪台隧道 | 2x
       - 🇨🇳 越南 B60 | 沪台隧道 | 3x
-      - 🇦🇷 阿根廷 B46 | 深圳电信、闲时可见 | 2x
+      - 🇨🇦 加拿大 B40 | 深圳电信、闲时可见 | 2x
       - 🇺🇦 乌克兰 B11 | 深圳电信、ChatGPT、闲时可见 | 2x
       - 🇷🇺 俄罗斯 B75 | 深圳电信、闲时可见 | 2x
       - 🇩🇪 德国 B16 | 深圳电信、ChatGPT、闲时可见 | 2x
@@ -196,14 +190,13 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-06-21 02:14:33"
+      - "🏳️‍🌈 时间: 2023-06-21 05:10:33"
   - name: 📢 谷歌FCM
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - "消息: 5条未读，在APP查看"
-      - 🇯🇵 日本 W2 | 沪美电信、高配 | 3x
       - 🇯🇵 日本 W1 | 深圳电信、动态IP、闲时可见 | 3x
       - 🇭🇰 香港 W17 | 小带宽 | 3x
       - 🇸🇬 新加坡 W55 | 沪美电信、高配 | 3x
@@ -211,13 +204,13 @@ proxy-groups:
       - 🇺🇸 美国 G04 | 深圳电信、高配 | 3x
       - 🇺🇸 美国 G29 | 沪美电信 | 3x
       - 🇺🇸 美国 G22 | 沪美电信 | 3x
-      - 🇨🇦 加拿大 B40 | 深圳电信、闲时可见 | 2x
+      - 🇦🇷 阿根廷 B46 | 深圳电信、闲时可见 | 2x
       - 🇨🇳 印度 B46 | 沪台隧道 | 2x
+      - 🇨🇳 菲律宾 B12 | 沪台隧道 | 2x
       - 🇨🇳 泰国 B29 | 沪台隧道 | 2x
       - 🇨🇳 印尼 B46 | 沪台隧道 | 3x
-      - 🇨🇳 菲律宾 B12 | 沪台隧道 | 2x
       - 🇨🇳 越南 B60 | 沪台隧道 | 3x
-      - 🇦🇷 阿根廷 B46 | 深圳电信、闲时可见 | 2x
+      - 🇨🇦 加拿大 B40 | 深圳电信、闲时可见 | 2x
       - 🇺🇦 乌克兰 B11 | 深圳电信、ChatGPT、闲时可见 | 2x
       - 🇷🇺 俄罗斯 B75 | 深圳电信、闲时可见 | 2x
       - 🇩🇪 德国 B16 | 深圳电信、ChatGPT、闲时可见 | 2x
@@ -229,7 +222,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-06-21 02:14:33"
+      - "🏳️‍🌈 时间: 2023-06-21 05:10:33"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -247,7 +240,6 @@ proxy-groups:
       - DIRECT
       - 🚀 节点选择
       - "消息: 5条未读，在APP查看"
-      - 🇯🇵 日本 W2 | 沪美电信、高配 | 3x
       - 🇯🇵 日本 W1 | 深圳电信、动态IP、闲时可见 | 3x
       - 🇭🇰 香港 W17 | 小带宽 | 3x
       - 🇸🇬 新加坡 W55 | 沪美电信、高配 | 3x
@@ -255,13 +247,13 @@ proxy-groups:
       - 🇺🇸 美国 G04 | 深圳电信、高配 | 3x
       - 🇺🇸 美国 G29 | 沪美电信 | 3x
       - 🇺🇸 美国 G22 | 沪美电信 | 3x
-      - 🇨🇦 加拿大 B40 | 深圳电信、闲时可见 | 2x
+      - 🇦🇷 阿根廷 B46 | 深圳电信、闲时可见 | 2x
       - 🇨🇳 印度 B46 | 沪台隧道 | 2x
+      - 🇨🇳 菲律宾 B12 | 沪台隧道 | 2x
       - 🇨🇳 泰国 B29 | 沪台隧道 | 2x
       - 🇨🇳 印尼 B46 | 沪台隧道 | 3x
-      - 🇨🇳 菲律宾 B12 | 沪台隧道 | 2x
       - 🇨🇳 越南 B60 | 沪台隧道 | 3x
-      - 🇦🇷 阿根廷 B46 | 深圳电信、闲时可见 | 2x
+      - 🇨🇦 加拿大 B40 | 深圳电信、闲时可见 | 2x
       - 🇺🇦 乌克兰 B11 | 深圳电信、ChatGPT、闲时可见 | 2x
       - 🇷🇺 俄罗斯 B75 | 深圳电信、闲时可见 | 2x
       - 🇩🇪 德国 B16 | 深圳电信、ChatGPT、闲时可见 | 2x
@@ -273,14 +265,13 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-06-21 02:14:33"
+      - "🏳️‍🌈 时间: 2023-06-21 05:10:33"
   - name: 🐟 漏网之鱼
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - "消息: 5条未读，在APP查看"
-      - 🇯🇵 日本 W2 | 沪美电信、高配 | 3x
       - 🇯🇵 日本 W1 | 深圳电信、动态IP、闲时可见 | 3x
       - 🇭🇰 香港 W17 | 小带宽 | 3x
       - 🇸🇬 新加坡 W55 | 沪美电信、高配 | 3x
@@ -288,13 +279,13 @@ proxy-groups:
       - 🇺🇸 美国 G04 | 深圳电信、高配 | 3x
       - 🇺🇸 美国 G29 | 沪美电信 | 3x
       - 🇺🇸 美国 G22 | 沪美电信 | 3x
-      - 🇨🇦 加拿大 B40 | 深圳电信、闲时可见 | 2x
+      - 🇦🇷 阿根廷 B46 | 深圳电信、闲时可见 | 2x
       - 🇨🇳 印度 B46 | 沪台隧道 | 2x
+      - 🇨🇳 菲律宾 B12 | 沪台隧道 | 2x
       - 🇨🇳 泰国 B29 | 沪台隧道 | 2x
       - 🇨🇳 印尼 B46 | 沪台隧道 | 3x
-      - 🇨🇳 菲律宾 B12 | 沪台隧道 | 2x
       - 🇨🇳 越南 B60 | 沪台隧道 | 3x
-      - 🇦🇷 阿根廷 B46 | 深圳电信、闲时可见 | 2x
+      - 🇨🇦 加拿大 B40 | 深圳电信、闲时可见 | 2x
       - 🇺🇦 乌克兰 B11 | 深圳电信、ChatGPT、闲时可见 | 2x
       - 🇷🇺 俄罗斯 B75 | 深圳电信、闲时可见 | 2x
       - 🇩🇪 德国 B16 | 深圳电信、ChatGPT、闲时可见 | 2x
@@ -306,7 +297,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-06-21 02:14:33"
+      - "🏳️‍🌈 时间: 2023-06-21 05:10:33"
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
