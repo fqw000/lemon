@@ -15,11 +15,10 @@ proxies:
   - {name: 🇺🇸 美国 G97 | 直连 | 3x, server: 164.90.147.194, port: 11111, type: trojan, password: 2z76lfRkj6, sni: g97b.ft4.xyz, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G04 | 上海电信、高配、闲时可见 | 3x, server: 101.89.166.211, port: 21475, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G29 | 上海电信 | 3x, server: 101.89.166.211, port: 30187, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇨🇦 加拿大 B40 | 上海电信、闲时可见 | 2x, server: 101.89.166.211, port: 18140, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇨🇳 菲律宾 B12 | 沪台隧道 | 2x, server: 139.227.182.57, port: 31009, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇻🇳 越南 B60 | 上海电信、闲时可见 | 3x, server: 101.89.166.211, port: 31011, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇮🇩 印尼 B46 | 上海电信、闲时可见 | 3x, server: 101.89.166.211, port: 31010, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇦🇷 阿根廷 B46 | 上海电信、闲时可见 | 2x, server: 101.89.166.211, port: 24548, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇻🇳 越南 B60 | 上海电信、闲时可见 | 3x, server: 101.89.166.211, port: 31011, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇦 加拿大 B40 | 上海电信、闲时可见 | 2x, server: 101.89.166.211, port: 18140, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇦 乌克兰 B11 | 上海电信、ChatGPT、闲时可见 | 2x, server: 101.89.166.211, port: 30282, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇷🇺 俄罗斯 B75 | 上海电信、闲时可见 | 2x, server: 101.89.166.211, port: 30183, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇩🇪 德国 B16 | 上海电信、ChatGPT、闲时可见 | 2x, server: 101.89.166.211, port: 22116, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
@@ -31,7 +30,7 @@ proxies:
   - {name: "电报: https://t.me/falemon_group", server: 101.89.166.211, port: 28432, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "邮箱: contact@falemon.com", server: 101.89.166.211, port: 28432, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "官网: falm.cc", server: 101.89.166.211, port: 28432, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2023-06-25 02:19:17", server: 101.89.166.211, port: 28432, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2023-06-25 05:16:22", server: 101.89.166.211, port: 28432, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
 # banner.yaml
 
 # 为lemonnode.yaml追加规则分流文件，合并整体订阅到lemonlite.yaml中。
