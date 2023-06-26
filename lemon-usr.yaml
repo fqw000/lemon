@@ -333,5 +333,11 @@ rules:
   - DOMAIN-SUFFIX,tubi.video,🚀 节点选择
   - DOMAIN-SUFFIX,tubitv.com,🚀 节点选择
 
+  - DOMAIN-SUFFIX,opensource.guide,🚀 节点选择
+  - DOMAIN-SUFFIX,rawgit.com,🚀 节点选择
+  - DOMAIN-SUFFIX,rawgithub.com,🚀 节点选择
+  - DOMAIN-SUFFIX,repo.new,🚀 节点选择
+  - DOMAIN-SUFFIX,git.io,🚀 节点选择
+
   - RULE-SET,gfw,🚀 节点选择
   - MATCH,🐟 兜底策略
