@@ -13,17 +13,17 @@ proxies:
   - {name: 🇺🇸 美国 G97 | 直连 | 3x, server: 164.90.147.194, port: 11111, type: trojan, password: 2z76lfRkj6, sni: g97b.ft4.xyz, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G29 | 上海电信 | 3x, server: 101.89.166.211, port: 30187, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇵🇭 菲律宾 B12 | 上海电信 | 2x, server: 101.89.166.211, port: 31009, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇮🇳 印度 B46 | 上海电信、ChatGPT | 2x, server: 101.89.166.211, port: 31007, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇹🇭 泰国 B29 | 上海电信 | 2x, server: 101.89.166.211, port: 31008, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇮🇳 印度 B46 | 上海电信、ChatGPT | 2x, server: 101.89.166.211, port: 31007, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: ----- 账号信息 -----, server: 101.89.166.211, port: 28432, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "登录账号: rhijfnf@f.lm", server: 101.89.166.211, port: 28432, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "体验套餐: 剩余2天", server: 101.89.166.211, port: 28432, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 流量重置: 每月23日 10G，剩余3G", server: 101.89.166.211, port: 28432, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "体验套餐: 剩余1天", server: 101.89.166.211, port: 28432, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 流量重置: 每月23日 10G，剩余2G", server: 101.89.166.211, port: 28432, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: ----- 联系我们 -----, server: 101.89.166.211, port: 28432, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "电报: https://t.me/falemon_group", server: 101.89.166.211, port: 28432, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "邮箱: contact@falemon.com", server: 101.89.166.211, port: 28432, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "官网: falm.cc", server: 101.89.166.211, port: 28432, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2023-06-26 20:31:23", server: 101.89.166.211, port: 28432, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2023-06-26 23:16:03", server: 101.89.166.211, port: 28432, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
 # banner.yaml
 
 # 为lemonnode.yaml追加规则分流文件，合并整体订阅到lemonlite.yaml中。
