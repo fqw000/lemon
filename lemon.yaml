@@ -7,6 +7,7 @@ external-controller: :9090
 proxies:
   - {name: "消息: 5条未读，在APP查看", server: 101.89.166.211, port: 28432, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇯🇵 日本 W2 | 上海电信、高配 | 3x, server: 101.89.166.211, port: 28432, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 日本 W1 | 上海电信、动态IP、闲时可见 | 3x, server: 101.89.166.211, port: 25334, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇭🇰 香港 W17 | 小带宽 | 3x, server: 101.89.166.211, port: 14551, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 新加坡 W51 | 直连、高配、新开机 | 2x, server: 167.71.211.251, port: 11251, type: trojan, password: 2z76lfRkj6, sni: w624a.ft4.xyz, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 新加坡 W55 | 上海电信、高配、闲时可见 | 3x, server: 101.89.166.211, port: 26136, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
@@ -15,14 +16,12 @@ proxies:
   - {name: 🇺🇸 美国 G04 | 上海电信、高配、闲时可见 | 3x, server: 101.89.166.211, port: 21475, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G29 | 上海电信 | 3x, server: 101.89.166.211, port: 30187, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇦🇷 阿根廷 B46 | 上海电信、闲时可见 | 2x, server: 101.89.166.211, port: 24548, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇵🇭 菲律宾 B12 | 上海电信 | 2x, server: 101.89.166.211, port: 31009, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇹🇭 泰国 B29 | 上海电信 | 2x, server: 101.89.166.211, port: 31008, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇮🇳 印度 B46 | 上海电信、ChatGPT | 2x, server: 101.89.166.211, port: 31007, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇮🇩 印尼 B46 | 上海电信、ChatGPT(原生)、闲时可见 | 3x, server: 101.89.166.211, port: 31010, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇨🇦 加拿大 B40 | 上海电信、闲时可见 | 2x, server: 101.89.166.211, port: 18140, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇻🇳 越南 B60 | 上海电信、ChatGPT(原生)、闲时可见 | 3x, server: 101.89.166.211, port: 31011, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇵🇭 菲律宾 B12 | 上海电信 | 2x, server: 101.89.166.211, port: 31009, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇮🇩 印尼 B46 | 上海电信、ChatGPT(原生)、闲时可见 | 3x, server: 101.89.166.211, port: 31010, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇮🇳 印度 B46 | 上海电信、ChatGPT | 2x, server: 101.89.166.211, port: 31007, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇦 乌克兰 B11 | 上海电信、闲时可见 | 2x, server: 101.89.166.211, port: 30282, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇷🇺 俄罗斯 B75 | 上海电信、闲时可见 | 2x, server: 101.89.166.211, port: 30183, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇩🇪 德国 B16 | 上海电信、ChatGPT、闲时可见 | 2x, server: 101.89.166.211, port: 22116, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: ----- 账号信息 -----, server: 101.89.166.211, port: 28432, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "登录账号: rhijfnf@f.lm", server: 101.89.166.211, port: 28432, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
@@ -32,13 +31,14 @@ proxies:
   - {name: "电报: https://t.me/falemon_group", server: 101.89.166.211, port: 28432, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "邮箱: contact@falemon.com", server: 101.89.166.211, port: 28432, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "官网: falm.cc", server: 101.89.166.211, port: 28432, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2023-06-26 11:32:12", server: 101.89.166.211, port: 28432, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2023-06-26 14:20:16", server: 101.89.166.211, port: 28432, type: trojan, password: 2z76lfRkj6, sni: v.qq.com, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - "消息: 5条未读，在APP查看"
       - 🇯🇵 日本 W2 | 上海电信、高配 | 3x
+      - 🇯🇵 日本 W1 | 上海电信、动态IP、闲时可见 | 3x
       - 🇭🇰 香港 W17 | 小带宽 | 3x
       - 🇸🇬 新加坡 W51 | 直连、高配、新开机 | 2x
       - 🇸🇬 新加坡 W55 | 上海电信、高配、闲时可见 | 3x
@@ -47,14 +47,12 @@ proxy-groups:
       - 🇺🇸 美国 G04 | 上海电信、高配、闲时可见 | 3x
       - 🇺🇸 美国 G29 | 上海电信 | 3x
       - 🇦🇷 阿根廷 B46 | 上海电信、闲时可见 | 2x
-      - 🇵🇭 菲律宾 B12 | 上海电信 | 2x
-      - 🇹🇭 泰国 B29 | 上海电信 | 2x
-      - 🇮🇳 印度 B46 | 上海电信、ChatGPT | 2x
-      - 🇮🇩 印尼 B46 | 上海电信、ChatGPT(原生)、闲时可见 | 3x
       - 🇨🇦 加拿大 B40 | 上海电信、闲时可见 | 2x
       - 🇻🇳 越南 B60 | 上海电信、ChatGPT(原生)、闲时可见 | 3x
+      - 🇵🇭 菲律宾 B12 | 上海电信 | 2x
+      - 🇮🇩 印尼 B46 | 上海电信、ChatGPT(原生)、闲时可见 | 3x
+      - 🇮🇳 印度 B46 | 上海电信、ChatGPT | 2x
       - 🇺🇦 乌克兰 B11 | 上海电信、闲时可见 | 2x
-      - 🇷🇺 俄罗斯 B75 | 上海电信、闲时可见 | 2x
       - 🇩🇪 德国 B16 | 上海电信、ChatGPT、闲时可见 | 2x
       - ----- 账号信息 -----
       - "登录账号: rhijfnf@f.lm"
@@ -64,7 +62,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-06-26 11:32:12"
+      - "🏳️‍🌈 时间: 2023-06-26 14:20:16"
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -72,6 +70,7 @@ proxy-groups:
       - 🎯 全球直连
       - "消息: 5条未读，在APP查看"
       - 🇯🇵 日本 W2 | 上海电信、高配 | 3x
+      - 🇯🇵 日本 W1 | 上海电信、动态IP、闲时可见 | 3x
       - 🇭🇰 香港 W17 | 小带宽 | 3x
       - 🇸🇬 新加坡 W51 | 直连、高配、新开机 | 2x
       - 🇸🇬 新加坡 W55 | 上海电信、高配、闲时可见 | 3x
@@ -80,14 +79,12 @@ proxy-groups:
       - 🇺🇸 美国 G04 | 上海电信、高配、闲时可见 | 3x
       - 🇺🇸 美国 G29 | 上海电信 | 3x
       - 🇦🇷 阿根廷 B46 | 上海电信、闲时可见 | 2x
-      - 🇵🇭 菲律宾 B12 | 上海电信 | 2x
-      - 🇹🇭 泰国 B29 | 上海电信 | 2x
-      - 🇮🇳 印度 B46 | 上海电信、ChatGPT | 2x
-      - 🇮🇩 印尼 B46 | 上海电信、ChatGPT(原生)、闲时可见 | 3x
       - 🇨🇦 加拿大 B40 | 上海电信、闲时可见 | 2x
       - 🇻🇳 越南 B60 | 上海电信、ChatGPT(原生)、闲时可见 | 3x
+      - 🇵🇭 菲律宾 B12 | 上海电信 | 2x
+      - 🇮🇩 印尼 B46 | 上海电信、ChatGPT(原生)、闲时可见 | 3x
+      - 🇮🇳 印度 B46 | 上海电信、ChatGPT | 2x
       - 🇺🇦 乌克兰 B11 | 上海电信、闲时可见 | 2x
-      - 🇷🇺 俄罗斯 B75 | 上海电信、闲时可见 | 2x
       - 🇩🇪 德国 B16 | 上海电信、ChatGPT、闲时可见 | 2x
       - ----- 账号信息 -----
       - "登录账号: rhijfnf@f.lm"
@@ -97,7 +94,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-06-26 11:32:12"
+      - "🏳️‍🌈 时间: 2023-06-26 14:20:16"
   - name: 📲 电报信息
     type: select
     proxies:
@@ -105,6 +102,7 @@ proxy-groups:
       - 🎯 全球直连
       - "消息: 5条未读，在APP查看"
       - 🇯🇵 日本 W2 | 上海电信、高配 | 3x
+      - 🇯🇵 日本 W1 | 上海电信、动态IP、闲时可见 | 3x
       - 🇭🇰 香港 W17 | 小带宽 | 3x
       - 🇸🇬 新加坡 W51 | 直连、高配、新开机 | 2x
       - 🇸🇬 新加坡 W55 | 上海电信、高配、闲时可见 | 3x
@@ -113,14 +111,12 @@ proxy-groups:
       - 🇺🇸 美国 G04 | 上海电信、高配、闲时可见 | 3x
       - 🇺🇸 美国 G29 | 上海电信 | 3x
       - 🇦🇷 阿根廷 B46 | 上海电信、闲时可见 | 2x
-      - 🇵🇭 菲律宾 B12 | 上海电信 | 2x
-      - 🇹🇭 泰国 B29 | 上海电信 | 2x
-      - 🇮🇳 印度 B46 | 上海电信、ChatGPT | 2x
-      - 🇮🇩 印尼 B46 | 上海电信、ChatGPT(原生)、闲时可见 | 3x
       - 🇨🇦 加拿大 B40 | 上海电信、闲时可见 | 2x
       - 🇻🇳 越南 B60 | 上海电信、ChatGPT(原生)、闲时可见 | 3x
+      - 🇵🇭 菲律宾 B12 | 上海电信 | 2x
+      - 🇮🇩 印尼 B46 | 上海电信、ChatGPT(原生)、闲时可见 | 3x
+      - 🇮🇳 印度 B46 | 上海电信、ChatGPT | 2x
       - 🇺🇦 乌克兰 B11 | 上海电信、闲时可见 | 2x
-      - 🇷🇺 俄罗斯 B75 | 上海电信、闲时可见 | 2x
       - 🇩🇪 德国 B16 | 上海电信、ChatGPT、闲时可见 | 2x
       - ----- 账号信息 -----
       - "登录账号: rhijfnf@f.lm"
@@ -130,7 +126,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-06-26 11:32:12"
+      - "🏳️‍🌈 时间: 2023-06-26 14:20:16"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -138,6 +134,7 @@ proxy-groups:
       - 🚀 节点选择
       - "消息: 5条未读，在APP查看"
       - 🇯🇵 日本 W2 | 上海电信、高配 | 3x
+      - 🇯🇵 日本 W1 | 上海电信、动态IP、闲时可见 | 3x
       - 🇭🇰 香港 W17 | 小带宽 | 3x
       - 🇸🇬 新加坡 W51 | 直连、高配、新开机 | 2x
       - 🇸🇬 新加坡 W55 | 上海电信、高配、闲时可见 | 3x
@@ -146,14 +143,12 @@ proxy-groups:
       - 🇺🇸 美国 G04 | 上海电信、高配、闲时可见 | 3x
       - 🇺🇸 美国 G29 | 上海电信 | 3x
       - 🇦🇷 阿根廷 B46 | 上海电信、闲时可见 | 2x
-      - 🇵🇭 菲律宾 B12 | 上海电信 | 2x
-      - 🇹🇭 泰国 B29 | 上海电信 | 2x
-      - 🇮🇳 印度 B46 | 上海电信、ChatGPT | 2x
-      - 🇮🇩 印尼 B46 | 上海电信、ChatGPT(原生)、闲时可见 | 3x
       - 🇨🇦 加拿大 B40 | 上海电信、闲时可见 | 2x
       - 🇻🇳 越南 B60 | 上海电信、ChatGPT(原生)、闲时可见 | 3x
+      - 🇵🇭 菲律宾 B12 | 上海电信 | 2x
+      - 🇮🇩 印尼 B46 | 上海电信、ChatGPT(原生)、闲时可见 | 3x
+      - 🇮🇳 印度 B46 | 上海电信、ChatGPT | 2x
       - 🇺🇦 乌克兰 B11 | 上海电信、闲时可见 | 2x
-      - 🇷🇺 俄罗斯 B75 | 上海电信、闲时可见 | 2x
       - 🇩🇪 德国 B16 | 上海电信、ChatGPT、闲时可见 | 2x
       - ----- 账号信息 -----
       - "登录账号: rhijfnf@f.lm"
@@ -163,7 +158,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-06-26 11:32:12"
+      - "🏳️‍🌈 时间: 2023-06-26 14:20:16"
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -171,6 +166,7 @@ proxy-groups:
       - 🎯 全球直连
       - "消息: 5条未读，在APP查看"
       - 🇯🇵 日本 W2 | 上海电信、高配 | 3x
+      - 🇯🇵 日本 W1 | 上海电信、动态IP、闲时可见 | 3x
       - 🇭🇰 香港 W17 | 小带宽 | 3x
       - 🇸🇬 新加坡 W51 | 直连、高配、新开机 | 2x
       - 🇸🇬 新加坡 W55 | 上海电信、高配、闲时可见 | 3x
@@ -179,14 +175,12 @@ proxy-groups:
       - 🇺🇸 美国 G04 | 上海电信、高配、闲时可见 | 3x
       - 🇺🇸 美国 G29 | 上海电信 | 3x
       - 🇦🇷 阿根廷 B46 | 上海电信、闲时可见 | 2x
-      - 🇵🇭 菲律宾 B12 | 上海电信 | 2x
-      - 🇹🇭 泰国 B29 | 上海电信 | 2x
-      - 🇮🇳 印度 B46 | 上海电信、ChatGPT | 2x
-      - 🇮🇩 印尼 B46 | 上海电信、ChatGPT(原生)、闲时可见 | 3x
       - 🇨🇦 加拿大 B40 | 上海电信、闲时可见 | 2x
       - 🇻🇳 越南 B60 | 上海电信、ChatGPT(原生)、闲时可见 | 3x
+      - 🇵🇭 菲律宾 B12 | 上海电信 | 2x
+      - 🇮🇩 印尼 B46 | 上海电信、ChatGPT(原生)、闲时可见 | 3x
+      - 🇮🇳 印度 B46 | 上海电信、ChatGPT | 2x
       - 🇺🇦 乌克兰 B11 | 上海电信、闲时可见 | 2x
-      - 🇷🇺 俄罗斯 B75 | 上海电信、闲时可见 | 2x
       - 🇩🇪 德国 B16 | 上海电信、ChatGPT、闲时可见 | 2x
       - ----- 账号信息 -----
       - "登录账号: rhijfnf@f.lm"
@@ -196,7 +190,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-06-26 11:32:12"
+      - "🏳️‍🌈 时间: 2023-06-26 14:20:16"
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -204,6 +198,7 @@ proxy-groups:
       - 🎯 全球直连
       - "消息: 5条未读，在APP查看"
       - 🇯🇵 日本 W2 | 上海电信、高配 | 3x
+      - 🇯🇵 日本 W1 | 上海电信、动态IP、闲时可见 | 3x
       - 🇭🇰 香港 W17 | 小带宽 | 3x
       - 🇸🇬 新加坡 W51 | 直连、高配、新开机 | 2x
       - 🇸🇬 新加坡 W55 | 上海电信、高配、闲时可见 | 3x
@@ -212,14 +207,12 @@ proxy-groups:
       - 🇺🇸 美国 G04 | 上海电信、高配、闲时可见 | 3x
       - 🇺🇸 美国 G29 | 上海电信 | 3x
       - 🇦🇷 阿根廷 B46 | 上海电信、闲时可见 | 2x
-      - 🇵🇭 菲律宾 B12 | 上海电信 | 2x
-      - 🇹🇭 泰国 B29 | 上海电信 | 2x
-      - 🇮🇳 印度 B46 | 上海电信、ChatGPT | 2x
-      - 🇮🇩 印尼 B46 | 上海电信、ChatGPT(原生)、闲时可见 | 3x
       - 🇨🇦 加拿大 B40 | 上海电信、闲时可见 | 2x
       - 🇻🇳 越南 B60 | 上海电信、ChatGPT(原生)、闲时可见 | 3x
+      - 🇵🇭 菲律宾 B12 | 上海电信 | 2x
+      - 🇮🇩 印尼 B46 | 上海电信、ChatGPT(原生)、闲时可见 | 3x
+      - 🇮🇳 印度 B46 | 上海电信、ChatGPT | 2x
       - 🇺🇦 乌克兰 B11 | 上海电信、闲时可见 | 2x
-      - 🇷🇺 俄罗斯 B75 | 上海电信、闲时可见 | 2x
       - 🇩🇪 德国 B16 | 上海电信、ChatGPT、闲时可见 | 2x
       - ----- 账号信息 -----
       - "登录账号: rhijfnf@f.lm"
@@ -229,7 +222,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-06-26 11:32:12"
+      - "🏳️‍🌈 时间: 2023-06-26 14:20:16"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -248,6 +241,7 @@ proxy-groups:
       - 🚀 节点选择
       - "消息: 5条未读，在APP查看"
       - 🇯🇵 日本 W2 | 上海电信、高配 | 3x
+      - 🇯🇵 日本 W1 | 上海电信、动态IP、闲时可见 | 3x
       - 🇭🇰 香港 W17 | 小带宽 | 3x
       - 🇸🇬 新加坡 W51 | 直连、高配、新开机 | 2x
       - 🇸🇬 新加坡 W55 | 上海电信、高配、闲时可见 | 3x
@@ -256,14 +250,12 @@ proxy-groups:
       - 🇺🇸 美国 G04 | 上海电信、高配、闲时可见 | 3x
       - 🇺🇸 美国 G29 | 上海电信 | 3x
       - 🇦🇷 阿根廷 B46 | 上海电信、闲时可见 | 2x
-      - 🇵🇭 菲律宾 B12 | 上海电信 | 2x
-      - 🇹🇭 泰国 B29 | 上海电信 | 2x
-      - 🇮🇳 印度 B46 | 上海电信、ChatGPT | 2x
-      - 🇮🇩 印尼 B46 | 上海电信、ChatGPT(原生)、闲时可见 | 3x
       - 🇨🇦 加拿大 B40 | 上海电信、闲时可见 | 2x
       - 🇻🇳 越南 B60 | 上海电信、ChatGPT(原生)、闲时可见 | 3x
+      - 🇵🇭 菲律宾 B12 | 上海电信 | 2x
+      - 🇮🇩 印尼 B46 | 上海电信、ChatGPT(原生)、闲时可见 | 3x
+      - 🇮🇳 印度 B46 | 上海电信、ChatGPT | 2x
       - 🇺🇦 乌克兰 B11 | 上海电信、闲时可见 | 2x
-      - 🇷🇺 俄罗斯 B75 | 上海电信、闲时可见 | 2x
       - 🇩🇪 德国 B16 | 上海电信、ChatGPT、闲时可见 | 2x
       - ----- 账号信息 -----
       - "登录账号: rhijfnf@f.lm"
@@ -273,7 +265,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-06-26 11:32:12"
+      - "🏳️‍🌈 时间: 2023-06-26 14:20:16"
   - name: 🐟 漏网之鱼
     type: select
     proxies:
@@ -281,6 +273,7 @@ proxy-groups:
       - 🎯 全球直连
       - "消息: 5条未读，在APP查看"
       - 🇯🇵 日本 W2 | 上海电信、高配 | 3x
+      - 🇯🇵 日本 W1 | 上海电信、动态IP、闲时可见 | 3x
       - 🇭🇰 香港 W17 | 小带宽 | 3x
       - 🇸🇬 新加坡 W51 | 直连、高配、新开机 | 2x
       - 🇸🇬 新加坡 W55 | 上海电信、高配、闲时可见 | 3x
@@ -289,14 +282,12 @@ proxy-groups:
       - 🇺🇸 美国 G04 | 上海电信、高配、闲时可见 | 3x
       - 🇺🇸 美国 G29 | 上海电信 | 3x
       - 🇦🇷 阿根廷 B46 | 上海电信、闲时可见 | 2x
-      - 🇵🇭 菲律宾 B12 | 上海电信 | 2x
-      - 🇹🇭 泰国 B29 | 上海电信 | 2x
-      - 🇮🇳 印度 B46 | 上海电信、ChatGPT | 2x
-      - 🇮🇩 印尼 B46 | 上海电信、ChatGPT(原生)、闲时可见 | 3x
       - 🇨🇦 加拿大 B40 | 上海电信、闲时可见 | 2x
       - 🇻🇳 越南 B60 | 上海电信、ChatGPT(原生)、闲时可见 | 3x
+      - 🇵🇭 菲律宾 B12 | 上海电信 | 2x
+      - 🇮🇩 印尼 B46 | 上海电信、ChatGPT(原生)、闲时可见 | 3x
+      - 🇮🇳 印度 B46 | 上海电信、ChatGPT | 2x
       - 🇺🇦 乌克兰 B11 | 上海电信、闲时可见 | 2x
-      - 🇷🇺 俄罗斯 B75 | 上海电信、闲时可见 | 2x
       - 🇩🇪 德国 B16 | 上海电信、ChatGPT、闲时可见 | 2x
       - ----- 账号信息 -----
       - "登录账号: rhijfnf@f.lm"
@@ -306,7 +297,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-06-26 11:32:12"
+      - "🏳️‍🌈 时间: 2023-06-26 14:20:16"
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
