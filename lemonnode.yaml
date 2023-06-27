@@ -17,9 +17,9 @@ proxies:
   - {name: 🇺🇸 美国 G26 | 直连、高配 | 2x, server: 164.92.124.126, port: 28335, type: trojan, password: xaifG4sesb, sni: g624a.ft4.xyz, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G97 | 直连 | 3x, server: 164.90.147.194, port: 11111, type: trojan, password: xaifG4sesb, sni: g97b.ft4.xyz, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G29 | 上海电信 | 3x, server: 101.89.166.211, port: 30187, type: trojan, password: xaifG4sesb, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇮🇳 印度 B46 | 上海电信、ChatGPT | 2x, server: 101.89.166.211, port: 31007, type: trojan, password: xaifG4sesb, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇹🇭 泰国 B29 | 上海电信 | 2x, server: 101.89.166.211, port: 31008, type: trojan, password: xaifG4sesb, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇵🇭 菲律宾 B12 | 上海电信 | 2x, server: 101.89.166.211, port: 31009, type: trojan, password: xaifG4sesb, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇹🇭 泰国 B29 | 上海电信 | 2x, server: 101.89.166.211, port: 31008, type: trojan, password: xaifG4sesb, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇮🇳 印度 B46 | 上海电信、ChatGPT | 2x, server: 101.89.166.211, port: 31007, type: trojan, password: xaifG4sesb, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: ----- 账号信息 -----, server: 139.226.166.117, port: 12851, type: trojan, password: xaifG4sesb, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "登录账号: qbijean@f.lm", server: 139.226.166.117, port: 12851, type: trojan, password: xaifG4sesb, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "体验套餐: 剩余5天", server: 139.226.166.117, port: 12851, type: trojan, password: xaifG4sesb, sni: v.qq.com, skip-cert-verify: true, udp: true}
@@ -28,4 +28,4 @@ proxies:
   - {name: "电报: https://t.me/falemon_group", server: 139.226.166.117, port: 12851, type: trojan, password: xaifG4sesb, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "邮箱: contact@falemon.com", server: 139.226.166.117, port: 12851, type: trojan, password: xaifG4sesb, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "官网: falm.cc", server: 139.226.166.117, port: 12851, type: trojan, password: xaifG4sesb, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2023-06-27 20:11:43", server: 139.226.166.117, port: 12851, type: trojan, password: xaifG4sesb, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2023-06-27 20:30:01", server: 139.226.166.117, port: 12851, type: trojan, password: xaifG4sesb, sni: v.qq.com, skip-cert-verify: true, udp: true}
