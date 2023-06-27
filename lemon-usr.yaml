@@ -225,8 +225,8 @@ proxy-groups:
 proxy-providers:
   Lemon:
     type: http
- #   url: https://raw.githubusercontent.com/fqw000/lemon/main/lemonnode.yaml
-    url: https://cdn.jsdelivr.net/gh/fqw000/lemon@main/lemonnode.yaml
+    url: https://raw.githubusercontent.com/fqw000/lemon/main/lemonnode.yaml
+ #   url: https://cdn.jsdelivr.net/gh/fqw000/lemon@main/lemonnode.yaml
     path: ./Lemonnode.yaml
     health-check:
       enable: true
