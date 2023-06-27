@@ -5,16 +5,16 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: "消息: 6条未读，在APP查看", server: 127.0.0.1, port: 443, type: trojan, password: msg, sni: msg.f.lm, skip-cert-verify: true, udp: true}
+  - {name: "消息: 7条未读，在APP查看", server: 127.0.0.1, port: 443, type: trojan, password: msg, sni: msg.f.lm, skip-cert-verify: true, udp: true}
   - {name: ----- 账号信息 -----, server: 127.0.0.1, port: 443, type: trojan, password: l2, sni: l2.f.lm, skip-cert-verify: true, udp: true}
   - {name: "登录账号: rhijfnf@f.lm", server: 127.0.0.1, port: 443, type: trojan, password: uemail, sni: uemail.f.lm, skip-cert-verify: true, udp: true}
-  - {name: "体验套餐: 剩余19小时55分钟", server: 127.0.0.1, port: 443, type: trojan, password: vip, sni: vip.f.lm, skip-cert-verify: true, udp: true}
+  - {name: "体验套餐: 剩余16小时59分钟", server: 127.0.0.1, port: 443, type: trojan, password: vip, sni: vip.f.lm, skip-cert-verify: true, udp: true}
   - {name: "🏳️‍🌈 流量重置: 每月23日 10G，剩余0B", server: 127.0.0.1, port: 443, type: trojan, password: flow, sni: flow.f.lm, skip-cert-verify: true, udp: true}
   - {name: ----- 联系我们 -----, server: 127.0.0.1, port: 443, type: trojan, password: l3, sni: l3.f.lm, skip-cert-verify: true, udp: true}
   - {name: "电报: https://t.me/falemon_group", server: 127.0.0.1, port: 443, type: trojan, password: dac5, sni: dac5.f.lm, skip-cert-verify: true, udp: true}
   - {name: "邮箱: contact@falemon.com", server: 127.0.0.1, port: 443, type: trojan, password: con_email, sni: con_email.f.lm, skip-cert-verify: true, udp: true}
   - {name: "官网: falm.cc", server: 127.0.0.1, port: 443, type: trojan, password: fbbe, sni: fbbe.f.lm, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2023-06-27 14:18:59", server: 127.0.0.1, port: 443, type: trojan, password: 7baa, sni: 7baa.f.lm, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2023-06-27 17:14:28", server: 127.0.0.1, port: 443, type: trojan, password: 120f, sni: 120f.f.lm, skip-cert-verify: true, udp: true}
 # banner.yaml
 
 # 为lemonnode.yaml追加规则分流文件，合并整体订阅到lemonlite.yaml中。
