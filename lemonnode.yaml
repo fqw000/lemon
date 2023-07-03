@@ -8,28 +8,36 @@ proxies:
   - {name: "消息: 2条未读，在APP查看", server: 172.104.116.46, port: 16119, type: trojan, password: 7YlGu4AuTf, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
   - {name: 🇯🇵 日本 W84I | 海外直连、高配 | 3x, server: 172.104.116.46, port: 16119, type: trojan, password: 7YlGu4AuTf, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
   - {name: 🇯🇵 日本 W13I | 海外直连、高配 | 3x, server: 172.104.64.244, port: 24244, type: trojan, password: 7YlGu4AuTf, sni: i16a.ft3.us, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 日本 W2 | 深港隧道、高配 | 3x, server: 183.240.139.210, port: 28432, type: trojan, password: 7YlGu4AuTf, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 日本 W1 | 深港隧道、高配、闲时可见 | 3x, server: 183.240.139.210, port: 25334, type: trojan, password: 7YlGu4AuTf, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇭🇰 香港 W17 | 小带宽 | 3x, server: 183.213.200.199, port: 19817, type: trojan, password: 7YlGu4AuTf, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 新加坡 W51 | 直连、高配 | 2x, server: 167.71.211.251, port: 11251, type: trojan, password: 7YlGu4AuTf, sni: w624a.ft4.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 新加坡 W55 | 深新隧道、高配、闲时可见 | 3x, server: 183.240.139.210, port: 26136, type: trojan, password: 7YlGu4AuTf, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G12I | 海外直连 | 3x, server: 193.178.210.29, port: 15010, type: trojan, password: 7YlGu4AuTf, sni: d61a.ft4.xyz, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G26 | 直连、高配 | 2x, server: 164.92.124.126, port: 28335, type: trojan, password: 7YlGu4AuTf, sni: g624a.ft4.xyz, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G97 | 直连 | 3x, server: 164.90.147.194, port: 11111, type: trojan, password: 7YlGu4AuTf, sni: g97b.ft4.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国 G04 | 沪美隧道、高配、闲时可见 | 3x, server: 101.89.143.182, port: 21475, type: trojan, password: 7YlGu4AuTf, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G29 | 小带宽 | 3x, server: 183.213.200.206, port: 30187, type: trojan, password: 7YlGu4AuTf, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇦 乌克兰 B11I | 海外直连 | 2x, server: 45.87.155.101, port: 15101, type: trojan, password: 7YlGu4AuTf, sni: l4a.ft4.xyz, skip-cert-verify: true, udp: true}
   - {name: 🇷🇺 俄罗斯 B75I | 海外直连 | 2x, server: 45.144.30.175, port: 30175, type: trojan, password: 7YlGu4AuTf, sni: l3a.ft4.xyz, skip-cert-verify: true, udp: true}
   - {name: 🇩🇪 德国 B16I | 海外直连、ChatGPT | 2x, server: 5.252.22.116, port: 22116, type: trojan, password: 7YlGu4AuTf, sni: l13a.ft4.xyz, skip-cert-verify: true, udp: true}
-  - {name: 🇹🇭 泰国 B29 | 广东移动 | 2x, server: 183.213.200.143, port: 31008, type: trojan, password: 7YlGu4AuTf, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇩🇪 德国 B16 | 广东移动、ChatGPT、闲时可见 | 2x, server: 183.213.200.143, port: 22116, type: trojan, password: 7YlGu4AuTf, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇻🇳 越南 B60 | 广东移动、ChatGPT(原生)、闲时可见 | 3x, server: 183.213.200.143, port: 31011, type: trojan, password: 7YlGu4AuTf, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇮🇩 印尼 B46 | 广东移动、ChatGPT(原生)、闲时可见 | 3x, server: 183.213.200.143, port: 31010, type: trojan, password: 7YlGu4AuTf, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇹🇭 泰国 B29 | 广东移动 | 2x, server: 183.213.200.143, port: 31008, type: trojan, password: 7YlGu4AuTf, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇮🇳 印度 B46 | 广东移动、ChatGPT | 2x, server: 183.213.200.143, port: 31007, type: trojan, password: 7YlGu4AuTf, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇦 乌克兰 B11 | 广东移动、闲时可见 | 2x, server: 183.213.200.143, port: 30282, type: trojan, password: 7YlGu4AuTf, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇵🇭 菲律宾 B12 | 广东移动 | 2x, server: 183.213.200.143, port: 31009, type: trojan, password: 7YlGu4AuTf, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇺 俄罗斯 B75 | 广东移动、闲时可见 | 2x, server: 183.213.200.143, port: 30183, type: trojan, password: 7YlGu4AuTf, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇦🇷 阿根廷 B46 | 直连、ChatGPT、闲时可见 | 2x, server: 31.40.212.17, port: 21217, type: trojan, password: 7YlGu4AuTf, sni: b630a.ft4.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 加拿大 B40 | 沪美电信、闲时可见 | 2x, server: 101.89.108.53, port: 28140, type: trojan, password: 7YlGu4AuTf, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 马来西亚 B15 | 广东移动、ChatGPT、Netflix(SG)、闲时可见 | 3x, server: 183.213.200.143, port: 21215, type: trojan, password: 7YlGu4AuTf, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: ----- 账号信息 -----, server: 172.104.116.46, port: 16119, type: trojan, password: 7YlGu4AuTf, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
   - {name: "登录账号: pjijnfd@f.lm", server: 172.104.116.46, port: 16119, type: trojan, password: 7YlGu4AuTf, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
-  - {name: "体验套餐: 剩余5天", server: 172.104.116.46, port: 16119, type: trojan, password: 7YlGu4AuTf, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
+  - {name: "体验套餐: 剩余4天", server: 172.104.116.46, port: 16119, type: trojan, password: 7YlGu4AuTf, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
   - {name: "🏳️‍🌈 流量重置: 每月3日 10G，剩余10G", server: 172.104.116.46, port: 16119, type: trojan, password: 7YlGu4AuTf, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
   - {name: ----- 联系我们 -----, server: 172.104.116.46, port: 16119, type: trojan, password: 7YlGu4AuTf, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
   - {name: "电报: https://t.me/falemon_group", server: 172.104.116.46, port: 16119, type: trojan, password: 7YlGu4AuTf, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
   - {name: "邮箱: contact@falemon.com", server: 172.104.116.46, port: 16119, type: trojan, password: 7YlGu4AuTf, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
   - {name: "官网: falm.cc", server: 172.104.116.46, port: 16119, type: trojan, password: 7YlGu4AuTf, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2023-07-04 02:17:05", server: 172.104.116.46, port: 16119, type: trojan, password: 7YlGu4AuTf, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2023-07-04 05:12:26", server: 172.104.116.46, port: 16119, type: trojan, password: 7YlGu4AuTf, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
