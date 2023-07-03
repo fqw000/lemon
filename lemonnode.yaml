@@ -8,7 +8,7 @@ proxies:
   - {name: "消息: 2条未读，在APP查看", server: 172.104.116.46, port: 16119, type: trojan, password: 7YlGu4AuTf, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
   - {name: 🇯🇵 日本 W84I | 海外直连、高配 | 3x, server: 172.104.116.46, port: 16119, type: trojan, password: 7YlGu4AuTf, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
   - {name: 🇯🇵 日本 W13I | 海外直连、高配 | 3x, server: 172.104.64.244, port: 24244, type: trojan, password: 7YlGu4AuTf, sni: i16a.ft3.us, skip-cert-verify: true, udp: true}
-  - {name: 🇯🇵 日本 W2 | 沪美电信、高配 | 3x, server: 101.227.236.104, port: 28432, type: trojan, password: 7YlGu4AuTf, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 日本 W2 | 沪美电信、高配 | 3x, server: 101.89.165.165, port: 28432, type: trojan, password: 7YlGu4AuTf, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇭🇰 香港 W17 | 小带宽 | 3x, server: 183.213.200.199, port: 19817, type: trojan, password: 7YlGu4AuTf, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 新加坡 W51 | 直连、高配 | 2x, server: 167.71.211.251, port: 11251, type: trojan, password: 7YlGu4AuTf, sni: w624a.ft4.xyz, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G12I | 海外直连 | 3x, server: 193.178.210.29, port: 15010, type: trojan, password: 7YlGu4AuTf, sni: d61a.ft4.xyz, skip-cert-verify: true, udp: true}
@@ -29,4 +29,4 @@ proxies:
   - {name: "电报: https://t.me/falemon_group", server: 172.104.116.46, port: 16119, type: trojan, password: 7YlGu4AuTf, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
   - {name: "邮箱: contact@falemon.com", server: 172.104.116.46, port: 16119, type: trojan, password: 7YlGu4AuTf, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
   - {name: "官网: falm.cc", server: 172.104.116.46, port: 16119, type: trojan, password: 7YlGu4AuTf, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2023-07-03 20:33:55", server: 172.104.116.46, port: 16119, type: trojan, password: 7YlGu4AuTf, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2023-07-03 23:16:32", server: 172.104.116.46, port: 16119, type: trojan, password: 7YlGu4AuTf, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
