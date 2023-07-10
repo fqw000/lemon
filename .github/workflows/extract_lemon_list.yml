@@ -20,9 +20,9 @@ jobs:
       run: |
          # Install PCRE library and pcregrep command
          # 此部分代码只需要执行一次，用于安装PCRE环境，用于执行pcregrep命令，安装以后后续运行不需要重复安装，可注释掉。
-          sudo apt-get update
-          sudo apt-get install -y libpcre3-dev
-          sudo apt-get install -y pcregrep
+         # sudo apt-get update
+         # sudo apt-get install -y libpcre3-dev
+         # sudo apt-get install -y pcregrep
           
           url=$(cat lemon.site)
           echo "url=$url" >> $GITHUB_ENV
@@ -46,9 +46,9 @@ jobs:
           echo "url3=$url3" >> $GITHUB_ENV
           echo "" >lemonSurge.list
           curl -L "$url3" -o lemonSurge.list
-          echo "" > lemonsg4.list
+#          echo "" > lemonsg4.list
 #         cat lemonSurge.list | pcregrep -M '(?<=DIRECT = direct\n).+?(?=\[Proxy Group\])' > lemonsg4.list
-          cat lemonSurge.list | pcregrep -M '(?s)\[Proxy\].+?(?=\[Proxy Group\])' > lemonsg4.list
+ #         cat lemonSurge.list | pcregrep -M '(?s)\[Proxy\].+?(?=\[Proxy Group\])' > lemonsg4.list
 #         cat lemonSurge.list | perl -ne 'print if /^\[Proxy\]\n(?:.+\n)*.*(?=\[Proxy Group\])/' > lemonsg4.list
           
 #        curl https://knmvc.site/N2o9/CddhK/vrn -o lemon.sub
