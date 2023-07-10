@@ -5,17 +5,15 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: "消息: 4条未读，在APP查看", server: 172.104.116.46, port: 16119, type: trojan, password: 5qSA2913kC, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
+  - {name: "消息: 5条未读，在APP查看", server: 172.104.116.46, port: 16119, type: trojan, password: 5qSA2913kC, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
   - {name: 🇯🇵 日本 W84I | 海外直连、高配 | 3x, server: 172.104.116.46, port: 16119, type: trojan, password: 5qSA2913kC, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
   - {name: 🇯🇵 日本 W13I | 海外直连、高配 | 3x, server: 172.104.64.244, port: 24244, type: trojan, password: 5qSA2913kC, sni: i16a.ft3.us, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 新加坡 W07I | 海外直连、高配 | 3x, server: 170.187.229.107, port: 29107, type: trojan, password: 5qSA2913kC, sni: w703.ft3.us, skip-cert-verify: true, udp: true}
   - {name: 🇯🇵 日本 W3 | 直连、高配 | 2x, server: 139.162.85.24, port: 28524, type: trojan, password: 5qSA2913kC, sni: w704.ft4.xyz, skip-cert-verify: true, udp: true}
   - {name: 🇯🇵 日本 W2 | 华南移动、高配 | 3x, server: 36.158.205.217, port: 28432, type: trojan, password: 5qSA2913kC, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇯🇵 日本 W1 | 华南移动、高配、闲时可见 | 3x, server: 36.158.205.217, port: 25334, type: trojan, password: 5qSA2913kC, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇭🇰 香港 W17 | 小带宽 | 4x, server: 183.213.200.199, port: 19817, type: trojan, password: 5qSA2913kC, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇭🇰 香港 W13 | 小带宽 | 4x, server: 183.213.200.143, port: 14571, type: trojan, password: 5qSA2913kC, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 新加坡 W51 | 直连、高配 | 2x, server: 167.71.211.251, port: 11251, type: trojan, password: 5qSA2913kC, sni: w624a.ft4.xyz, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇬 新加坡 W55 | 华南移动、高配、闲时可见 | 3x, server: 36.158.205.217, port: 26136, type: trojan, password: 5qSA2913kC, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G12I | 海外直连 | 3x, server: 193.178.210.29, port: 15010, type: trojan, password: 5qSA2913kC, sni: d61a.ft4.xyz, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G26 | 直连、高配 | 2x, server: 164.92.124.126, port: 28335, type: trojan, password: 5qSA2913kC, sni: g624a.ft4.xyz, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G97 | 直连 | 2x, server: 24.199.126.159, port: 11116, type: trojan, password: 5qSA2913kC, sni: g97c.ft4.xyz, skip-cert-verify: true, udp: true}
@@ -25,17 +23,9 @@ proxies:
   - {name: 🇷🇺 俄罗斯 B75I | 海外直连 | 2x, server: 45.144.30.175, port: 30175, type: trojan, password: 5qSA2913kC, sni: l3a.ft4.xyz, skip-cert-verify: true, udp: true}
   - {name: 🇩🇪 德国 B16I | 海外直连、ChatGPT | 2x, server: 5.252.22.116, port: 22116, type: trojan, password: 5qSA2913kC, sni: l13a.ft4.xyz, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 马来西亚 B15I | 海外直连、ChatGPT、Netflix(SG) | 2x, server: 60.52.27.170, port: 21215, type: trojan, password: 5qSA2913kC, sni: b704.ft4.xyz, skip-cert-verify: true, udp: true}
-  - {name: 🇩🇪 德国 B16 | 广东移动、ChatGPT、闲时可见 | 2x, server: 183.213.200.143, port: 22116, type: trojan, password: 5qSA2913kC, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇹🇭 泰国 B29 | 广东移动 | 2x, server: 183.213.200.143, port: 31008, type: trojan, password: 5qSA2913kC, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇻🇳 越南 B60 | 华南移动、ChatGPT(原生)、闲时可见 | 3x, server: 36.158.205.217, port: 31011, type: trojan, password: 5qSA2913kC, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇮🇩 印尼 B46 | 广东移动、ChatGPT(原生)、闲时可见 | 3x, server: 183.213.200.143, port: 31010, type: trojan, password: 5qSA2913kC, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇮🇳 印度 B46 | 广东移动、ChatGPT | 2x, server: 183.213.200.143, port: 31007, type: trojan, password: 5qSA2913kC, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇦 乌克兰 B11 | 华南移动、闲时可见 | 2x, server: 36.158.205.217, port: 30282, type: trojan, password: 5qSA2913kC, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇵🇭 菲律宾 B12 | 广东移动 | 2x, server: 183.213.200.143, port: 31009, type: trojan, password: 5qSA2913kC, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇷🇺 俄罗斯 B75 | 广东移动、闲时可见 | 2x, server: 183.213.200.143, port: 30183, type: trojan, password: 5qSA2913kC, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇦🇷 阿根廷 B46 | 直连、ChatGPT、闲时可见 | 2x, server: 31.40.212.17, port: 21217, type: trojan, password: 5qSA2913kC, sni: b630a.ft4.xyz, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 加拿大 B40 | 沪美电信、闲时可见 | 2x, server: 101.89.108.53, port: 28140, type: trojan, password: 5qSA2913kC, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇬 马来西亚 B15 | 安徽移动、ChatGPT、Netflix(SG)、闲时可见 | 3x, server: 111.38.40.247, port: 21215, type: trojan, password: 5qSA2913kC, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: ----- 账号信息 -----, server: 172.104.116.46, port: 16119, type: trojan, password: 5qSA2913kC, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
   - {name: "登录账号: qqijhsx@f.lm", server: 172.104.116.46, port: 16119, type: trojan, password: 5qSA2913kC, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
   - {name: "体验套餐: 剩余3天", server: 172.104.116.46, port: 16119, type: trojan, password: 5qSA2913kC, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
@@ -44,22 +34,20 @@ proxies:
   - {name: "电报: https://t.me/falemon_group", server: 172.104.116.46, port: 16119, type: trojan, password: 5qSA2913kC, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
   - {name: "邮箱: contact@falemon.com", server: 172.104.116.46, port: 16119, type: trojan, password: 5qSA2913kC, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
   - {name: "官网: falm.cc", server: 172.104.116.46, port: 16119, type: trojan, password: 5qSA2913kC, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2023-07-10 16:49:37", server: 172.104.116.46, port: 16119, type: trojan, password: 5qSA2913kC, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2023-07-10 17:37:34", server: 172.104.116.46, port: 16119, type: trojan, password: 5qSA2913kC, sni: l19.ft3.us, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
-      - "消息: 4条未读，在APP查看"
+      - "消息: 5条未读，在APP查看"
       - 🇯🇵 日本 W84I | 海外直连、高配 | 3x
       - 🇯🇵 日本 W13I | 海外直连、高配 | 3x
       - 🇸🇬 新加坡 W07I | 海外直连、高配 | 3x
       - 🇯🇵 日本 W3 | 直连、高配 | 2x
       - 🇯🇵 日本 W2 | 华南移动、高配 | 3x
-      - 🇯🇵 日本 W1 | 华南移动、高配、闲时可见 | 3x
       - 🇭🇰 香港 W17 | 小带宽 | 4x
       - 🇭🇰 香港 W13 | 小带宽 | 4x
       - 🇸🇬 新加坡 W51 | 直连、高配 | 2x
-      - 🇸🇬 新加坡 W55 | 华南移动、高配、闲时可见 | 3x
       - 🇺🇸 美国 G12I | 海外直连 | 3x
       - 🇺🇸 美国 G26 | 直连、高配 | 2x
       - 🇺🇸 美国 G97 | 直连 | 2x
@@ -69,17 +57,9 @@ proxy-groups:
       - 🇷🇺 俄罗斯 B75I | 海外直连 | 2x
       - 🇩🇪 德国 B16I | 海外直连、ChatGPT | 2x
       - 🇸🇬 马来西亚 B15I | 海外直连、ChatGPT、Netflix(SG) | 2x
-      - 🇩🇪 德国 B16 | 广东移动、ChatGPT、闲时可见 | 2x
       - 🇹🇭 泰国 B29 | 广东移动 | 2x
-      - 🇻🇳 越南 B60 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
-      - 🇮🇩 印尼 B46 | 广东移动、ChatGPT(原生)、闲时可见 | 3x
       - 🇮🇳 印度 B46 | 广东移动、ChatGPT | 2x
-      - 🇺🇦 乌克兰 B11 | 华南移动、闲时可见 | 2x
       - 🇵🇭 菲律宾 B12 | 广东移动 | 2x
-      - 🇷🇺 俄罗斯 B75 | 广东移动、闲时可见 | 2x
-      - 🇦🇷 阿根廷 B46 | 直连、ChatGPT、闲时可见 | 2x
-      - 🇺🇸 加拿大 B40 | 沪美电信、闲时可见 | 2x
-      - 🇸🇬 马来西亚 B15 | 安徽移动、ChatGPT、Netflix(SG)、闲时可见 | 3x
       - ----- 账号信息 -----
       - "登录账号: qqijhsx@f.lm"
       - "体验套餐: 剩余3天"
@@ -88,23 +68,21 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-07-10 16:49:37"
+      - "🏳️‍🌈 时间: 2023-07-10 17:37:34"
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "消息: 4条未读，在APP查看"
+      - "消息: 5条未读，在APP查看"
       - 🇯🇵 日本 W84I | 海外直连、高配 | 3x
       - 🇯🇵 日本 W13I | 海外直连、高配 | 3x
       - 🇸🇬 新加坡 W07I | 海外直连、高配 | 3x
       - 🇯🇵 日本 W3 | 直连、高配 | 2x
       - 🇯🇵 日本 W2 | 华南移动、高配 | 3x
-      - 🇯🇵 日本 W1 | 华南移动、高配、闲时可见 | 3x
       - 🇭🇰 香港 W17 | 小带宽 | 4x
       - 🇭🇰 香港 W13 | 小带宽 | 4x
       - 🇸🇬 新加坡 W51 | 直连、高配 | 2x
-      - 🇸🇬 新加坡 W55 | 华南移动、高配、闲时可见 | 3x
       - 🇺🇸 美国 G12I | 海外直连 | 3x
       - 🇺🇸 美国 G26 | 直连、高配 | 2x
       - 🇺🇸 美国 G97 | 直连 | 2x
@@ -114,17 +92,9 @@ proxy-groups:
       - 🇷🇺 俄罗斯 B75I | 海外直连 | 2x
       - 🇩🇪 德国 B16I | 海外直连、ChatGPT | 2x
       - 🇸🇬 马来西亚 B15I | 海外直连、ChatGPT、Netflix(SG) | 2x
-      - 🇩🇪 德国 B16 | 广东移动、ChatGPT、闲时可见 | 2x
       - 🇹🇭 泰国 B29 | 广东移动 | 2x
-      - 🇻🇳 越南 B60 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
-      - 🇮🇩 印尼 B46 | 广东移动、ChatGPT(原生)、闲时可见 | 3x
       - 🇮🇳 印度 B46 | 广东移动、ChatGPT | 2x
-      - 🇺🇦 乌克兰 B11 | 华南移动、闲时可见 | 2x
       - 🇵🇭 菲律宾 B12 | 广东移动 | 2x
-      - 🇷🇺 俄罗斯 B75 | 广东移动、闲时可见 | 2x
-      - 🇦🇷 阿根廷 B46 | 直连、ChatGPT、闲时可见 | 2x
-      - 🇺🇸 加拿大 B40 | 沪美电信、闲时可见 | 2x
-      - 🇸🇬 马来西亚 B15 | 安徽移动、ChatGPT、Netflix(SG)、闲时可见 | 3x
       - ----- 账号信息 -----
       - "登录账号: qqijhsx@f.lm"
       - "体验套餐: 剩余3天"
@@ -133,23 +103,21 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-07-10 16:49:37"
+      - "🏳️‍🌈 时间: 2023-07-10 17:37:34"
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "消息: 4条未读，在APP查看"
+      - "消息: 5条未读，在APP查看"
       - 🇯🇵 日本 W84I | 海外直连、高配 | 3x
       - 🇯🇵 日本 W13I | 海外直连、高配 | 3x
       - 🇸🇬 新加坡 W07I | 海外直连、高配 | 3x
       - 🇯🇵 日本 W3 | 直连、高配 | 2x
       - 🇯🇵 日本 W2 | 华南移动、高配 | 3x
-      - 🇯🇵 日本 W1 | 华南移动、高配、闲时可见 | 3x
       - 🇭🇰 香港 W17 | 小带宽 | 4x
       - 🇭🇰 香港 W13 | 小带宽 | 4x
       - 🇸🇬 新加坡 W51 | 直连、高配 | 2x
-      - 🇸🇬 新加坡 W55 | 华南移动、高配、闲时可见 | 3x
       - 🇺🇸 美国 G12I | 海外直连 | 3x
       - 🇺🇸 美国 G26 | 直连、高配 | 2x
       - 🇺🇸 美国 G97 | 直连 | 2x
@@ -159,17 +127,9 @@ proxy-groups:
       - 🇷🇺 俄罗斯 B75I | 海外直连 | 2x
       - 🇩🇪 德国 B16I | 海外直连、ChatGPT | 2x
       - 🇸🇬 马来西亚 B15I | 海外直连、ChatGPT、Netflix(SG) | 2x
-      - 🇩🇪 德国 B16 | 广东移动、ChatGPT、闲时可见 | 2x
       - 🇹🇭 泰国 B29 | 广东移动 | 2x
-      - 🇻🇳 越南 B60 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
-      - 🇮🇩 印尼 B46 | 广东移动、ChatGPT(原生)、闲时可见 | 3x
       - 🇮🇳 印度 B46 | 广东移动、ChatGPT | 2x
-      - 🇺🇦 乌克兰 B11 | 华南移动、闲时可见 | 2x
       - 🇵🇭 菲律宾 B12 | 广东移动 | 2x
-      - 🇷🇺 俄罗斯 B75 | 广东移动、闲时可见 | 2x
-      - 🇦🇷 阿根廷 B46 | 直连、ChatGPT、闲时可见 | 2x
-      - 🇺🇸 加拿大 B40 | 沪美电信、闲时可见 | 2x
-      - 🇸🇬 马来西亚 B15 | 安徽移动、ChatGPT、Netflix(SG)、闲时可见 | 3x
       - ----- 账号信息 -----
       - "登录账号: qqijhsx@f.lm"
       - "体验套餐: 剩余3天"
@@ -178,23 +138,21 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-07-10 16:49:37"
+      - "🏳️‍🌈 时间: 2023-07-10 17:37:34"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - "消息: 4条未读，在APP查看"
+      - "消息: 5条未读，在APP查看"
       - 🇯🇵 日本 W84I | 海外直连、高配 | 3x
       - 🇯🇵 日本 W13I | 海外直连、高配 | 3x
       - 🇸🇬 新加坡 W07I | 海外直连、高配 | 3x
       - 🇯🇵 日本 W3 | 直连、高配 | 2x
       - 🇯🇵 日本 W2 | 华南移动、高配 | 3x
-      - 🇯🇵 日本 W1 | 华南移动、高配、闲时可见 | 3x
       - 🇭🇰 香港 W17 | 小带宽 | 4x
       - 🇭🇰 香港 W13 | 小带宽 | 4x
       - 🇸🇬 新加坡 W51 | 直连、高配 | 2x
-      - 🇸🇬 新加坡 W55 | 华南移动、高配、闲时可见 | 3x
       - 🇺🇸 美国 G12I | 海外直连 | 3x
       - 🇺🇸 美国 G26 | 直连、高配 | 2x
       - 🇺🇸 美国 G97 | 直连 | 2x
@@ -204,17 +162,9 @@ proxy-groups:
       - 🇷🇺 俄罗斯 B75I | 海外直连 | 2x
       - 🇩🇪 德国 B16I | 海外直连、ChatGPT | 2x
       - 🇸🇬 马来西亚 B15I | 海外直连、ChatGPT、Netflix(SG) | 2x
-      - 🇩🇪 德国 B16 | 广东移动、ChatGPT、闲时可见 | 2x
       - 🇹🇭 泰国 B29 | 广东移动 | 2x
-      - 🇻🇳 越南 B60 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
-      - 🇮🇩 印尼 B46 | 广东移动、ChatGPT(原生)、闲时可见 | 3x
       - 🇮🇳 印度 B46 | 广东移动、ChatGPT | 2x
-      - 🇺🇦 乌克兰 B11 | 华南移动、闲时可见 | 2x
       - 🇵🇭 菲律宾 B12 | 广东移动 | 2x
-      - 🇷🇺 俄罗斯 B75 | 广东移动、闲时可见 | 2x
-      - 🇦🇷 阿根廷 B46 | 直连、ChatGPT、闲时可见 | 2x
-      - 🇺🇸 加拿大 B40 | 沪美电信、闲时可见 | 2x
-      - 🇸🇬 马来西亚 B15 | 安徽移动、ChatGPT、Netflix(SG)、闲时可见 | 3x
       - ----- 账号信息 -----
       - "登录账号: qqijhsx@f.lm"
       - "体验套餐: 剩余3天"
@@ -223,23 +173,21 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-07-10 16:49:37"
+      - "🏳️‍🌈 时间: 2023-07-10 17:37:34"
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "消息: 4条未读，在APP查看"
+      - "消息: 5条未读，在APP查看"
       - 🇯🇵 日本 W84I | 海外直连、高配 | 3x
       - 🇯🇵 日本 W13I | 海外直连、高配 | 3x
       - 🇸🇬 新加坡 W07I | 海外直连、高配 | 3x
       - 🇯🇵 日本 W3 | 直连、高配 | 2x
       - 🇯🇵 日本 W2 | 华南移动、高配 | 3x
-      - 🇯🇵 日本 W1 | 华南移动、高配、闲时可见 | 3x
       - 🇭🇰 香港 W17 | 小带宽 | 4x
       - 🇭🇰 香港 W13 | 小带宽 | 4x
       - 🇸🇬 新加坡 W51 | 直连、高配 | 2x
-      - 🇸🇬 新加坡 W55 | 华南移动、高配、闲时可见 | 3x
       - 🇺🇸 美国 G12I | 海外直连 | 3x
       - 🇺🇸 美国 G26 | 直连、高配 | 2x
       - 🇺🇸 美国 G97 | 直连 | 2x
@@ -249,17 +197,9 @@ proxy-groups:
       - 🇷🇺 俄罗斯 B75I | 海外直连 | 2x
       - 🇩🇪 德国 B16I | 海外直连、ChatGPT | 2x
       - 🇸🇬 马来西亚 B15I | 海外直连、ChatGPT、Netflix(SG) | 2x
-      - 🇩🇪 德国 B16 | 广东移动、ChatGPT、闲时可见 | 2x
       - 🇹🇭 泰国 B29 | 广东移动 | 2x
-      - 🇻🇳 越南 B60 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
-      - 🇮🇩 印尼 B46 | 广东移动、ChatGPT(原生)、闲时可见 | 3x
       - 🇮🇳 印度 B46 | 广东移动、ChatGPT | 2x
-      - 🇺🇦 乌克兰 B11 | 华南移动、闲时可见 | 2x
       - 🇵🇭 菲律宾 B12 | 广东移动 | 2x
-      - 🇷🇺 俄罗斯 B75 | 广东移动、闲时可见 | 2x
-      - 🇦🇷 阿根廷 B46 | 直连、ChatGPT、闲时可见 | 2x
-      - 🇺🇸 加拿大 B40 | 沪美电信、闲时可见 | 2x
-      - 🇸🇬 马来西亚 B15 | 安徽移动、ChatGPT、Netflix(SG)、闲时可见 | 3x
       - ----- 账号信息 -----
       - "登录账号: qqijhsx@f.lm"
       - "体验套餐: 剩余3天"
@@ -268,23 +208,21 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-07-10 16:49:37"
+      - "🏳️‍🌈 时间: 2023-07-10 17:37:34"
   - name: 📢 谷歌FCM
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "消息: 4条未读，在APP查看"
+      - "消息: 5条未读，在APP查看"
       - 🇯🇵 日本 W84I | 海外直连、高配 | 3x
       - 🇯🇵 日本 W13I | 海外直连、高配 | 3x
       - 🇸🇬 新加坡 W07I | 海外直连、高配 | 3x
       - 🇯🇵 日本 W3 | 直连、高配 | 2x
       - 🇯🇵 日本 W2 | 华南移动、高配 | 3x
-      - 🇯🇵 日本 W1 | 华南移动、高配、闲时可见 | 3x
       - 🇭🇰 香港 W17 | 小带宽 | 4x
       - 🇭🇰 香港 W13 | 小带宽 | 4x
       - 🇸🇬 新加坡 W51 | 直连、高配 | 2x
-      - 🇸🇬 新加坡 W55 | 华南移动、高配、闲时可见 | 3x
       - 🇺🇸 美国 G12I | 海外直连 | 3x
       - 🇺🇸 美国 G26 | 直连、高配 | 2x
       - 🇺🇸 美国 G97 | 直连 | 2x
@@ -294,17 +232,9 @@ proxy-groups:
       - 🇷🇺 俄罗斯 B75I | 海外直连 | 2x
       - 🇩🇪 德国 B16I | 海外直连、ChatGPT | 2x
       - 🇸🇬 马来西亚 B15I | 海外直连、ChatGPT、Netflix(SG) | 2x
-      - 🇩🇪 德国 B16 | 广东移动、ChatGPT、闲时可见 | 2x
       - 🇹🇭 泰国 B29 | 广东移动 | 2x
-      - 🇻🇳 越南 B60 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
-      - 🇮🇩 印尼 B46 | 广东移动、ChatGPT(原生)、闲时可见 | 3x
       - 🇮🇳 印度 B46 | 广东移动、ChatGPT | 2x
-      - 🇺🇦 乌克兰 B11 | 华南移动、闲时可见 | 2x
       - 🇵🇭 菲律宾 B12 | 广东移动 | 2x
-      - 🇷🇺 俄罗斯 B75 | 广东移动、闲时可见 | 2x
-      - 🇦🇷 阿根廷 B46 | 直连、ChatGPT、闲时可见 | 2x
-      - 🇺🇸 加拿大 B40 | 沪美电信、闲时可见 | 2x
-      - 🇸🇬 马来西亚 B15 | 安徽移动、ChatGPT、Netflix(SG)、闲时可见 | 3x
       - ----- 账号信息 -----
       - "登录账号: qqijhsx@f.lm"
       - "体验套餐: 剩余3天"
@@ -313,7 +243,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-07-10 16:49:37"
+      - "🏳️‍🌈 时间: 2023-07-10 17:37:34"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -330,17 +260,15 @@ proxy-groups:
       - REJECT
       - DIRECT
       - 🚀 节点选择
-      - "消息: 4条未读，在APP查看"
+      - "消息: 5条未读，在APP查看"
       - 🇯🇵 日本 W84I | 海外直连、高配 | 3x
       - 🇯🇵 日本 W13I | 海外直连、高配 | 3x
       - 🇸🇬 新加坡 W07I | 海外直连、高配 | 3x
       - 🇯🇵 日本 W3 | 直连、高配 | 2x
       - 🇯🇵 日本 W2 | 华南移动、高配 | 3x
-      - 🇯🇵 日本 W1 | 华南移动、高配、闲时可见 | 3x
       - 🇭🇰 香港 W17 | 小带宽 | 4x
       - 🇭🇰 香港 W13 | 小带宽 | 4x
       - 🇸🇬 新加坡 W51 | 直连、高配 | 2x
-      - 🇸🇬 新加坡 W55 | 华南移动、高配、闲时可见 | 3x
       - 🇺🇸 美国 G12I | 海外直连 | 3x
       - 🇺🇸 美国 G26 | 直连、高配 | 2x
       - 🇺🇸 美国 G97 | 直连 | 2x
@@ -350,17 +278,9 @@ proxy-groups:
       - 🇷🇺 俄罗斯 B75I | 海外直连 | 2x
       - 🇩🇪 德国 B16I | 海外直连、ChatGPT | 2x
       - 🇸🇬 马来西亚 B15I | 海外直连、ChatGPT、Netflix(SG) | 2x
-      - 🇩🇪 德国 B16 | 广东移动、ChatGPT、闲时可见 | 2x
       - 🇹🇭 泰国 B29 | 广东移动 | 2x
-      - 🇻🇳 越南 B60 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
-      - 🇮🇩 印尼 B46 | 广东移动、ChatGPT(原生)、闲时可见 | 3x
       - 🇮🇳 印度 B46 | 广东移动、ChatGPT | 2x
-      - 🇺🇦 乌克兰 B11 | 华南移动、闲时可见 | 2x
       - 🇵🇭 菲律宾 B12 | 广东移动 | 2x
-      - 🇷🇺 俄罗斯 B75 | 广东移动、闲时可见 | 2x
-      - 🇦🇷 阿根廷 B46 | 直连、ChatGPT、闲时可见 | 2x
-      - 🇺🇸 加拿大 B40 | 沪美电信、闲时可见 | 2x
-      - 🇸🇬 马来西亚 B15 | 安徽移动、ChatGPT、Netflix(SG)、闲时可见 | 3x
       - ----- 账号信息 -----
       - "登录账号: qqijhsx@f.lm"
       - "体验套餐: 剩余3天"
@@ -369,23 +289,21 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-07-10 16:49:37"
+      - "🏳️‍🌈 时间: 2023-07-10 17:37:34"
   - name: 🐟 漏网之鱼
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - "消息: 4条未读，在APP查看"
+      - "消息: 5条未读，在APP查看"
       - 🇯🇵 日本 W84I | 海外直连、高配 | 3x
       - 🇯🇵 日本 W13I | 海外直连、高配 | 3x
       - 🇸🇬 新加坡 W07I | 海外直连、高配 | 3x
       - 🇯🇵 日本 W3 | 直连、高配 | 2x
       - 🇯🇵 日本 W2 | 华南移动、高配 | 3x
-      - 🇯🇵 日本 W1 | 华南移动、高配、闲时可见 | 3x
       - 🇭🇰 香港 W17 | 小带宽 | 4x
       - 🇭🇰 香港 W13 | 小带宽 | 4x
       - 🇸🇬 新加坡 W51 | 直连、高配 | 2x
-      - 🇸🇬 新加坡 W55 | 华南移动、高配、闲时可见 | 3x
       - 🇺🇸 美国 G12I | 海外直连 | 3x
       - 🇺🇸 美国 G26 | 直连、高配 | 2x
       - 🇺🇸 美国 G97 | 直连 | 2x
@@ -395,17 +313,9 @@ proxy-groups:
       - 🇷🇺 俄罗斯 B75I | 海外直连 | 2x
       - 🇩🇪 德国 B16I | 海外直连、ChatGPT | 2x
       - 🇸🇬 马来西亚 B15I | 海外直连、ChatGPT、Netflix(SG) | 2x
-      - 🇩🇪 德国 B16 | 广东移动、ChatGPT、闲时可见 | 2x
       - 🇹🇭 泰国 B29 | 广东移动 | 2x
-      - 🇻🇳 越南 B60 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
-      - 🇮🇩 印尼 B46 | 广东移动、ChatGPT(原生)、闲时可见 | 3x
       - 🇮🇳 印度 B46 | 广东移动、ChatGPT | 2x
-      - 🇺🇦 乌克兰 B11 | 华南移动、闲时可见 | 2x
       - 🇵🇭 菲律宾 B12 | 广东移动 | 2x
-      - 🇷🇺 俄罗斯 B75 | 广东移动、闲时可见 | 2x
-      - 🇦🇷 阿根廷 B46 | 直连、ChatGPT、闲时可见 | 2x
-      - 🇺🇸 加拿大 B40 | 沪美电信、闲时可见 | 2x
-      - 🇸🇬 马来西亚 B15 | 安徽移动、ChatGPT、Netflix(SG)、闲时可见 | 3x
       - ----- 账号信息 -----
       - "登录账号: qqijhsx@f.lm"
       - "体验套餐: 剩余3天"
@@ -414,7 +324,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-07-10 16:49:37"
+      - "🏳️‍🌈 时间: 2023-07-10 17:37:34"
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
