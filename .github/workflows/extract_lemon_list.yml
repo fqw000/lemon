@@ -47,7 +47,7 @@ jobs:
           echo "" >lemonSurge.list
           curl -L "$url3" -o lemonSurge.list
           echo "" > lemonsg4.list
-          cat lemonSurge.list | pcregrep -M '(?<=\[Proxy\]\n).+?(?=\n\[Proxy Group\])' > lemonsg4.list
+          cat lemonSurge.list | pcregrep -M '(?<=DIRECT = direct\n).+?(?=\[Proxy Group\])' > lemonsg4.list
           
 #         cat lemonSurge.list | pcregrep -M '(?s)\[Proxy\].+?(?=\[Proxy Group\])' > lemonsg4.list
 #         cat lemonSurge.list | perl -ne 'print if /^\[Proxy\]\n(?:.+\n)*.*(?=\[Proxy Group\])/' > lemonsg4.list
