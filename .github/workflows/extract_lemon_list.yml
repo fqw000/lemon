@@ -49,6 +49,6 @@ jobs:
       run: |
         git config --local user.email "wang_zi_mo@163.com"
         git config --local user.name "fqw000"
-        git add lemon.sub lemon.list lemon.yaml lemonlite.yaml lemonnode.yaml
+        git add lemon.sub lemon.list lemon.yaml lemonlite.yaml lemonnode.yaml lemonSurge.list lemonSurge.list
         git commit -m "Add lemon.sub lemon.list lemon.yaml lemonlite.yaml lemonnode.yaml"
         git push
