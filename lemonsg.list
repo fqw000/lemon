@@ -5,13 +5,13 @@
 🇸🇬 新加坡 W1I | 海外直连、高配、新开机 | 3x = trojan, 165.22.245.191, 16123, password=5qSA2913kC, sni=w703.ft3.us, skip-cert-verify=true, tfo=false, udp-relay=true
 🇯🇵 日本 W1 | 直连、高配 | 2x = trojan, 139.162.85.24, 28524, password=5qSA2913kC, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
 🇯🇵 日本 W2 | 华南移动、高配 | 3x = trojan, 36.158.205.217, 28432, password=5qSA2913kC, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇭🇰 香港 W13 | 小带宽 | 4x = trojan, 183.213.200.143, 14571, password=5qSA2913kC, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇭🇰 香港 W17 | 小带宽 | 4x = trojan, 183.213.200.199, 19817, password=5qSA2913kC, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇭🇰 香港 W13 | 小带宽 | 4x = trojan, 183.213.200.143, 14571, password=5qSA2913kC, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇸🇬 新加坡 W51 | 直连、高配 | 2x = trojan, 167.71.211.251, 11251, password=5qSA2913kC, sni=w624a.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
 🇺🇸 美国 G12I | 海外直连 | 3x = trojan, 193.178.210.29, 15010, password=5qSA2913kC, sni=d61a.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-🇺🇸 美国 G97 | 直连 | 2x = trojan, 24.199.126.159, 11116, password=5qSA2913kC, sni=g97c.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
 🇺🇸 美国 G04 | 直连、高配 | 2x = trojan, 164.90.147.4, 21475, password=5qSA2913kC, sni=g706.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
 🇺🇸 美国 G26 | 直连、高配 | 2x = trojan, 164.92.124.126, 28335, password=5qSA2913kC, sni=g624a.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+🇺🇸 美国 G97 | 直连 | 2x = trojan, 24.199.126.159, 11116, password=5qSA2913kC, sni=g97c.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
 🇺🇸 美国 G29 | 小带宽 | 3x = trojan, 101.89.143.182, 30187, password=5qSA2913kC, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇺🇦 乌克兰 B11I | 海外直连 | 2x = trojan, 45.87.155.101, 15101, password=5qSA2913kC, sni=l4a.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
 🇷🇺 俄罗斯 B75I | 海外直连 | 2x = trojan, 45.144.30.175, 30175, password=5qSA2913kC, sni=l3a.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
@@ -28,5 +28,5 @@
 电报: https://t.me/falemon_group = trojan, 172.104.116.46, 16119, password=5qSA2913kC, sni=l19.ft3.us, skip-cert-verify=true, tfo=false, udp-relay=true
 邮箱: contact@falemon.com = trojan, 172.104.116.46, 16119, password=5qSA2913kC, sni=l19.ft3.us, skip-cert-verify=true, tfo=false, udp-relay=true
 官网: falm.cc = trojan, 172.104.116.46, 16119, password=5qSA2913kC, sni=l19.ft3.us, skip-cert-verify=true, tfo=false, udp-relay=true
-🏳️‍🌈 时间: 2023-07-11 17:18:05 = trojan, 172.104.116.46, 16119, password=5qSA2913kC, sni=l19.ft3.us, skip-cert-verify=true, tfo=false, udp-relay=true
+🏳️‍🌈 时间: 2023-07-11 20:38:27 = trojan, 172.104.116.46, 16119, password=5qSA2913kC, sni=l19.ft3.us, skip-cert-verify=true, tfo=false, udp-relay=true
 
