@@ -7,14 +7,14 @@
 🇸🇬 新加坡 W51 | 直连、高配 | 2x = trojan, 167.71.211.251, 11251, password=iMdK752dU6, sni=w624a.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
 🇸🇬 新加坡 W55 | 华南移动、高配、闲时可见 | 3x = trojan, 36.158.205.217, 26136, password=iMdK752dU6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇺🇸 美国 G04 | 直连、高配 | 2x = trojan, 164.90.147.4, 21475, password=iMdK752dU6, sni=g706.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-🇺🇸 美国 G26 | 直连、高配 | 2x = trojan, 164.92.124.126, 28335, password=iMdK752dU6, sni=g624a.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
 🇺🇸 美国 G97 | 直连 | 2x = trojan, 24.199.126.159, 11116, password=iMdK752dU6, sni=g97c.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+🇺🇸 美国 G26 | 直连、高配 | 2x = trojan, 164.92.124.126, 28335, password=iMdK752dU6, sni=g624a.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
 🇺🇸 美国 G29 | 小带宽 | 3x = trojan, 101.89.143.182, 30187, password=iMdK752dU6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇩🇪 德国 B16 | 广东移动、ChatGPT、闲时可见 | 2x = trojan, 183.213.200.143, 22116, password=iMdK752dU6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇹🇭 泰国 B29 | 广东移动 | 2x = trojan, 183.213.200.143, 31008, password=iMdK752dU6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇮🇳 印度 B46 | 广东移动、ChatGPT | 2x = trojan, 183.213.200.143, 31007, password=iMdK752dU6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇻🇳 越南 B60 | 华南移动、ChatGPT(原生)、闲时可见 | 3x = trojan, 36.158.205.217, 31011, password=iMdK752dU6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇮🇩 印尼 B46 | 广东移动、ChatGPT(原生)、闲时可见 | 3x = trojan, 183.213.200.143, 31010, password=iMdK752dU6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇻🇳 越南 B60 | 华南移动、ChatGPT(原生)、闲时可见 | 3x = trojan, 36.158.205.217, 31011, password=iMdK752dU6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇺🇦 乌克兰 B11 | 华南移动、闲时可见 | 2x = trojan, 36.158.205.217, 30282, password=iMdK752dU6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇵🇭 菲律宾 B12 | 广东移动 | 2x = trojan, 183.213.200.143, 31009, password=iMdK752dU6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇷🇺 俄罗斯 B75 | 广东移动、闲时可见 | 2x = trojan, 183.213.200.143, 30183, password=iMdK752dU6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
@@ -29,5 +29,5 @@
 电报: https://t.me/falemon_group = trojan, 139.162.85.24, 28524, password=iMdK752dU6, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
 邮箱: contact@falemon.com = trojan, 139.162.85.24, 28524, password=iMdK752dU6, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
 官网: falm.cc = trojan, 139.162.85.24, 28524, password=iMdK752dU6, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-🏳️‍🌈 时间: 2023-07-14 09:52:29 = trojan, 139.162.85.24, 28524, password=iMdK752dU6, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+🏳️‍🌈 时间: 2023-07-14 11:27:18 = trojan, 139.162.85.24, 28524, password=iMdK752dU6, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
 
