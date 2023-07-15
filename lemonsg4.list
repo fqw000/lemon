@@ -3,8 +3,8 @@ DIRECT = direct
 消息: 5条未读，在APP查看 = trojan, 139.162.85.24, 28524, password=iMdK752dU6, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
 🇯🇵 日本 W1 | 直连、高配 | 2x = trojan, 139.162.85.24, 28524, password=iMdK752dU6, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
 🇯🇵 日本 W2 | 上海电信、高配 | 3x = trojan, 101.91.178.234, 28432, password=iMdK752dU6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇭🇰 香港 W17 | 小带宽 | 4x = trojan, 36.158.205.217, 19817, password=iMdK752dU6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇭🇰 香港 W13 | 小带宽 | 4x = trojan, 36.158.205.217, 14571, password=iMdK752dU6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇭🇰 香港 W13 | 小带宽 | 4x = trojan, 101.91.178.234, 14571, password=iMdK752dU6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇭🇰 香港 W17 | 小带宽 | 4x = trojan, 101.91.178.234, 19817, password=iMdK752dU6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇸🇬 新加坡 W51 | 直连、高配 | 2x = trojan, 167.71.211.251, 11251, password=iMdK752dU6, sni=w624a.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x = trojan, 164.90.147.4, 21475, password=iMdK752dU6, sni=g706.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
 🇺🇸 美国 G26 | 直连、Spotify(US) | 2x = trojan, 164.92.124.126, 28335, password=iMdK752dU6, sni=g624a.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
@@ -21,5 +21,5 @@ DIRECT = direct
 电报: https://t.me/falemon_group = trojan, 139.162.85.24, 28524, password=iMdK752dU6, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
 邮箱: contact@falemon.com = trojan, 139.162.85.24, 28524, password=iMdK752dU6, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
 官网: falm.cc = trojan, 139.162.85.24, 28524, password=iMdK752dU6, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-🏳️‍🌈 时间: 2023-07-15 20:33:57 = trojan, 139.162.85.24, 28524, password=iMdK752dU6, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+🏳️‍🌈 时间: 2023-07-15 23:17:20 = trojan, 139.162.85.24, 28524, password=iMdK752dU6, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
 
