@@ -13,8 +13,8 @@ proxies:
   - {name: 🇸🇬 新加坡 W51 | 直连、高配 | 2x, server: 167.71.211.251, port: 11251, type: trojan, password: 13q092yTna, sni: w624a.ft4.xyz, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G40 | 直连、Spotify(US) | 2x, server: 128.199.5.97, port: 25147, type: trojan, password: 13q092yTna, sni: g707.ft4.xyz, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 美国 G23 | 直连、Spotify(US)、新开机 | 2x, server: 146.190.174.123, port: 24123, type: trojan, password: 13q092yTna, sni: g718.ft4.xyz, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国 G26 | 直连、Spotify(US) | 2x, server: 164.92.124.126, port: 28335, type: trojan, password: 13q092yTna, sni: g624a.ft4.xyz, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x, server: 164.90.147.4, port: 21475, type: trojan, password: 13q092yTna, sni: g706.ft4.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国 G26 | 直连、Spotify(US) | 2x, server: 164.92.124.126, port: 28335, type: trojan, password: 13q092yTna, sni: g624a.ft4.xyz, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G29 | 小带宽 | 3x, server: 101.91.178.234, port: 30187, type: trojan, password: 13q092yTna, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇹🇭 泰国 B29 | 广东移动 | 2x, server: 183.213.200.143, port: 31008, type: trojan, password: 13q092yTna, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇮🇳 印度 B46 | 广东移动、ChatGPT | 2x, server: 183.213.200.143, port: 31007, type: trojan, password: 13q092yTna, sni: v.qq.com, skip-cert-verify: true, udp: true}
@@ -27,7 +27,7 @@ proxies:
   - {name: "电报: https://t.me/falemon_group", server: 139.162.85.24, port: 28524, type: trojan, password: 13q092yTna, sni: w704.ft4.xyz, skip-cert-verify: true, udp: true}
   - {name: "邮箱: contact@falemon.com", server: 139.162.85.24, port: 28524, type: trojan, password: 13q092yTna, sni: w704.ft4.xyz, skip-cert-verify: true, udp: true}
   - {name: "官网: falm.cc", server: 139.162.85.24, port: 28524, type: trojan, password: 13q092yTna, sni: w704.ft4.xyz, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2023-07-19 17:15:59", server: 139.162.85.24, port: 28524, type: trojan, password: 13q092yTna, sni: w704.ft4.xyz, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2023-07-19 20:33:29", server: 139.162.85.24, port: 28524, type: trojan, password: 13q092yTna, sni: w704.ft4.xyz, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -40,8 +40,8 @@ proxy-groups:
       - 🇸🇬 新加坡 W51 | 直连、高配 | 2x
       - 🇺🇸 美国 G40 | 直连、Spotify(US) | 2x
       - 🇸🇬 美国 G23 | 直连、Spotify(US)、新开机 | 2x
-      - 🇺🇸 美国 G26 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G26 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇹🇭 泰国 B29 | 广东移动 | 2x
       - 🇮🇳 印度 B46 | 广东移动、ChatGPT | 2x
@@ -54,7 +54,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-07-19 17:15:59"
+      - "🏳️‍🌈 时间: 2023-07-19 20:33:29"
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -68,8 +68,8 @@ proxy-groups:
       - 🇸🇬 新加坡 W51 | 直连、高配 | 2x
       - 🇺🇸 美国 G40 | 直连、Spotify(US) | 2x
       - 🇸🇬 美国 G23 | 直连、Spotify(US)、新开机 | 2x
-      - 🇺🇸 美国 G26 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G26 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇹🇭 泰国 B29 | 广东移动 | 2x
       - 🇮🇳 印度 B46 | 广东移动、ChatGPT | 2x
@@ -82,7 +82,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-07-19 17:15:59"
+      - "🏳️‍🌈 时间: 2023-07-19 20:33:29"
   - name: 📲 电报信息
     type: select
     proxies:
@@ -96,8 +96,8 @@ proxy-groups:
       - 🇸🇬 新加坡 W51 | 直连、高配 | 2x
       - 🇺🇸 美国 G40 | 直连、Spotify(US) | 2x
       - 🇸🇬 美国 G23 | 直连、Spotify(US)、新开机 | 2x
-      - 🇺🇸 美国 G26 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G26 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇹🇭 泰国 B29 | 广东移动 | 2x
       - 🇮🇳 印度 B46 | 广东移动、ChatGPT | 2x
@@ -110,7 +110,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-07-19 17:15:59"
+      - "🏳️‍🌈 时间: 2023-07-19 20:33:29"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -124,8 +124,8 @@ proxy-groups:
       - 🇸🇬 新加坡 W51 | 直连、高配 | 2x
       - 🇺🇸 美国 G40 | 直连、Spotify(US) | 2x
       - 🇸🇬 美国 G23 | 直连、Spotify(US)、新开机 | 2x
-      - 🇺🇸 美国 G26 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G26 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇹🇭 泰国 B29 | 广东移动 | 2x
       - 🇮🇳 印度 B46 | 广东移动、ChatGPT | 2x
@@ -138,7 +138,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-07-19 17:15:59"
+      - "🏳️‍🌈 时间: 2023-07-19 20:33:29"
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -152,8 +152,8 @@ proxy-groups:
       - 🇸🇬 新加坡 W51 | 直连、高配 | 2x
       - 🇺🇸 美国 G40 | 直连、Spotify(US) | 2x
       - 🇸🇬 美国 G23 | 直连、Spotify(US)、新开机 | 2x
-      - 🇺🇸 美国 G26 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G26 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇹🇭 泰国 B29 | 广东移动 | 2x
       - 🇮🇳 印度 B46 | 广东移动、ChatGPT | 2x
@@ -166,7 +166,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-07-19 17:15:59"
+      - "🏳️‍🌈 时间: 2023-07-19 20:33:29"
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -180,8 +180,8 @@ proxy-groups:
       - 🇸🇬 新加坡 W51 | 直连、高配 | 2x
       - 🇺🇸 美国 G40 | 直连、Spotify(US) | 2x
       - 🇸🇬 美国 G23 | 直连、Spotify(US)、新开机 | 2x
-      - 🇺🇸 美国 G26 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G26 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇹🇭 泰国 B29 | 广东移动 | 2x
       - 🇮🇳 印度 B46 | 广东移动、ChatGPT | 2x
@@ -194,7 +194,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-07-19 17:15:59"
+      - "🏳️‍🌈 时间: 2023-07-19 20:33:29"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -219,8 +219,8 @@ proxy-groups:
       - 🇸🇬 新加坡 W51 | 直连、高配 | 2x
       - 🇺🇸 美国 G40 | 直连、Spotify(US) | 2x
       - 🇸🇬 美国 G23 | 直连、Spotify(US)、新开机 | 2x
-      - 🇺🇸 美国 G26 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G26 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇹🇭 泰国 B29 | 广东移动 | 2x
       - 🇮🇳 印度 B46 | 广东移动、ChatGPT | 2x
@@ -233,7 +233,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-07-19 17:15:59"
+      - "🏳️‍🌈 时间: 2023-07-19 20:33:29"
   - name: 🐟 漏网之鱼
     type: select
     proxies:
@@ -247,8 +247,8 @@ proxy-groups:
       - 🇸🇬 新加坡 W51 | 直连、高配 | 2x
       - 🇺🇸 美国 G40 | 直连、Spotify(US) | 2x
       - 🇸🇬 美国 G23 | 直连、Spotify(US)、新开机 | 2x
-      - 🇺🇸 美国 G26 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G26 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇹🇭 泰国 B29 | 广东移动 | 2x
       - 🇮🇳 印度 B46 | 广东移动、ChatGPT | 2x
@@ -261,7 +261,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-07-19 17:15:59"
+      - "🏳️‍🌈 时间: 2023-07-19 20:33:29"
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
