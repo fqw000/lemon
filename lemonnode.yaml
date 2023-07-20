@@ -11,10 +11,10 @@ proxies:
   - {name: 🇭🇰 香港 W17 | 小带宽 | 4x, server: 36.158.205.217, port: 19817, type: trojan, password: 13q092yTna, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇭🇰 香港 W13 | 小带宽 | 4x, server: 36.158.205.217, port: 14571, type: trojan, password: 13q092yTna, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 新加坡 W51 | 直连、高配 | 2x, server: 167.71.211.251, port: 11251, type: trojan, password: 13q092yTna, sni: w624a.ft4.xyz, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国 G40 | 直连、Spotify(US) | 2x, server: 128.199.5.97, port: 25147, type: trojan, password: 13q092yTna, sni: g707.ft4.xyz, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国 G26 | 直连、Spotify(US) | 2x, server: 164.92.124.126, port: 28335, type: trojan, password: 13q092yTna, sni: g624a.ft4.xyz, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x, server: 164.90.147.4, port: 21475, type: trojan, password: 13q092yTna, sni: g706.ft4.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国 G40 | 直连、Spotify(US) | 2x, server: 128.199.5.97, port: 25147, type: trojan, password: 13q092yTna, sni: g707.ft4.xyz, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 美国 G23 | 直连、Spotify(US)、新开机 | 2x, server: 146.190.174.123, port: 24123, type: trojan, password: 13q092yTna, sni: g718.ft4.xyz, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国 G26 | 直连、Spotify(US) | 2x, server: 164.92.124.126, port: 28335, type: trojan, password: 13q092yTna, sni: g624a.ft4.xyz, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G29 | 小带宽 | 3x, server: 101.91.178.234, port: 30187, type: trojan, password: 13q092yTna, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇹🇭 泰国 B29 | 广东移动 | 2x, server: 183.213.200.143, port: 31008, type: trojan, password: 13q092yTna, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇮🇳 印度 B46 | 广东移动、ChatGPT | 2x, server: 183.213.200.143, port: 31007, type: trojan, password: 13q092yTna, sni: v.qq.com, skip-cert-verify: true, udp: true}
@@ -27,4 +27,4 @@ proxies:
   - {name: "电报: https://t.me/falemon_group", server: 139.162.85.24, port: 28524, type: trojan, password: 13q092yTna, sni: w704.ft4.xyz, skip-cert-verify: true, udp: true}
   - {name: "邮箱: contact@falemon.com", server: 139.162.85.24, port: 28524, type: trojan, password: 13q092yTna, sni: w704.ft4.xyz, skip-cert-verify: true, udp: true}
   - {name: "官网: falm.cc", server: 139.162.85.24, port: 28524, type: trojan, password: 13q092yTna, sni: w704.ft4.xyz, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2023-07-20 17:16:09", server: 139.162.85.24, port: 28524, type: trojan, password: 13q092yTna, sni: w704.ft4.xyz, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2023-07-20 20:34:21", server: 139.162.85.24, port: 28524, type: trojan, password: 13q092yTna, sni: w704.ft4.xyz, skip-cert-verify: true, udp: true}
