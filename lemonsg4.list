@@ -11,8 +11,8 @@ DIRECT = direct
 🇺🇸 美国 G23 | 直连、Spotify(US) | 2x = trojan, 146.190.174.123, 24123, password=13q092yTna, sni=g718.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
 🇺🇸 美国 G26 | 直连、Spotify(US) | 2x = trojan, 164.92.124.126, 28335, password=13q092yTna, sni=g624a.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
 🇺🇸 美国 G29 | 小带宽 | 3x = trojan, 61.171.68.58, 30187, password=13q092yTna, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇹🇭 泰国 B29 | 广东移动 | 2x = trojan, 183.213.200.143, 31008, password=13q092yTna, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇮🇳 印度 B46 | 广东移动、ChatGPT | 2x = trojan, 183.213.200.143, 31007, password=13q092yTna, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇹🇭 泰国 B29 | 广东移动 | 2x = trojan, 183.213.200.143, 31008, password=13q092yTna, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇵🇭 菲律宾 B12 | 广东移动 | 2x = trojan, 183.213.200.143, 31009, password=13q092yTna, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 ----- 账号信息 ----- = trojan, 139.162.85.24, 28524, password=13q092yTna, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
 登录账号: qlijszg@f.lm = trojan, 139.162.85.24, 28524, password=13q092yTna, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
@@ -22,5 +22,5 @@ DIRECT = direct
 电报: https://t.me/falemon_group = trojan, 139.162.85.24, 28524, password=13q092yTna, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
 邮箱: contact@falemon.com = trojan, 139.162.85.24, 28524, password=13q092yTna, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
 官网: falm.cc = trojan, 139.162.85.24, 28524, password=13q092yTna, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-🏳️‍🌈 时间: 2023-07-21 17:15:51 = trojan, 139.162.85.24, 28524, password=13q092yTna, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+🏳️‍🌈 时间: 2023-07-21 20:32:25 = trojan, 139.162.85.24, 28524, password=13q092yTna, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
 
