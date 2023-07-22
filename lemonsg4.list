@@ -1,23 +1,31 @@
 [Proxy]
 DIRECT = direct
-消息: 8条未读，在APP查看 = trojan, 139.162.85.24, 28524, password=13q092yTna, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-🇯🇵 日本 W1 | 直连、高配 | 2x = trojan, 139.162.85.24, 28524, password=13q092yTna, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-🇯🇵 日本 W2 | 上海电信、高配 | 3x = trojan, 101.227.236.104, 28431, password=13q092yTna, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇭🇰 香港 W17 | 小带宽 | 4x = trojan, 36.134.59.144, 19817, password=13q092yTna, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇭🇰 香港 W13 | 小带宽 | 4x = trojan, 36.134.59.144, 14571, password=13q092yTna, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇸🇬 新加坡 W51 | 直连、高配 | 2x = trojan, 167.71.211.251, 11251, password=13q092yTna, sni=w624a.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-🇺🇸 美国 G04 | 直连、Spotify(US) | 2x = trojan, 164.90.147.4, 21475, password=13q092yTna, sni=g706.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-🇺🇸 美国 G23 | 直连、Spotify(US) | 2x = trojan, 146.190.174.123, 24123, password=13q092yTna, sni=g718.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-🇺🇸 美国 G40 | 直连、Spotify(US) | 2x = trojan, 128.199.5.97, 25147, password=13q092yTna, sni=g707.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-🇺🇸 美国 G26 | 直连、Spotify(US) | 2x = trojan, 164.92.124.126, 28335, password=13q092yTna, sni=g624a.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-🇺🇸 美国 G29 | 小带宽 | 3x = trojan, 218.78.82.34, 30187, password=13q092yTna, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
------ 账号信息 ----- = trojan, 139.162.85.24, 28524, password=13q092yTna, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-登录账号: qlijszg@f.lm = trojan, 139.162.85.24, 28524, password=13q092yTna, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-体验套餐: 剩余17小时29分钟 = trojan, 139.162.85.24, 28524, password=13q092yTna, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-🏳️‍🌈 流量重置: 每月18日 10G，剩余10G = trojan, 139.162.85.24, 28524, password=13q092yTna, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
------ 联系我们 ----- = trojan, 139.162.85.24, 28524, password=13q092yTna, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-电报: https://t.me/falemon_group = trojan, 139.162.85.24, 28524, password=13q092yTna, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-邮箱: contact@falemon.com = trojan, 139.162.85.24, 28524, password=13q092yTna, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-官网: falm.cc = trojan, 139.162.85.24, 28524, password=13q092yTna, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-🏳️‍🌈 时间: 2023-07-22 17:14:27 = trojan, 139.162.85.24, 28524, password=13q092yTna, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+消息: 1条未读，在APP查看 = trojan, 183.213.200.225, 10443, password=IGALCzHQG3, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇭🇰 香港 I2 | IEPL、限时体验2小时 | 3x = trojan, 183.213.200.225, 10443, password=IGALCzHQG3, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇭🇰 香港 I5 | IEPL、Telegram、限时体验2小时 | 3x = trojan, 183.213.200.205, 10443, password=IGALCzHQG3, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇺🇸 美国 V1 | 上海电信、ChatGPT、限时体验4小时 | 2x = trojan, 218.78.25.236, 22984, password=IGALCzHQG3, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇸🇬 新加坡 V1 | 上海电信、ChatGPT、限时体验2小时 | 3x = trojan, 218.78.82.34, 36139, password=IGALCzHQG3, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇺🇸 美国 M2 | 上海电信、Netflix(US)、限时体验2小时 | 3x = trojan, 218.78.82.34, 35490, password=IGALCzHQG3, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇯🇵 日本 W1 | 直连、高配 | 2x = trojan, 139.162.85.24, 28524, password=IGALCzHQG3, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+🇯🇵 日本 W2 | 上海电信、高配 | 3x = trojan, 218.78.82.34, 28431, password=IGALCzHQG3, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇭🇰 香港 W13 | 小带宽 | 4x = trojan, 36.134.59.201, 14571, password=IGALCzHQG3, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇭🇰 香港 W17 | 小带宽 | 4x = trojan, 36.134.59.144, 19817, password=IGALCzHQG3, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇸🇬 新加坡 W51 | 直连、高配 | 2x = trojan, 167.71.211.251, 11251, password=IGALCzHQG3, sni=w624a.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+🇺🇸 美国 G04 | 直连、Spotify(US) | 2x = trojan, 164.90.147.4, 21475, password=IGALCzHQG3, sni=g706.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+🇺🇸 美国 G40 | 直连、Spotify(US) | 2x = trojan, 128.199.5.97, 25147, password=IGALCzHQG3, sni=g707.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+🇺🇸 美国 G26 | 直连、Spotify(US) | 2x = trojan, 164.92.124.126, 28335, password=IGALCzHQG3, sni=g624a.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+🇺🇸 美国 G23 | 直连、Spotify(US) | 2x = trojan, 146.190.174.123, 24123, password=IGALCzHQG3, sni=g718.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+🇺🇸 美国 G29 | 小带宽 | 3x = trojan, 218.78.25.236, 30187, password=IGALCzHQG3, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇹🇭 泰国 B29 | 广东移动 | 2x = trojan, 183.213.200.143, 31008, password=IGALCzHQG3, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇮🇳 印度 B46 | 广东移动、ChatGPT | 2x = trojan, 183.213.200.143, 31007, password=IGALCzHQG3, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇵🇭 菲律宾 B12 | 广东移动 | 2x = trojan, 183.213.200.143, 31009, password=IGALCzHQG3, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+----- 账号信息 ----- = trojan, 183.213.200.225, 10443, password=IGALCzHQG3, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+登录账号: shijjnt@f.lm = trojan, 183.213.200.225, 10443, password=IGALCzHQG3, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+体验套餐: 剩余5天 = trojan, 183.213.200.225, 10443, password=IGALCzHQG3, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🏳️‍🌈 流量重置: 每月22日 10G，剩余10G = trojan, 183.213.200.225, 10443, password=IGALCzHQG3, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+----- 联系我们 ----- = trojan, 183.213.200.225, 10443, password=IGALCzHQG3, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+电报: https://t.me/falemon_group = trojan, 183.213.200.225, 10443, password=IGALCzHQG3, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+邮箱: contact@falemon.com = trojan, 183.213.200.225, 10443, password=IGALCzHQG3, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+官网: falm.cc = trojan, 183.213.200.225, 10443, password=IGALCzHQG3, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🏳️‍🌈 时间: 2023-07-22 18:50:01 = trojan, 183.213.200.225, 10443, password=IGALCzHQG3, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 
