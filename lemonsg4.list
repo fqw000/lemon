@@ -1,25 +1,14 @@
 [Proxy]
 DIRECT = direct
-消息: 7条未读，在APP查看 = trojan, 167.71.211.251, 11251, password=IGALCzHQG3, sni=w624a.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-🇸🇬 新加坡 W1 | 直连、高配 | 2x = trojan, 167.71.211.251, 11251, password=IGALCzHQG3, sni=w624a.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-🇯🇵 日本 W1 | 直连、高配 | 2x = trojan, 139.162.85.24, 28524, password=IGALCzHQG3, sni=w704.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-🇯🇵 日本 W2 | 华南移动、高配 | 3x = trojan, 36.158.205.217, 28431, password=IGALCzHQG3, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇭🇰 香港 W13 | 小带宽 | 4x = trojan, 183.213.200.143, 14571, password=IGALCzHQG3, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇺🇸 美国 G40 | 直连、Spotify(US) | 2x = trojan, 128.199.5.97, 25147, password=IGALCzHQG3, sni=g707.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-🇺🇸 美国 G04 | 直连、Spotify(US) | 2x = trojan, 164.90.147.4, 21475, password=IGALCzHQG3, sni=g706.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-🇺🇸 美国 G26 | 直连、Spotify(US) | 2x = trojan, 164.92.124.126, 28335, password=IGALCzHQG3, sni=g624a.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-🇺🇸 美国 G23 | 直连、Spotify(US) | 2x = trojan, 146.190.174.123, 24123, password=IGALCzHQG3, sni=g718.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-🇺🇸 美国 G29 | 小带宽 | 3x = trojan, 14.29.225.243, 30187, password=IGALCzHQG3, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇮🇳 印度 B46 | 广东移动、ChatGPT | 2x = trojan, 183.213.200.143, 31007, password=IGALCzHQG3, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇹🇭 泰国 B29 | 广东移动 | 2x = trojan, 183.213.200.143, 31008, password=IGALCzHQG3, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇵🇭 菲律宾 B12 | 广东移动 | 2x = trojan, 183.213.200.143, 31009, password=IGALCzHQG3, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
------ 账号信息 ----- = trojan, 167.71.211.251, 11251, password=IGALCzHQG3, sni=w624a.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-登录账号: shijjnt@f.lm = trojan, 167.71.211.251, 11251, password=IGALCzHQG3, sni=w624a.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-体验套餐: 剩余1小时33分钟 = trojan, 167.71.211.251, 11251, password=IGALCzHQG3, sni=w624a.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-🏳️‍🌈 流量重置: 每月22日 10G，剩余10G = trojan, 167.71.211.251, 11251, password=IGALCzHQG3, sni=w624a.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
------ 联系我们 ----- = trojan, 167.71.211.251, 11251, password=IGALCzHQG3, sni=w624a.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-电报: https://t.me/falemon_group = trojan, 167.71.211.251, 11251, password=IGALCzHQG3, sni=w624a.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-邮箱: contact@falemon.com = trojan, 167.71.211.251, 11251, password=IGALCzHQG3, sni=w624a.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-官网: falm.cc = trojan, 167.71.211.251, 11251, password=IGALCzHQG3, sni=w624a.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
-🏳️‍🌈 时间: 2023-07-27 17:15:29 = trojan, 167.71.211.251, 11251, password=IGALCzHQG3, sni=w624a.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+账号套餐已到期，请续费后使用 = trojan, 127.0.0.1, 443, password=919e, sni=919e.f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
+消息: 7条未读，在APP查看 = trojan, 127.0.0.1, 443, password=msg, sni=msg.f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
+----- 账号信息 ----- = trojan, 127.0.0.1, 443, password=l2, sni=l2.f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
+登录账号: shijjnt@f.lm = trojan, 127.0.0.1, 443, password=uemail, sni=uemail.f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
+体验套餐: 已到期 = trojan, 127.0.0.1, 443, password=vip, sni=vip.f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
+🏳️‍🌈 流量重置: 每月22日 10G，剩余10G = trojan, 127.0.0.1, 443, password=flow, sni=flow.f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
+----- 联系我们 ----- = trojan, 127.0.0.1, 443, password=l3, sni=l3.f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
+电报: https://t.me/falemon_group = trojan, 127.0.0.1, 443, password=dac5, sni=dac5.f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
+邮箱: contact@falemon.com = trojan, 127.0.0.1, 443, password=email, sni=email.f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
+官网: falm.cc = trojan, 127.0.0.1, 443, password=fbbe, sni=fbbe.f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
+🏳️‍🌈 时间: 2023-07-27 20:32:53 = trojan, 127.0.0.1, 443, password=7196, sni=7196.f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 
