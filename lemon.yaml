@@ -5,11 +5,11 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: "消息: 4条未读，在APP查看", server: 24.199.123.128, port: 11111, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x, server: 24.199.123.128, port: 11111, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国 G23 | 直连、Spotify(US) | 2x, server: 146.190.121.207, port: 21117, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x, server: 146.190.55.109, port: 21117, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "消息: 4条未读，在APP查看", server: 24.199.126.159, port: 11116, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G59 | 直连、Spotify(US) | 2x, server: 24.199.126.159, port: 11116, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x, server: 146.190.55.109, port: 21117, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国 G23 | 直连、Spotify(US) | 2x, server: 146.190.121.207, port: 21117, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x, server: 24.199.123.128, port: 11111, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G10 | 上海联通、闲时可见 | 3x, server: 220.196.190.128, port: 43422, type: trojan, password: QSgZDCrpdJ, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G29 | 小带宽 | 3x, server: 223.95.40.69, port: 30187, type: trojan, password: QSgZDCrpdJ, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 新加坡 G91 | 直连 | 2x, server: 139.162.23.10, port: 31103, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
@@ -26,24 +26,24 @@ proxies:
   - {name: 🇦🇷 阿根廷 B46 | 上海联通、ChatGPT、闲时可见 | 2x, server: 220.196.190.128, port: 48402, type: trojan, password: QSgZDCrpdJ, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇨🇦 加拿大 B62 | 直连、闲时可见 | 2x, server: 146.19.106.162, port: 33852, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 马来西亚 B15 | 浙江移动、ChatGPT、Netflix(SG)、闲时可见 | 3x, server: 223.95.40.69, port: 21215, type: trojan, password: QSgZDCrpdJ, sni: www.icloud.com, skip-cert-verify: true, udp: true}
-  - {name: ----- 账号信息 -----, server: 24.199.123.128, port: 11111, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "登录账号: qkijebv@f.lm", server: 24.199.123.128, port: 11111, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "体验套餐: 剩余2天", server: 24.199.123.128, port: 11111, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 流量重置: 每月1日 10G，剩余10G", server: 24.199.123.128, port: 11111, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: ----- 联系我们 -----, server: 24.199.123.128, port: 11111, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "电报: https://t.me/falemon_group", server: 24.199.123.128, port: 11111, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "邮箱: contact@falemon.com", server: 24.199.123.128, port: 11111, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "官网: falm.cc", server: 24.199.123.128, port: 11111, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2023-09-04 11:16:10", server: 24.199.123.128, port: 11111, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: ----- 账号信息 -----, server: 24.199.126.159, port: 11116, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "登录账号: qkijebv@f.lm", server: 24.199.126.159, port: 11116, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "体验套餐: 剩余2天", server: 24.199.126.159, port: 11116, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 流量重置: 每月1日 10G，剩余10G", server: 24.199.126.159, port: 11116, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: ----- 联系我们 -----, server: 24.199.126.159, port: 11116, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "电报: https://t.me/falemon_group", server: 24.199.126.159, port: 11116, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "邮箱: contact@falemon.com", server: 24.199.126.159, port: 11116, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "官网: falm.cc", server: 24.199.126.159, port: 11116, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2023-09-04 14:21:22", server: 24.199.126.159, port: 11116, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - "消息: 4条未读，在APP查看"
-      - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
-      - 🇺🇸 美国 G23 | 直连、Spotify(US) | 2x
-      - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G59 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G23 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G10 | 上海联通、闲时可见 | 3x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇸🇬 新加坡 G91 | 直连 | 2x
@@ -68,17 +68,17 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-09-04 11:16:10"
+      - "🏳️‍🌈 时间: 2023-09-04 14:21:22"
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - "消息: 4条未读，在APP查看"
-      - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
-      - 🇺🇸 美国 G23 | 直连、Spotify(US) | 2x
-      - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G59 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G23 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G10 | 上海联通、闲时可见 | 3x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇸🇬 新加坡 G91 | 直连 | 2x
@@ -103,17 +103,17 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-09-04 11:16:10"
+      - "🏳️‍🌈 时间: 2023-09-04 14:21:22"
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - "消息: 4条未读，在APP查看"
-      - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
-      - 🇺🇸 美国 G23 | 直连、Spotify(US) | 2x
-      - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G59 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G23 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G10 | 上海联通、闲时可见 | 3x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇸🇬 新加坡 G91 | 直连 | 2x
@@ -138,17 +138,17 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-09-04 11:16:10"
+      - "🏳️‍🌈 时间: 2023-09-04 14:21:22"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
       - "消息: 4条未读，在APP查看"
-      - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
-      - 🇺🇸 美国 G23 | 直连、Spotify(US) | 2x
-      - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G59 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G23 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G10 | 上海联通、闲时可见 | 3x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇸🇬 新加坡 G91 | 直连 | 2x
@@ -173,17 +173,17 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-09-04 11:16:10"
+      - "🏳️‍🌈 时间: 2023-09-04 14:21:22"
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - "消息: 4条未读，在APP查看"
-      - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
-      - 🇺🇸 美国 G23 | 直连、Spotify(US) | 2x
-      - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G59 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G23 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G10 | 上海联通、闲时可见 | 3x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇸🇬 新加坡 G91 | 直连 | 2x
@@ -208,17 +208,17 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-09-04 11:16:10"
+      - "🏳️‍🌈 时间: 2023-09-04 14:21:22"
   - name: 📢 谷歌FCM
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - "消息: 4条未读，在APP查看"
-      - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
-      - 🇺🇸 美国 G23 | 直连、Spotify(US) | 2x
-      - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G59 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G23 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G10 | 上海联通、闲时可见 | 3x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇸🇬 新加坡 G91 | 直连 | 2x
@@ -243,7 +243,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-09-04 11:16:10"
+      - "🏳️‍🌈 时间: 2023-09-04 14:21:22"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -261,10 +261,10 @@ proxy-groups:
       - DIRECT
       - 🚀 节点选择
       - "消息: 4条未读，在APP查看"
-      - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
-      - 🇺🇸 美国 G23 | 直连、Spotify(US) | 2x
-      - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G59 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G23 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G10 | 上海联通、闲时可见 | 3x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇸🇬 新加坡 G91 | 直连 | 2x
@@ -289,17 +289,17 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-09-04 11:16:10"
+      - "🏳️‍🌈 时间: 2023-09-04 14:21:22"
   - name: 🐟 漏网之鱼
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - "消息: 4条未读，在APP查看"
-      - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
-      - 🇺🇸 美国 G23 | 直连、Spotify(US) | 2x
-      - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G59 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G23 | 直连、Spotify(US) | 2x
+      - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G10 | 上海联通、闲时可见 | 3x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇸🇬 新加坡 G91 | 直连 | 2x
@@ -324,7 +324,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-09-04 11:16:10"
+      - "🏳️‍🌈 时间: 2023-09-04 14:21:22"
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
