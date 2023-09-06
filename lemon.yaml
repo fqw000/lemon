@@ -10,14 +10,15 @@ proxies:
   - {name: 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x, server: 24.199.123.128, port: 11111, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x, server: 146.190.55.109, port: 21117, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G29 | 小带宽 | 3x, server: 223.95.40.69, port: 30187, type: trojan, password: QSgZDCrpdJ, sni: www.icloud.com, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 新加坡 G91 | 直连 | 2x, server: 139.162.23.10, port: 31103, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 日本 G2 | 直连、高配、新开机 | 3x, server: 172.105.201.193, port: 16133, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇯🇵 日本 G3 | 广东移动、高配、闲时可见 | 3x, server: 183.232.170.62, port: 28432, type: trojan, password: QSgZDCrpdJ, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇭🇰 香港 G17 | 小带宽 | 4x, server: 183.213.200.199, port: 19817, type: trojan, password: QSgZDCrpdJ, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇩🇪 德国 B16 | 上海联通、ChatGPT、闲时可见 | 2x, server: 220.196.190.128, port: 48401, type: trojan, password: QSgZDCrpdJ, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇹🇭 泰国 B29 | 广东移动 | 2x, server: 183.213.200.143, port: 31008, type: trojan, password: QSgZDCrpdJ, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇻🇳 越南 B60 | 华南移动、ChatGPT(原生)、闲时可见 | 3x, server: 36.158.205.217, port: 32011, type: trojan, password: QSgZDCrpdJ, sni: www.icloud.com, skip-cert-verify: true, udp: true}
-  - {name: 🇮🇩 印尼 B46 | 华南移动、ChatGPT(原生)、闲时可见 | 3x, server: 36.158.205.217, port: 31010, type: trojan, password: QSgZDCrpdJ, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 印度 B46 | 广东移动、ChatGPT、新开机、闲时可见 | 3x, server: 183.232.170.62, port: 12385, type: trojan, password: QSgZDCrpdJ, sni: www.icloud.com, skip-cert-verify: true, udp: true}
+  - {name: 🇮🇩 印尼 B46 | 华南移动、ChatGPT(原生)、闲时可见 | 3x, server: 36.158.205.217, port: 31010, type: trojan, password: QSgZDCrpdJ, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇦 乌克兰 B11 | 浙江移动、闲时可见 | 2x, server: 223.95.40.69, port: 30282, type: trojan, password: QSgZDCrpdJ, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇵🇭 菲律宾 B12 | 广东移动 | 2x, server: 183.213.200.143, port: 31009, type: trojan, password: QSgZDCrpdJ, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇷🇺 俄罗斯 B75 | 广东移动、闲时可见 | 2x, server: 183.213.200.143, port: 30183, type: trojan, password: QSgZDCrpdJ, sni: www.icloud.com, skip-cert-verify: true, udp: true}
@@ -26,13 +27,13 @@ proxies:
   - {name: 🇸🇬 马来西亚 B15 | 浙江移动、ChatGPT、Netflix(SG)、闲时可见 | 3x, server: 223.95.40.69, port: 21215, type: trojan, password: QSgZDCrpdJ, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: ----- 账号信息 -----, server: 146.190.121.207, port: 21117, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "登录账号: qkijebv@f.lm", server: 146.190.121.207, port: 21117, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "体验套餐: 剩余12小时49分钟", server: 146.190.121.207, port: 21117, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "体验套餐: 剩余10小时42分钟", server: 146.190.121.207, port: 21117, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "🏳️‍🌈 流量重置: 每月1日 10G，剩余10G", server: 146.190.121.207, port: 21117, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: ----- 联系我们 -----, server: 146.190.121.207, port: 21117, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "电报: https://t.me/falemon_group", server: 146.190.121.207, port: 21117, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "邮箱: contact@falemon.com", server: 146.190.121.207, port: 21117, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "官网: falm.cc", server: 146.190.121.207, port: 21117, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2023-09-06 09:09:07", server: 146.190.121.207, port: 21117, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2023-09-06 11:16:21", server: 146.190.121.207, port: 21117, type: trojan, password: QSgZDCrpdJ, sni: v.qq.com, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -42,14 +43,15 @@ proxy-groups:
       - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
+      - 🇸🇬 新加坡 G91 | 直连 | 2x
       - 🇸🇬 日本 G2 | 直连、高配、新开机 | 3x
       - 🇯🇵 日本 G3 | 广东移动、高配、闲时可见 | 3x
       - 🇭🇰 香港 G17 | 小带宽 | 4x
       - 🇩🇪 德国 B16 | 上海联通、ChatGPT、闲时可见 | 2x
       - 🇹🇭 泰国 B29 | 广东移动 | 2x
       - 🇻🇳 越南 B60 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
-      - 🇮🇩 印尼 B46 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
       - 🇸🇬 印度 B46 | 广东移动、ChatGPT、新开机、闲时可见 | 3x
+      - 🇮🇩 印尼 B46 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
       - 🇺🇦 乌克兰 B11 | 浙江移动、闲时可见 | 2x
       - 🇵🇭 菲律宾 B12 | 广东移动 | 2x
       - 🇷🇺 俄罗斯 B75 | 广东移动、闲时可见 | 2x
@@ -58,13 +60,13 @@ proxy-groups:
       - 🇸🇬 马来西亚 B15 | 浙江移动、ChatGPT、Netflix(SG)、闲时可见 | 3x
       - ----- 账号信息 -----
       - "登录账号: qkijebv@f.lm"
-      - "体验套餐: 剩余12小时49分钟"
+      - "体验套餐: 剩余10小时42分钟"
       - "🏳️‍🌈 流量重置: 每月1日 10G，剩余10G"
       - ----- 联系我们 -----
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-09-06 09:09:07"
+      - "🏳️‍🌈 时间: 2023-09-06 11:16:21"
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -75,14 +77,15 @@ proxy-groups:
       - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
+      - 🇸🇬 新加坡 G91 | 直连 | 2x
       - 🇸🇬 日本 G2 | 直连、高配、新开机 | 3x
       - 🇯🇵 日本 G3 | 广东移动、高配、闲时可见 | 3x
       - 🇭🇰 香港 G17 | 小带宽 | 4x
       - 🇩🇪 德国 B16 | 上海联通、ChatGPT、闲时可见 | 2x
       - 🇹🇭 泰国 B29 | 广东移动 | 2x
       - 🇻🇳 越南 B60 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
-      - 🇮🇩 印尼 B46 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
       - 🇸🇬 印度 B46 | 广东移动、ChatGPT、新开机、闲时可见 | 3x
+      - 🇮🇩 印尼 B46 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
       - 🇺🇦 乌克兰 B11 | 浙江移动、闲时可见 | 2x
       - 🇵🇭 菲律宾 B12 | 广东移动 | 2x
       - 🇷🇺 俄罗斯 B75 | 广东移动、闲时可见 | 2x
@@ -91,13 +94,13 @@ proxy-groups:
       - 🇸🇬 马来西亚 B15 | 浙江移动、ChatGPT、Netflix(SG)、闲时可见 | 3x
       - ----- 账号信息 -----
       - "登录账号: qkijebv@f.lm"
-      - "体验套餐: 剩余12小时49分钟"
+      - "体验套餐: 剩余10小时42分钟"
       - "🏳️‍🌈 流量重置: 每月1日 10G，剩余10G"
       - ----- 联系我们 -----
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-09-06 09:09:07"
+      - "🏳️‍🌈 时间: 2023-09-06 11:16:21"
   - name: 📲 电报信息
     type: select
     proxies:
@@ -108,14 +111,15 @@ proxy-groups:
       - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
+      - 🇸🇬 新加坡 G91 | 直连 | 2x
       - 🇸🇬 日本 G2 | 直连、高配、新开机 | 3x
       - 🇯🇵 日本 G3 | 广东移动、高配、闲时可见 | 3x
       - 🇭🇰 香港 G17 | 小带宽 | 4x
       - 🇩🇪 德国 B16 | 上海联通、ChatGPT、闲时可见 | 2x
       - 🇹🇭 泰国 B29 | 广东移动 | 2x
       - 🇻🇳 越南 B60 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
-      - 🇮🇩 印尼 B46 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
       - 🇸🇬 印度 B46 | 广东移动、ChatGPT、新开机、闲时可见 | 3x
+      - 🇮🇩 印尼 B46 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
       - 🇺🇦 乌克兰 B11 | 浙江移动、闲时可见 | 2x
       - 🇵🇭 菲律宾 B12 | 广东移动 | 2x
       - 🇷🇺 俄罗斯 B75 | 广东移动、闲时可见 | 2x
@@ -124,13 +128,13 @@ proxy-groups:
       - 🇸🇬 马来西亚 B15 | 浙江移动、ChatGPT、Netflix(SG)、闲时可见 | 3x
       - ----- 账号信息 -----
       - "登录账号: qkijebv@f.lm"
-      - "体验套餐: 剩余12小时49分钟"
+      - "体验套餐: 剩余10小时42分钟"
       - "🏳️‍🌈 流量重置: 每月1日 10G，剩余10G"
       - ----- 联系我们 -----
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-09-06 09:09:07"
+      - "🏳️‍🌈 时间: 2023-09-06 11:16:21"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -141,14 +145,15 @@ proxy-groups:
       - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
+      - 🇸🇬 新加坡 G91 | 直连 | 2x
       - 🇸🇬 日本 G2 | 直连、高配、新开机 | 3x
       - 🇯🇵 日本 G3 | 广东移动、高配、闲时可见 | 3x
       - 🇭🇰 香港 G17 | 小带宽 | 4x
       - 🇩🇪 德国 B16 | 上海联通、ChatGPT、闲时可见 | 2x
       - 🇹🇭 泰国 B29 | 广东移动 | 2x
       - 🇻🇳 越南 B60 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
-      - 🇮🇩 印尼 B46 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
       - 🇸🇬 印度 B46 | 广东移动、ChatGPT、新开机、闲时可见 | 3x
+      - 🇮🇩 印尼 B46 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
       - 🇺🇦 乌克兰 B11 | 浙江移动、闲时可见 | 2x
       - 🇵🇭 菲律宾 B12 | 广东移动 | 2x
       - 🇷🇺 俄罗斯 B75 | 广东移动、闲时可见 | 2x
@@ -157,13 +162,13 @@ proxy-groups:
       - 🇸🇬 马来西亚 B15 | 浙江移动、ChatGPT、Netflix(SG)、闲时可见 | 3x
       - ----- 账号信息 -----
       - "登录账号: qkijebv@f.lm"
-      - "体验套餐: 剩余12小时49分钟"
+      - "体验套餐: 剩余10小时42分钟"
       - "🏳️‍🌈 流量重置: 每月1日 10G，剩余10G"
       - ----- 联系我们 -----
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-09-06 09:09:07"
+      - "🏳️‍🌈 时间: 2023-09-06 11:16:21"
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -174,14 +179,15 @@ proxy-groups:
       - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
+      - 🇸🇬 新加坡 G91 | 直连 | 2x
       - 🇸🇬 日本 G2 | 直连、高配、新开机 | 3x
       - 🇯🇵 日本 G3 | 广东移动、高配、闲时可见 | 3x
       - 🇭🇰 香港 G17 | 小带宽 | 4x
       - 🇩🇪 德国 B16 | 上海联通、ChatGPT、闲时可见 | 2x
       - 🇹🇭 泰国 B29 | 广东移动 | 2x
       - 🇻🇳 越南 B60 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
-      - 🇮🇩 印尼 B46 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
       - 🇸🇬 印度 B46 | 广东移动、ChatGPT、新开机、闲时可见 | 3x
+      - 🇮🇩 印尼 B46 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
       - 🇺🇦 乌克兰 B11 | 浙江移动、闲时可见 | 2x
       - 🇵🇭 菲律宾 B12 | 广东移动 | 2x
       - 🇷🇺 俄罗斯 B75 | 广东移动、闲时可见 | 2x
@@ -190,13 +196,13 @@ proxy-groups:
       - 🇸🇬 马来西亚 B15 | 浙江移动、ChatGPT、Netflix(SG)、闲时可见 | 3x
       - ----- 账号信息 -----
       - "登录账号: qkijebv@f.lm"
-      - "体验套餐: 剩余12小时49分钟"
+      - "体验套餐: 剩余10小时42分钟"
       - "🏳️‍🌈 流量重置: 每月1日 10G，剩余10G"
       - ----- 联系我们 -----
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-09-06 09:09:07"
+      - "🏳️‍🌈 时间: 2023-09-06 11:16:21"
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -207,14 +213,15 @@ proxy-groups:
       - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
+      - 🇸🇬 新加坡 G91 | 直连 | 2x
       - 🇸🇬 日本 G2 | 直连、高配、新开机 | 3x
       - 🇯🇵 日本 G3 | 广东移动、高配、闲时可见 | 3x
       - 🇭🇰 香港 G17 | 小带宽 | 4x
       - 🇩🇪 德国 B16 | 上海联通、ChatGPT、闲时可见 | 2x
       - 🇹🇭 泰国 B29 | 广东移动 | 2x
       - 🇻🇳 越南 B60 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
-      - 🇮🇩 印尼 B46 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
       - 🇸🇬 印度 B46 | 广东移动、ChatGPT、新开机、闲时可见 | 3x
+      - 🇮🇩 印尼 B46 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
       - 🇺🇦 乌克兰 B11 | 浙江移动、闲时可见 | 2x
       - 🇵🇭 菲律宾 B12 | 广东移动 | 2x
       - 🇷🇺 俄罗斯 B75 | 广东移动、闲时可见 | 2x
@@ -223,13 +230,13 @@ proxy-groups:
       - 🇸🇬 马来西亚 B15 | 浙江移动、ChatGPT、Netflix(SG)、闲时可见 | 3x
       - ----- 账号信息 -----
       - "登录账号: qkijebv@f.lm"
-      - "体验套餐: 剩余12小时49分钟"
+      - "体验套餐: 剩余10小时42分钟"
       - "🏳️‍🌈 流量重置: 每月1日 10G，剩余10G"
       - ----- 联系我们 -----
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-09-06 09:09:07"
+      - "🏳️‍🌈 时间: 2023-09-06 11:16:21"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -251,14 +258,15 @@ proxy-groups:
       - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
+      - 🇸🇬 新加坡 G91 | 直连 | 2x
       - 🇸🇬 日本 G2 | 直连、高配、新开机 | 3x
       - 🇯🇵 日本 G3 | 广东移动、高配、闲时可见 | 3x
       - 🇭🇰 香港 G17 | 小带宽 | 4x
       - 🇩🇪 德国 B16 | 上海联通、ChatGPT、闲时可见 | 2x
       - 🇹🇭 泰国 B29 | 广东移动 | 2x
       - 🇻🇳 越南 B60 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
-      - 🇮🇩 印尼 B46 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
       - 🇸🇬 印度 B46 | 广东移动、ChatGPT、新开机、闲时可见 | 3x
+      - 🇮🇩 印尼 B46 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
       - 🇺🇦 乌克兰 B11 | 浙江移动、闲时可见 | 2x
       - 🇵🇭 菲律宾 B12 | 广东移动 | 2x
       - 🇷🇺 俄罗斯 B75 | 广东移动、闲时可见 | 2x
@@ -267,13 +275,13 @@ proxy-groups:
       - 🇸🇬 马来西亚 B15 | 浙江移动、ChatGPT、Netflix(SG)、闲时可见 | 3x
       - ----- 账号信息 -----
       - "登录账号: qkijebv@f.lm"
-      - "体验套餐: 剩余12小时49分钟"
+      - "体验套餐: 剩余10小时42分钟"
       - "🏳️‍🌈 流量重置: 每月1日 10G，剩余10G"
       - ----- 联系我们 -----
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-09-06 09:09:07"
+      - "🏳️‍🌈 时间: 2023-09-06 11:16:21"
   - name: 🐟 漏网之鱼
     type: select
     proxies:
@@ -284,14 +292,15 @@ proxy-groups:
       - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
+      - 🇸🇬 新加坡 G91 | 直连 | 2x
       - 🇸🇬 日本 G2 | 直连、高配、新开机 | 3x
       - 🇯🇵 日本 G3 | 广东移动、高配、闲时可见 | 3x
       - 🇭🇰 香港 G17 | 小带宽 | 4x
       - 🇩🇪 德国 B16 | 上海联通、ChatGPT、闲时可见 | 2x
       - 🇹🇭 泰国 B29 | 广东移动 | 2x
       - 🇻🇳 越南 B60 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
-      - 🇮🇩 印尼 B46 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
       - 🇸🇬 印度 B46 | 广东移动、ChatGPT、新开机、闲时可见 | 3x
+      - 🇮🇩 印尼 B46 | 华南移动、ChatGPT(原生)、闲时可见 | 3x
       - 🇺🇦 乌克兰 B11 | 浙江移动、闲时可见 | 2x
       - 🇵🇭 菲律宾 B12 | 广东移动 | 2x
       - 🇷🇺 俄罗斯 B75 | 广东移动、闲时可见 | 2x
@@ -300,13 +309,13 @@ proxy-groups:
       - 🇸🇬 马来西亚 B15 | 浙江移动、ChatGPT、Netflix(SG)、闲时可见 | 3x
       - ----- 账号信息 -----
       - "登录账号: qkijebv@f.lm"
-      - "体验套餐: 剩余12小时49分钟"
+      - "体验套餐: 剩余10小时42分钟"
       - "🏳️‍🌈 流量重置: 每月1日 10G，剩余10G"
       - ----- 联系我们 -----
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-09-06 09:09:07"
+      - "🏳️‍🌈 时间: 2023-09-06 11:16:21"
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
