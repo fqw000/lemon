@@ -7,16 +7,26 @@ DIRECT = direct
 🇺🇸 美国 G23 | 直连、Spotify(US) | 2x = trojan, 137.184.37.254, 21117, password=z6tz1b97Ka, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇺🇸 美国 G29 | 小带宽 | 3x = trojan, 58.247.254.213, 43187, password=z6tz1b97Ka, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇯🇵 日本 G2 | 直连、高配 | 3x = trojan, 172.105.201.193, 16133, password=z6tz1b97Ka, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇭🇰 香港 G13 | 小带宽 | 4x = trojan, 223.95.40.69, 14571, password=z6tz1b97Ka, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇯🇵 日本 G3 | 广州电信、高配、闲时可见 | 3x = trojan, 223.95.40.69, 28432, password=z6tz1b97Ka, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇭🇰 香港 G13 | 小带宽 | 4x = trojan, 183.213.200.143, 14571, password=z6tz1b97Ka, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇩🇪 德国 B16 | 上海联通、ChatGPT、闲时可见 | 2x = trojan, 58.247.254.213, 48401, password=z6tz1b97Ka, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇹🇭 泰国 B29 | 广东移动 | 2x = trojan, 183.213.200.143, 31008, password=z6tz1b97Ka, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇮🇩 印尼 B46 | 华南移动、ChatGPT(原生)、闲时可见 | 3x = trojan, 36.158.205.217, 31010, password=z6tz1b97Ka, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇻🇳 越南 B60 | 华南移动、ChatGPT(原生)、闲时可见 | 3x = trojan, 36.158.205.217, 32011, password=z6tz1b97Ka, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇮🇳 印度 B46 | 广东移动、ChatGPT、闲时可见 | 3x = trojan, 183.232.170.62, 12385, password=z6tz1b97Ka, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇺🇦 乌克兰 B11 | 浙江移动、闲时可见 | 2x = trojan, 223.95.40.69, 30282, password=z6tz1b97Ka, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇵🇭 菲律宾 B12 | 广东移动 | 2x = trojan, 183.213.200.143, 31009, password=z6tz1b97Ka, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇷🇺 俄罗斯 B75 | 广东移动、闲时可见 | 2x = trojan, 183.213.200.143, 30183, password=z6tz1b97Ka, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇦🇷 阿根廷 B46 | 上海联通、ChatGPT、闲时可见 | 2x = trojan, 58.247.254.213, 48402, password=z6tz1b97Ka, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇨🇦 加拿大 B62 | 直连、闲时可见 | 2x = trojan, 146.19.106.162, 33852, password=z6tz1b97Ka, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇸🇬 马来西亚 B15 | 浙江移动、ChatGPT、Netflix(SG)、闲时可见 | 3x = trojan, 223.95.40.69, 21215, password=z6tz1b97Ka, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
 ----- 账号信息 ----- = trojan, 146.190.55.109, 21117, password=z6tz1b97Ka, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 登录账号: psijqmq@f.lm = trojan, 146.190.55.109, 21117, password=z6tz1b97Ka, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-体验套餐: 剩余4天 = trojan, 146.190.55.109, 21117, password=z6tz1b97Ka, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+体验套餐: 剩余3天 = trojan, 146.190.55.109, 21117, password=z6tz1b97Ka, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🏳️‍🌈 流量重置: 每月10日 10G，剩余10G = trojan, 146.190.55.109, 21117, password=z6tz1b97Ka, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 ----- 联系我们 ----- = trojan, 146.190.55.109, 21117, password=z6tz1b97Ka, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 电报: https://t.me/falemon_group = trojan, 146.190.55.109, 21117, password=z6tz1b97Ka, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 邮箱: contact@falemon.com = trojan, 146.190.55.109, 21117, password=z6tz1b97Ka, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 官网: falm.cc = trojan, 146.190.55.109, 21117, password=z6tz1b97Ka, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🏳️‍🌈 时间: 2023-09-11 23:16:53 = trojan, 146.190.55.109, 21117, password=z6tz1b97Ka, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🏳️‍🌈 时间: 2023-09-12 02:20:33 = trojan, 146.190.55.109, 21117, password=z6tz1b97Ka, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 
