@@ -9,7 +9,7 @@ proxies:
   - {name: 🇺🇸 美国 G04 | 直连、Spotify(US) | 2x, server: 146.190.55.109, port: 21117, type: trojan, password: z6tz1b97Ka, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x, server: 24.199.123.128, port: 11111, type: trojan, password: z6tz1b97Ka, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 美国 G59 | 直连、Spotify(US)、新开机 | 2x, server: 24.144.84.112, port: 11116, type: trojan, password: z6tz1b97Ka, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国 G23 | 直连、Spotify(US) | 2x, server: 137.184.37.254, port: 21117, type: trojan, password: z6tz1b97Ka, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 美国 G23 | 直连、ChatGPT、新开机 | 3x, server: 92.118.112.86, port: 12281, type: trojan, password: z6tz1b97Ka, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G29 | 小带宽 | 3x, server: 58.247.254.213, port: 43187, type: trojan, password: z6tz1b97Ka, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇯🇵 日本 G2 | 直连、高配 | 3x, server: 172.105.201.193, port: 16133, type: trojan, password: z6tz1b97Ka, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇭🇰 香港 G13 | 小带宽 | 4x, server: 183.213.200.143, port: 14571, type: trojan, password: z6tz1b97Ka, sni: www.icloud.com, skip-cert-verify: true, udp: true}
@@ -17,10 +17,10 @@ proxies:
   - {name: 🇵🇭 菲律宾 B12 | 广东移动 | 2x, server: 183.213.200.143, port: 31009, type: trojan, password: z6tz1b97Ka, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: ----- 账号信息 -----, server: 146.190.55.109, port: 21117, type: trojan, password: z6tz1b97Ka, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "登录账号: psijqmq@f.lm", server: 146.190.55.109, port: 21117, type: trojan, password: z6tz1b97Ka, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "体验套餐: 剩余18小时18分钟", server: 146.190.55.109, port: 21117, type: trojan, password: z6tz1b97Ka, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "体验套餐: 剩余15小时2分钟", server: 146.190.55.109, port: 21117, type: trojan, password: z6tz1b97Ka, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "🏳️‍🌈 流量重置: 每月10日 10G，剩余10G", server: 146.190.55.109, port: 21117, type: trojan, password: z6tz1b97Ka, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: ----- 联系我们 -----, server: 146.190.55.109, port: 21117, type: trojan, password: z6tz1b97Ka, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "电报: https://t.me/falemon_group", server: 146.190.55.109, port: 21117, type: trojan, password: z6tz1b97Ka, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "邮箱: contact@falemon.com", server: 146.190.55.109, port: 21117, type: trojan, password: z6tz1b97Ka, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "官网: falm.cc", server: 146.190.55.109, port: 21117, type: trojan, password: z6tz1b97Ka, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2023-09-14 17:16:04", server: 146.190.55.109, port: 21117, type: trojan, password: z6tz1b97Ka, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2023-09-14 20:31:51", server: 146.190.55.109, port: 21117, type: trojan, password: z6tz1b97Ka, sni: v.qq.com, skip-cert-verify: true, udp: true}
