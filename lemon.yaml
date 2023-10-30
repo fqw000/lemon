@@ -5,112 +5,112 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: 账号套餐已到期，请续费后使用, server: 127.0.0.1, port: 443, type: trojan, password: 919e, sni: 919e.f.lm, skip-cert-verify: true, udp: true}
-  - {name: "消息: 13条未读，在APP查看", server: 127.0.0.1, port: 443, type: trojan, password: msg, sni: msg.f.lm, skip-cert-verify: true, udp: true}
+  - {name: 🏳️‍🌈 订阅链接已过期，请重新获取, server: 127.0.0.1, port: 443, type: trojan, password: 5d2e, sni: 5d2e.f.lm, skip-cert-verify: true, udp: true}
+  - {name: "消息: 1条未读，在APP查看", server: 127.0.0.1, port: 443, type: trojan, password: msg, sni: msg.f.lm, skip-cert-verify: true, udp: true}
   - {name: ----- 账号信息 -----, server: 127.0.0.1, port: 443, type: trojan, password: l2, sni: l2.f.lm, skip-cert-verify: true, udp: true}
   - {name: "登录账号: psijqmq@f.lm", server: 127.0.0.1, port: 443, type: trojan, password: uemail, sni: uemail.f.lm, skip-cert-verify: true, udp: true}
   - {name: "体验套餐: 已到期", server: 127.0.0.1, port: 443, type: trojan, password: vip, sni: vip.f.lm, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 流量重置: 每月10日 10G，剩余10G", server: 127.0.0.1, port: 443, type: trojan, password: flow, sni: flow.f.lm, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 流量重置: 每月1日 10G，剩余10G", server: 127.0.0.1, port: 443, type: trojan, password: flow, sni: flow.f.lm, skip-cert-verify: true, udp: true}
   - {name: ----- 联系我们 -----, server: 127.0.0.1, port: 443, type: trojan, password: l3, sni: l3.f.lm, skip-cert-verify: true, udp: true}
   - {name: "电报: https://t.me/falemon_group", server: 127.0.0.1, port: 443, type: trojan, password: dac5, sni: dac5.f.lm, skip-cert-verify: true, udp: true}
   - {name: "邮箱: contact@falemon.com", server: 127.0.0.1, port: 443, type: trojan, password: email, sni: email.f.lm, skip-cert-verify: true, udp: true}
   - {name: "官网: falm.cc", server: 127.0.0.1, port: 443, type: trojan, password: fbbe, sni: fbbe.f.lm, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2023-10-21 02:19:34", server: 127.0.0.1, port: 443, type: trojan, password: ce30, sni: ce30.f.lm, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2023-10-31 02:21:09", server: 127.0.0.1, port: 443, type: trojan, password: 9a4d, sni: 9a4d.f.lm, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
-      - 账号套餐已到期，请续费后使用
-      - "消息: 13条未读，在APP查看"
+      - 🏳️‍🌈 订阅链接已过期，请重新获取
+      - "消息: 1条未读，在APP查看"
       - ----- 账号信息 -----
       - "登录账号: psijqmq@f.lm"
       - "体验套餐: 已到期"
-      - "🏳️‍🌈 流量重置: 每月10日 10G，剩余10G"
+      - "🏳️‍🌈 流量重置: 每月1日 10G，剩余10G"
       - ----- 联系我们 -----
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-10-21 02:19:34"
+      - "🏳️‍🌈 时间: 2023-10-31 02:21:09"
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 账号套餐已到期，请续费后使用
-      - "消息: 13条未读，在APP查看"
+      - 🏳️‍🌈 订阅链接已过期，请重新获取
+      - "消息: 1条未读，在APP查看"
       - ----- 账号信息 -----
       - "登录账号: psijqmq@f.lm"
       - "体验套餐: 已到期"
-      - "🏳️‍🌈 流量重置: 每月10日 10G，剩余10G"
+      - "🏳️‍🌈 流量重置: 每月1日 10G，剩余10G"
       - ----- 联系我们 -----
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-10-21 02:19:34"
+      - "🏳️‍🌈 时间: 2023-10-31 02:21:09"
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 账号套餐已到期，请续费后使用
-      - "消息: 13条未读，在APP查看"
+      - 🏳️‍🌈 订阅链接已过期，请重新获取
+      - "消息: 1条未读，在APP查看"
       - ----- 账号信息 -----
       - "登录账号: psijqmq@f.lm"
       - "体验套餐: 已到期"
-      - "🏳️‍🌈 流量重置: 每月10日 10G，剩余10G"
+      - "🏳️‍🌈 流量重置: 每月1日 10G，剩余10G"
       - ----- 联系我们 -----
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-10-21 02:19:34"
+      - "🏳️‍🌈 时间: 2023-10-31 02:21:09"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 账号套餐已到期，请续费后使用
-      - "消息: 13条未读，在APP查看"
+      - 🏳️‍🌈 订阅链接已过期，请重新获取
+      - "消息: 1条未读，在APP查看"
       - ----- 账号信息 -----
       - "登录账号: psijqmq@f.lm"
       - "体验套餐: 已到期"
-      - "🏳️‍🌈 流量重置: 每月10日 10G，剩余10G"
+      - "🏳️‍🌈 流量重置: 每月1日 10G，剩余10G"
       - ----- 联系我们 -----
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-10-21 02:19:34"
+      - "🏳️‍🌈 时间: 2023-10-31 02:21:09"
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 账号套餐已到期，请续费后使用
-      - "消息: 13条未读，在APP查看"
+      - 🏳️‍🌈 订阅链接已过期，请重新获取
+      - "消息: 1条未读，在APP查看"
       - ----- 账号信息 -----
       - "登录账号: psijqmq@f.lm"
       - "体验套餐: 已到期"
-      - "🏳️‍🌈 流量重置: 每月10日 10G，剩余10G"
+      - "🏳️‍🌈 流量重置: 每月1日 10G，剩余10G"
       - ----- 联系我们 -----
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-10-21 02:19:34"
+      - "🏳️‍🌈 时间: 2023-10-31 02:21:09"
   - name: 📢 谷歌FCM
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 账号套餐已到期，请续费后使用
-      - "消息: 13条未读，在APP查看"
+      - 🏳️‍🌈 订阅链接已过期，请重新获取
+      - "消息: 1条未读，在APP查看"
       - ----- 账号信息 -----
       - "登录账号: psijqmq@f.lm"
       - "体验套餐: 已到期"
-      - "🏳️‍🌈 流量重置: 每月10日 10G，剩余10G"
+      - "🏳️‍🌈 流量重置: 每月1日 10G，剩余10G"
       - ----- 联系我们 -----
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-10-21 02:19:34"
+      - "🏳️‍🌈 时间: 2023-10-31 02:21:09"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -127,33 +127,33 @@ proxy-groups:
       - REJECT
       - DIRECT
       - 🚀 节点选择
-      - 账号套餐已到期，请续费后使用
-      - "消息: 13条未读，在APP查看"
+      - 🏳️‍🌈 订阅链接已过期，请重新获取
+      - "消息: 1条未读，在APP查看"
       - ----- 账号信息 -----
       - "登录账号: psijqmq@f.lm"
       - "体验套餐: 已到期"
-      - "🏳️‍🌈 流量重置: 每月10日 10G，剩余10G"
+      - "🏳️‍🌈 流量重置: 每月1日 10G，剩余10G"
       - ----- 联系我们 -----
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-10-21 02:19:34"
+      - "🏳️‍🌈 时间: 2023-10-31 02:21:09"
   - name: 🐟 漏网之鱼
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 账号套餐已到期，请续费后使用
-      - "消息: 13条未读，在APP查看"
+      - 🏳️‍🌈 订阅链接已过期，请重新获取
+      - "消息: 1条未读，在APP查看"
       - ----- 账号信息 -----
       - "登录账号: psijqmq@f.lm"
       - "体验套餐: 已到期"
-      - "🏳️‍🌈 流量重置: 每月10日 10G，剩余10G"
+      - "🏳️‍🌈 流量重置: 每月1日 10G，剩余10G"
       - ----- 联系我们 -----
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-10-21 02:19:34"
+      - "🏳️‍🌈 时间: 2023-10-31 02:21:09"
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
@@ -2940,6 +2940,18 @@ rules:
   - DOMAIN-SUFFIX,hwccpc.com,🎯 全球直连
   - DOMAIN-SUFFIX,vmall.com,🎯 全球直连
   - DOMAIN-SUFFIX,vmallres.com,🎯 全球直连
+  - DOMAIN-SUFFIX,allawnfs.com,🎯 全球直连
+  - DOMAIN-SUFFIX,allawno.com,🎯 全球直连
+  - DOMAIN-SUFFIX,allawntech.com,🎯 全球直连
+  - DOMAIN-SUFFIX,coloros.com,🎯 全球直连
+  - DOMAIN-SUFFIX,heytap.com,🎯 全球直连
+  - DOMAIN-SUFFIX,heytapcs.com,🎯 全球直连
+  - DOMAIN-SUFFIX,heytapdownload.com,🎯 全球直连
+  - DOMAIN-SUFFIX,heytapimage.com,🎯 全球直连
+  - DOMAIN-SUFFIX,heytapmobi.com,🎯 全球直连
+  - DOMAIN-SUFFIX,oppo.com,🎯 全球直连
+  - DOMAIN-SUFFIX,oppoer.me,🎯 全球直连
+  - DOMAIN-SUFFIX,oppomobile.com,🎯 全球直连
   - DOMAIN-SUFFIX,iflyink.com,🎯 全球直连
   - DOMAIN-SUFFIX,iflyrec.com,🎯 全球直连
   - DOMAIN-SUFFIX,iflytek.com,🎯 全球直连
@@ -3254,7 +3266,6 @@ rules:
   - DOMAIN-SUFFIX,onedns.net,🎯 全球直连
   - DOMAIN-SUFFIX,oneplus.com,🎯 全球直连
   - DOMAIN-SUFFIX,onlinedown.net,🎯 全球直连
-  - DOMAIN-SUFFIX,oppo.com,🎯 全球直连
   - DOMAIN-SUFFIX,oracle.com,🎯 全球直连
   - DOMAIN-SUFFIX,oschina.net,🎯 全球直连
   - DOMAIN-SUFFIX,ourdvs.com,🎯 全球直连
