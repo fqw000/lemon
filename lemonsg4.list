@@ -1,7 +1,7 @@
 [Proxy]
 DIRECT = direct
 🏳️‍🌈 订阅链接已过期，请重新获取 = trojan, 127.0.0.1, 443, password=5d2e, sni=5d2e.f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
-消息: 11条未读，在APP查看 = trojan, 127.0.0.1, 443, password=msg, sni=msg.f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
+消息: 12条未读，在APP查看 = trojan, 127.0.0.1, 443, password=msg, sni=msg.f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 ----- 账号信息 ----- = trojan, 127.0.0.1, 443, password=l2, sni=l2.f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 登录账号: psijqmq@f.lm = trojan, 127.0.0.1, 443, password=uemail, sni=uemail.f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 体验套餐: 已到期 = trojan, 127.0.0.1, 443, password=vip, sni=vip.f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
@@ -10,5 +10,5 @@ DIRECT = direct
 电报: https://t.me/falemon_group = trojan, 127.0.0.1, 443, password=dac5, sni=dac5.f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 邮箱: contact@falemon.com = trojan, 127.0.0.1, 443, password=email, sni=email.f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 官网: falm.cc = trojan, 127.0.0.1, 443, password=fbbe, sni=fbbe.f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
-🏳️‍🌈 时间: 2023-11-08 17:16:13 = trojan, 127.0.0.1, 443, password=e570, sni=e570.f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
+🏳️‍🌈 时间: 2023-11-08 20:31:27 = trojan, 127.0.0.1, 443, password=1b33, sni=1b33.f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 
