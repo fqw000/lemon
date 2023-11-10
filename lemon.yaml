@@ -10,8 +10,9 @@ proxies:
   - {name: 🇺🇸 美国 G59 | 直连、Spotify(US) | 2x, server: 24.199.101.215, port: 11116, type: trojan, password: wSQuOMQWE6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x, server: 137.184.185.178, port: 11111, type: trojan, password: wSQuOMQWE6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G29 | 小带宽 | 3x, server: 223.95.40.69, port: 43187, type: trojan, password: wSQuOMQWE6, sni: www.icloud.com, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇬 新加坡 G29 | 直连 | 3x, server: 143.42.69.129, port: 11116, type: trojan, password: wSQuOMQWE6, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇭🇰 香港 G17 | 小带宽 | 4x, server: 183.213.200.199, port: 19817, type: trojan, password: wSQuOMQWE6, sni: www.icloud.com, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 日本 G1 | 直连、高配 | 3x, server: 172.233.80.48, port: 16133, type: trojan, password: wSQuOMQWE6, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 香港 G17 | 小带宽 | 4x, server: 183.232.170.62, port: 19817, type: trojan, password: wSQuOMQWE6, sni: www.icloud.com, skip-cert-verify: true, udp: true}
+  - {name: 🇹🇭 泰国 B29 | 广东移动 | 3x, server: 183.232.170.62, port: 31008, type: trojan, password: wSQuOMQWE6, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: ----- 账号信息 -----, server: 164.92.106.193, port: 16111, type: trojan, password: wSQuOMQWE6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "登录账号: psijnfy@f.lm", server: 164.92.106.193, port: 16111, type: trojan, password: wSQuOMQWE6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "体验套餐: 剩余5天", server: 164.92.106.193, port: 16111, type: trojan, password: wSQuOMQWE6, sni: v.qq.com, skip-cert-verify: true, udp: true}
@@ -20,7 +21,7 @@ proxies:
   - {name: "电报: https://t.me/falemon_group", server: 164.92.106.193, port: 16111, type: trojan, password: wSQuOMQWE6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "邮箱: contact@falemon.com", server: 164.92.106.193, port: 16111, type: trojan, password: wSQuOMQWE6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "官网: falm.cc", server: 164.92.106.193, port: 16111, type: trojan, password: wSQuOMQWE6, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2023-11-10 20:31:23", server: 164.92.106.193, port: 16111, type: trojan, password: wSQuOMQWE6, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2023-11-10 23:16:55", server: 164.92.106.193, port: 16111, type: trojan, password: wSQuOMQWE6, sni: v.qq.com, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -30,8 +31,9 @@ proxy-groups:
       - 🇺🇸 美国 G59 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
-      - 🇸🇬 新加坡 G29 | 直连 | 3x
+      - 🇯🇵 日本 G1 | 直连、高配 | 3x
       - 🇭🇰 香港 G17 | 小带宽 | 4x
+      - 🇹🇭 泰国 B29 | 广东移动 | 3x
       - ----- 账号信息 -----
       - "登录账号: psijnfy@f.lm"
       - "体验套餐: 剩余5天"
@@ -40,7 +42,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-11-10 20:31:23"
+      - "🏳️‍🌈 时间: 2023-11-10 23:16:55"
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -51,8 +53,9 @@ proxy-groups:
       - 🇺🇸 美国 G59 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
-      - 🇸🇬 新加坡 G29 | 直连 | 3x
+      - 🇯🇵 日本 G1 | 直连、高配 | 3x
       - 🇭🇰 香港 G17 | 小带宽 | 4x
+      - 🇹🇭 泰国 B29 | 广东移动 | 3x
       - ----- 账号信息 -----
       - "登录账号: psijnfy@f.lm"
       - "体验套餐: 剩余5天"
@@ -61,7 +64,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-11-10 20:31:23"
+      - "🏳️‍🌈 时间: 2023-11-10 23:16:55"
   - name: 📲 电报信息
     type: select
     proxies:
@@ -72,8 +75,9 @@ proxy-groups:
       - 🇺🇸 美国 G59 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
-      - 🇸🇬 新加坡 G29 | 直连 | 3x
+      - 🇯🇵 日本 G1 | 直连、高配 | 3x
       - 🇭🇰 香港 G17 | 小带宽 | 4x
+      - 🇹🇭 泰国 B29 | 广东移动 | 3x
       - ----- 账号信息 -----
       - "登录账号: psijnfy@f.lm"
       - "体验套餐: 剩余5天"
@@ -82,7 +86,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-11-10 20:31:23"
+      - "🏳️‍🌈 时间: 2023-11-10 23:16:55"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -93,8 +97,9 @@ proxy-groups:
       - 🇺🇸 美国 G59 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
-      - 🇸🇬 新加坡 G29 | 直连 | 3x
+      - 🇯🇵 日本 G1 | 直连、高配 | 3x
       - 🇭🇰 香港 G17 | 小带宽 | 4x
+      - 🇹🇭 泰国 B29 | 广东移动 | 3x
       - ----- 账号信息 -----
       - "登录账号: psijnfy@f.lm"
       - "体验套餐: 剩余5天"
@@ -103,7 +108,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-11-10 20:31:23"
+      - "🏳️‍🌈 时间: 2023-11-10 23:16:55"
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -114,8 +119,9 @@ proxy-groups:
       - 🇺🇸 美国 G59 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
-      - 🇸🇬 新加坡 G29 | 直连 | 3x
+      - 🇯🇵 日本 G1 | 直连、高配 | 3x
       - 🇭🇰 香港 G17 | 小带宽 | 4x
+      - 🇹🇭 泰国 B29 | 广东移动 | 3x
       - ----- 账号信息 -----
       - "登录账号: psijnfy@f.lm"
       - "体验套餐: 剩余5天"
@@ -124,7 +130,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-11-10 20:31:23"
+      - "🏳️‍🌈 时间: 2023-11-10 23:16:55"
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -135,8 +141,9 @@ proxy-groups:
       - 🇺🇸 美国 G59 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
-      - 🇸🇬 新加坡 G29 | 直连 | 3x
+      - 🇯🇵 日本 G1 | 直连、高配 | 3x
       - 🇭🇰 香港 G17 | 小带宽 | 4x
+      - 🇹🇭 泰国 B29 | 广东移动 | 3x
       - ----- 账号信息 -----
       - "登录账号: psijnfy@f.lm"
       - "体验套餐: 剩余5天"
@@ -145,7 +152,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-11-10 20:31:23"
+      - "🏳️‍🌈 时间: 2023-11-10 23:16:55"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -167,8 +174,9 @@ proxy-groups:
       - 🇺🇸 美国 G59 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
-      - 🇸🇬 新加坡 G29 | 直连 | 3x
+      - 🇯🇵 日本 G1 | 直连、高配 | 3x
       - 🇭🇰 香港 G17 | 小带宽 | 4x
+      - 🇹🇭 泰国 B29 | 广东移动 | 3x
       - ----- 账号信息 -----
       - "登录账号: psijnfy@f.lm"
       - "体验套餐: 剩余5天"
@@ -177,7 +185,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-11-10 20:31:23"
+      - "🏳️‍🌈 时间: 2023-11-10 23:16:55"
   - name: 🐟 漏网之鱼
     type: select
     proxies:
@@ -188,8 +196,9 @@ proxy-groups:
       - 🇺🇸 美国 G59 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
-      - 🇸🇬 新加坡 G29 | 直连 | 3x
+      - 🇯🇵 日本 G1 | 直连、高配 | 3x
       - 🇭🇰 香港 G17 | 小带宽 | 4x
+      - 🇹🇭 泰国 B29 | 广东移动 | 3x
       - ----- 账号信息 -----
       - "登录账号: psijnfy@f.lm"
       - "体验套餐: 剩余5天"
@@ -198,7 +207,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-11-10 20:31:23"
+      - "🏳️‍🌈 时间: 2023-11-10 23:16:55"
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
