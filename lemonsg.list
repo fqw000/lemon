@@ -1,22 +1,24 @@
 [Proxy]
-消息: 3条未读，在APP查看 = trojan, 137.184.185.178, 11111, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+消息: 4条未读，在APP查看 = trojan, 137.184.185.178, 11111, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇺🇸 美国 G97 | 直连、Spotify(US) | 2x = trojan, 137.184.185.178, 11111, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇺🇸 美国 G93 | 直连、Spotify(US) | 2x = trojan, 164.92.106.193, 16111, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇺🇸 美国 G59 | 直连、Spotify(US) | 2x = trojan, 24.199.101.215, 11116, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇺🇸 美国 G93 | 直连、Spotify(US) | 2x = trojan, 164.92.106.193, 16111, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇺🇸 美国 G23 | 浙江移动、ChatGPT、闲时可见 | 3x = trojan, 183.232.170.62, 12281, password=wSQuOMQWE6, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇭🇰 美国 G04 | 深港隧道、闲时可见 | 3x = trojan, 36.158.249.70, 21117, password=wSQuOMQWE6, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇺🇸 美国 G29 | 小带宽 | 3x = trojan, 223.95.40.69, 43187, password=wSQuOMQWE6, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇸🇬 新加坡 G29 | 直连 | 3x = trojan, 143.42.69.129, 11116, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇯🇵 日本 G1 | 直连、高配 | 3x = trojan, 172.233.80.48, 16133, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇭🇰 香港 G17 | 小带宽 | 4x = trojan, 183.213.200.199, 19817, password=wSQuOMQWE6, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇩🇪 德国 B16 | 浙江联通、ChatGPT、闲时可见 | 2x = trojan, 223.95.40.69, 48401, password=wSQuOMQWE6, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇹🇭 泰国 B29 | 广东移动 | 3x = trojan, 183.232.170.62, 31008, password=wSQuOMQWE6, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇮🇩 印尼 B46 | 华南移动、闲时可见 | 3x = trojan, 36.158.205.217, 31010, password=wSQuOMQWE6, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇻🇳 越南 B60 | 华南移动、ChatGPT(原生)、闲时可见 | 3x = trojan, 36.158.205.217, 32011, password=wSQuOMQWE6, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇮🇩 印尼 B46 | 华南移动、闲时可见 | 3x = trojan, 36.158.205.217, 31010, password=wSQuOMQWE6, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇮🇳 印度 B46 | 广东移动、闲时可见 | 3x = trojan, 183.232.170.62, 12385, password=wSQuOMQWE6, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇺🇦 乌克兰 B11 | 华南移动、闲时可见 | 2x = trojan, 36.158.205.217, 30282, password=wSQuOMQWE6, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇷🇺 俄罗斯 B75 | 广东移动、闲时可见 | 2x = trojan, 183.213.200.143, 30183, password=wSQuOMQWE6, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇦🇷 阿根廷 B46 | 浙江移动、ChatGPT、闲时可见 | 2x = trojan, 223.95.40.69, 48402, password=wSQuOMQWE6, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇦🇷 阿根廷 B46 | 浙江移动、ChatGPT、闲时可见 | 2x = trojan, 183.232.170.62, 48402, password=wSQuOMQWE6, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇨🇦 加拿大 B62 | 直连、闲时可见 | 2x = trojan, 146.19.106.162, 33852, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇸🇬 马来西亚 B15 | 广东移动、ChatGPT、Netflix(SG)、闲时可见 | 3x = trojan, 183.232.170.62, 21215, password=wSQuOMQWE6, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
 ----- 账号信息 ----- = trojan, 137.184.185.178, 11111, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 登录账号: psijnfy@f.lm = trojan, 137.184.185.178, 11111, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 体验套餐: 剩余4天 = trojan, 137.184.185.178, 11111, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
@@ -25,5 +27,5 @@
 电报: https://t.me/falemon_group = trojan, 137.184.185.178, 11111, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 邮箱: contact@falemon.com = trojan, 137.184.185.178, 11111, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 官网: falm.cc = trojan, 137.184.185.178, 11111, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🏳️‍🌈 时间: 2023-11-11 11:18:06 = trojan, 137.184.185.178, 11111, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🏳️‍🌈 时间: 2023-11-11 14:19:54 = trojan, 137.184.185.178, 11111, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 
