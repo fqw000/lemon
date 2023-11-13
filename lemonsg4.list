@@ -1,19 +1,20 @@
 [Proxy]
 DIRECT = direct
-消息: 7条未读，在APP查看 = trojan, 24.199.101.215, 11116, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇺🇸 美国 G59 | 直连、Spotify(US) | 2x = trojan, 24.199.101.215, 11116, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+消息: 7条未读，在APP查看 = trojan, 137.184.185.178, 11111, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇺🇸 美国 G97 | 直连、Spotify(US) | 2x = trojan, 137.184.185.178, 11111, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇺🇸 美国 G93 | 直连、Spotify(US) | 2x = trojan, 164.92.106.193, 16111, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇺🇸 美国 G59 | 直连、Spotify(US) | 2x = trojan, 24.199.101.215, 11116, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇺🇸 美国 G29 | 小带宽 | 3x = trojan, 183.232.170.62, 43187, password=wSQuOMQWE6, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇸🇬 新加坡 G29 | 直连 | 3x = trojan, 143.42.69.129, 11116, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇯🇵 日本 G1 | 直连、高配 | 3x = trojan, 172.233.80.48, 16133, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇭🇰 香港 G17 | 小带宽 | 4x = trojan, 183.213.200.199, 19817, password=wSQuOMQWE6, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
------ 账号信息 ----- = trojan, 24.199.101.215, 11116, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-登录账号: psijnfy@f.lm = trojan, 24.199.101.215, 11116, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-体验套餐: 剩余2天 = trojan, 24.199.101.215, 11116, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🏳️‍🌈 流量重置: 每月10日 10G，剩余10G = trojan, 24.199.101.215, 11116, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
------ 联系我们 ----- = trojan, 24.199.101.215, 11116, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-电报: https://t.me/falemon_group = trojan, 24.199.101.215, 11116, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-邮箱: contact@falemon.com = trojan, 24.199.101.215, 11116, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-官网: falm.cc = trojan, 24.199.101.215, 11116, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🏳️‍🌈 时间: 2023-11-13 20:32:25 = trojan, 24.199.101.215, 11116, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇭🇰 香港 G17 | 小带宽 | 4x = trojan, 183.232.170.62, 19817, password=wSQuOMQWE6, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+----- 账号信息 ----- = trojan, 137.184.185.178, 11111, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+登录账号: psijnfy@f.lm = trojan, 137.184.185.178, 11111, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+体验套餐: 剩余2天 = trojan, 137.184.185.178, 11111, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🏳️‍🌈 流量重置: 每月10日 10G，剩余10G = trojan, 137.184.185.178, 11111, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+----- 联系我们 ----- = trojan, 137.184.185.178, 11111, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+电报: https://t.me/falemon_group = trojan, 137.184.185.178, 11111, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+邮箱: contact@falemon.com = trojan, 137.184.185.178, 11111, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+官网: falm.cc = trojan, 137.184.185.178, 11111, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🏳️‍🌈 时间: 2023-11-13 23:17:43 = trojan, 137.184.185.178, 11111, password=wSQuOMQWE6, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 
