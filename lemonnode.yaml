@@ -10,16 +10,16 @@ proxies:
   - {name: 🇺🇸 美国 G59 | 直连、Spotify(US) | 2x, server: 24.199.101.215, port: 11116, type: trojan, password: wSQuOMQWE6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 美国 G97 | 直连、Spotify(US)、新开机 | 2x, server: 143.198.104.208, port: 11111, type: trojan, password: wSQuOMQWE6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G29 | 小带宽 | 3x, server: 36.139.84.211, port: 43187, type: trojan, password: wSQuOMQWE6, sni: www.icloud.com, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇬 新加坡 G97 | 直连、新开机 | 3x, server: 167.71.219.239, port: 31103, type: trojan, password: wSQuOMQWE6, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 新加坡 G2 | 直连、新开机 | 3x, server: 167.71.219.239, port: 31103, type: trojan, password: wSQuOMQWE6, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 新加坡 G1 | 直连、新开机 | 3x, server: 139.144.124.207, port: 11116, type: trojan, password: wSQuOMQWE6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇯🇵 日本 G1 | 直连、高配 | 3x, server: 172.233.80.48, port: 16133, type: trojan, password: wSQuOMQWE6, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇭🇰 香港 G17 | 小带宽 | 4x, server: 183.232.170.62, port: 19817, type: trojan, password: wSQuOMQWE6, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇹🇭 泰国 B29 | 广东移动 | 3x, server: 183.232.170.62, port: 31008, type: trojan, password: wSQuOMQWE6, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: ----- 账号信息 -----, server: 164.92.106.193, port: 16391, type: trojan, password: wSQuOMQWE6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "登录账号: psijnfy@f.lm", server: 164.92.106.193, port: 16391, type: trojan, password: wSQuOMQWE6, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "体验套餐: 剩余16小时47分钟", server: 164.92.106.193, port: 16391, type: trojan, password: wSQuOMQWE6, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "体验套餐: 剩余14小时1分钟", server: 164.92.106.193, port: 16391, type: trojan, password: wSQuOMQWE6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "🏳️‍🌈 流量重置: 每月10日 10G，剩余10G", server: 164.92.106.193, port: 16391, type: trojan, password: wSQuOMQWE6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: ----- 联系我们 -----, server: 164.92.106.193, port: 16391, type: trojan, password: wSQuOMQWE6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "电报: https://t.me/falemon_group", server: 164.92.106.193, port: 16391, type: trojan, password: wSQuOMQWE6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "邮箱: contact@falemon.com", server: 164.92.106.193, port: 16391, type: trojan, password: wSQuOMQWE6, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "官网: falm.cc", server: 164.92.106.193, port: 16391, type: trojan, password: wSQuOMQWE6, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2023-11-14 20:32:00", server: 164.92.106.193, port: 16391, type: trojan, password: wSQuOMQWE6, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2023-11-14 23:17:32", server: 164.92.106.193, port: 16391, type: trojan, password: wSQuOMQWE6, sni: v.qq.com, skip-cert-verify: true, udp: true}
