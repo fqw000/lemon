@@ -6,7 +6,7 @@ DIRECT = direct
 🇺🇸 美国 G29 | 小带宽 | 3x = trojan, 36.158.249.70, 43187, password=4mY3NGEIzq, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇸🇬 新加坡 G0 | 直连 | 3x = trojan, 178.128.92.161, 16133, password=4mY3NGEIzq, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇸🇬 新加坡 G2 | 江苏移动 | 3x = trojan, 36.139.35.63, 45303, password=4mY3NGEIzq, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇭🇰 香港 G13 | 小带宽 | 4x = trojan, 183.213.200.143, 14571, password=4mY3NGEIzq, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇭🇰 香港 G13 | 小带宽 | 4x = trojan, 36.139.35.63, 14571, password=4mY3NGEIzq, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
 ----- 账号信息 ----- = trojan, 36.139.35.63, 45302, password=4mY3NGEIzq, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
 登录账号: rdijqkl@f.lm = trojan, 36.139.35.63, 45302, password=4mY3NGEIzq, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
 体验套餐: 剩余4天 = trojan, 36.139.35.63, 45302, password=4mY3NGEIzq, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
@@ -15,5 +15,5 @@ DIRECT = direct
 电报: https://t.me/falemon_group = trojan, 36.139.35.63, 45302, password=4mY3NGEIzq, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
 邮箱: contact@falemon.com = trojan, 36.139.35.63, 45302, password=4mY3NGEIzq, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
 官网: falm.cc = trojan, 36.139.35.63, 45302, password=4mY3NGEIzq, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🏳️‍🌈 时间: 2023-11-26 20:29:42 = trojan, 36.139.35.63, 45302, password=4mY3NGEIzq, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🏳️‍🌈 时间: 2023-11-26 23:15:17 = trojan, 36.139.35.63, 45302, password=4mY3NGEIzq, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
 
