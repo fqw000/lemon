@@ -8,11 +8,10 @@ proxies:
   - {name: "消息: 4条未读，在APP查看", server: 36.139.35.63, port: 45302, type: trojan, password: 4mY3NGEIzq, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G59 | 江苏移动、Spotify(US) | 2x, server: 36.139.35.63, port: 45302, type: trojan, password: 4mY3NGEIzq, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G93 | 江苏移动、Spotify(US) | 2x, server: 36.139.35.63, port: 45300, type: trojan, password: 4mY3NGEIzq, sni: www.icloud.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国 G29 | 小带宽 | 3x, server: 36.158.205.217, port: 43187, type: trojan, password: 4mY3NGEIzq, sni: www.icloud.com, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国 G29 | 小带宽 | 3x, server: 36.158.249.70, port: 43187, type: trojan, password: 4mY3NGEIzq, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 新加坡 G0 | 直连 | 3x, server: 178.128.92.161, port: 16133, type: trojan, password: 4mY3NGEIzq, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 新加坡 G2 | 江苏移动 | 3x, server: 36.139.35.63, port: 45303, type: trojan, password: 4mY3NGEIzq, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇭🇰 香港 G13 | 小带宽 | 4x, server: 183.213.200.143, port: 14571, type: trojan, password: 4mY3NGEIzq, sni: www.icloud.com, skip-cert-verify: true, udp: true}
-  - {name: 🇹🇭 泰国 B29 | 广东移动 | 3x, server: 36.158.249.70, port: 31008, type: trojan, password: 4mY3NGEIzq, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: ----- 账号信息 -----, server: 36.139.35.63, port: 45302, type: trojan, password: 4mY3NGEIzq, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: "登录账号: rdijqkl@f.lm", server: 36.139.35.63, port: 45302, type: trojan, password: 4mY3NGEIzq, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: "体验套餐: 剩余4天", server: 36.139.35.63, port: 45302, type: trojan, password: 4mY3NGEIzq, sni: www.icloud.com, skip-cert-verify: true, udp: true}
@@ -21,7 +20,7 @@ proxies:
   - {name: "电报: https://t.me/falemon_group", server: 36.139.35.63, port: 45302, type: trojan, password: 4mY3NGEIzq, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: "邮箱: contact@falemon.com", server: 36.139.35.63, port: 45302, type: trojan, password: 4mY3NGEIzq, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: "官网: falm.cc", server: 36.139.35.63, port: 45302, type: trojan, password: 4mY3NGEIzq, sni: www.icloud.com, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2023-11-26 17:14:39", server: 36.139.35.63, port: 45302, type: trojan, password: 4mY3NGEIzq, sni: www.icloud.com, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2023-11-26 20:29:42", server: 36.139.35.63, port: 45302, type: trojan, password: 4mY3NGEIzq, sni: www.icloud.com, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -33,7 +32,6 @@ proxy-groups:
       - 🇸🇬 新加坡 G0 | 直连 | 3x
       - 🇸🇬 新加坡 G2 | 江苏移动 | 3x
       - 🇭🇰 香港 G13 | 小带宽 | 4x
-      - 🇹🇭 泰国 B29 | 广东移动 | 3x
       - ----- 账号信息 -----
       - "登录账号: rdijqkl@f.lm"
       - "体验套餐: 剩余4天"
@@ -42,7 +40,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-11-26 17:14:39"
+      - "🏳️‍🌈 时间: 2023-11-26 20:29:42"
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -55,7 +53,6 @@ proxy-groups:
       - 🇸🇬 新加坡 G0 | 直连 | 3x
       - 🇸🇬 新加坡 G2 | 江苏移动 | 3x
       - 🇭🇰 香港 G13 | 小带宽 | 4x
-      - 🇹🇭 泰国 B29 | 广东移动 | 3x
       - ----- 账号信息 -----
       - "登录账号: rdijqkl@f.lm"
       - "体验套餐: 剩余4天"
@@ -64,7 +61,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-11-26 17:14:39"
+      - "🏳️‍🌈 时间: 2023-11-26 20:29:42"
   - name: 📲 电报信息
     type: select
     proxies:
@@ -77,7 +74,6 @@ proxy-groups:
       - 🇸🇬 新加坡 G0 | 直连 | 3x
       - 🇸🇬 新加坡 G2 | 江苏移动 | 3x
       - 🇭🇰 香港 G13 | 小带宽 | 4x
-      - 🇹🇭 泰国 B29 | 广东移动 | 3x
       - ----- 账号信息 -----
       - "登录账号: rdijqkl@f.lm"
       - "体验套餐: 剩余4天"
@@ -86,7 +82,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-11-26 17:14:39"
+      - "🏳️‍🌈 时间: 2023-11-26 20:29:42"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -99,7 +95,6 @@ proxy-groups:
       - 🇸🇬 新加坡 G0 | 直连 | 3x
       - 🇸🇬 新加坡 G2 | 江苏移动 | 3x
       - 🇭🇰 香港 G13 | 小带宽 | 4x
-      - 🇹🇭 泰国 B29 | 广东移动 | 3x
       - ----- 账号信息 -----
       - "登录账号: rdijqkl@f.lm"
       - "体验套餐: 剩余4天"
@@ -108,7 +103,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-11-26 17:14:39"
+      - "🏳️‍🌈 时间: 2023-11-26 20:29:42"
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -121,7 +116,6 @@ proxy-groups:
       - 🇸🇬 新加坡 G0 | 直连 | 3x
       - 🇸🇬 新加坡 G2 | 江苏移动 | 3x
       - 🇭🇰 香港 G13 | 小带宽 | 4x
-      - 🇹🇭 泰国 B29 | 广东移动 | 3x
       - ----- 账号信息 -----
       - "登录账号: rdijqkl@f.lm"
       - "体验套餐: 剩余4天"
@@ -130,7 +124,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-11-26 17:14:39"
+      - "🏳️‍🌈 时间: 2023-11-26 20:29:42"
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -143,7 +137,6 @@ proxy-groups:
       - 🇸🇬 新加坡 G0 | 直连 | 3x
       - 🇸🇬 新加坡 G2 | 江苏移动 | 3x
       - 🇭🇰 香港 G13 | 小带宽 | 4x
-      - 🇹🇭 泰国 B29 | 广东移动 | 3x
       - ----- 账号信息 -----
       - "登录账号: rdijqkl@f.lm"
       - "体验套餐: 剩余4天"
@@ -152,7 +145,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-11-26 17:14:39"
+      - "🏳️‍🌈 时间: 2023-11-26 20:29:42"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -176,7 +169,6 @@ proxy-groups:
       - 🇸🇬 新加坡 G0 | 直连 | 3x
       - 🇸🇬 新加坡 G2 | 江苏移动 | 3x
       - 🇭🇰 香港 G13 | 小带宽 | 4x
-      - 🇹🇭 泰国 B29 | 广东移动 | 3x
       - ----- 账号信息 -----
       - "登录账号: rdijqkl@f.lm"
       - "体验套餐: 剩余4天"
@@ -185,7 +177,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-11-26 17:14:39"
+      - "🏳️‍🌈 时间: 2023-11-26 20:29:42"
   - name: 🐟 漏网之鱼
     type: select
     proxies:
@@ -198,7 +190,6 @@ proxy-groups:
       - 🇸🇬 新加坡 G0 | 直连 | 3x
       - 🇸🇬 新加坡 G2 | 江苏移动 | 3x
       - 🇭🇰 香港 G13 | 小带宽 | 4x
-      - 🇹🇭 泰国 B29 | 广东移动 | 3x
       - ----- 账号信息 -----
       - "登录账号: rdijqkl@f.lm"
       - "体验套餐: 剩余4天"
@@ -207,7 +198,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-11-26 17:14:39"
+      - "🏳️‍🌈 时间: 2023-11-26 20:29:42"
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
