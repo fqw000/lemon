@@ -11,7 +11,6 @@ proxies:
   - {name: 🇺🇸 美国 G29 | 小带宽 | 3x, server: 36.158.205.197, port: 43187, type: trojan, password: 4mY3NGEIzq, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 新加坡 G0 | 华南移动 | 3x, server: 36.158.205.197, port: 16133, type: trojan, password: 4mY3NGEIzq, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 新加坡 G2 | 华南移动 | 3x, server: 36.158.205.197, port: 45303, type: trojan, password: 4mY3NGEIzq, sni: www.icloud.com, skip-cert-verify: true, udp: true}
-  - {name: 🇭🇰 香港 G13 | 小带宽 | 4x, server: 183.213.200.143, port: 14571, type: trojan, password: 4mY3NGEIzq, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇹🇭 泰国 B29 | 广东移动 | 3x, server: 183.232.170.62, port: 31008, type: trojan, password: 4mY3NGEIzq, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: ----- 账号信息 -----, server: 36.158.205.197, port: 45300, type: trojan, password: 4mY3NGEIzq, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: "登录账号: rdijqkl@f.lm", server: 36.158.205.197, port: 45300, type: trojan, password: 4mY3NGEIzq, sni: www.icloud.com, skip-cert-verify: true, udp: true}
@@ -21,7 +20,7 @@ proxies:
   - {name: "电报: https://t.me/falemon_group", server: 36.158.205.197, port: 45300, type: trojan, password: 4mY3NGEIzq, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: "邮箱: contact@falemon.com", server: 36.158.205.197, port: 45300, type: trojan, password: 4mY3NGEIzq, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: "官网: falm.cc", server: 36.158.205.197, port: 45300, type: trojan, password: 4mY3NGEIzq, sni: www.icloud.com, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2023-11-28 17:16:58", server: 36.158.205.197, port: 45300, type: trojan, password: 4mY3NGEIzq, sni: www.icloud.com, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2023-11-28 20:32:33", server: 36.158.205.197, port: 45300, type: trojan, password: 4mY3NGEIzq, sni: www.icloud.com, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -32,7 +31,6 @@ proxy-groups:
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇸🇬 新加坡 G0 | 华南移动 | 3x
       - 🇸🇬 新加坡 G2 | 华南移动 | 3x
-      - 🇭🇰 香港 G13 | 小带宽 | 4x
       - 🇹🇭 泰国 B29 | 广东移动 | 3x
       - ----- 账号信息 -----
       - "登录账号: rdijqkl@f.lm"
@@ -42,7 +40,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-11-28 17:16:58"
+      - "🏳️‍🌈 时间: 2023-11-28 20:32:33"
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -54,7 +52,6 @@ proxy-groups:
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇸🇬 新加坡 G0 | 华南移动 | 3x
       - 🇸🇬 新加坡 G2 | 华南移动 | 3x
-      - 🇭🇰 香港 G13 | 小带宽 | 4x
       - 🇹🇭 泰国 B29 | 广东移动 | 3x
       - ----- 账号信息 -----
       - "登录账号: rdijqkl@f.lm"
@@ -64,7 +61,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-11-28 17:16:58"
+      - "🏳️‍🌈 时间: 2023-11-28 20:32:33"
   - name: 📲 电报信息
     type: select
     proxies:
@@ -76,7 +73,6 @@ proxy-groups:
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇸🇬 新加坡 G0 | 华南移动 | 3x
       - 🇸🇬 新加坡 G2 | 华南移动 | 3x
-      - 🇭🇰 香港 G13 | 小带宽 | 4x
       - 🇹🇭 泰国 B29 | 广东移动 | 3x
       - ----- 账号信息 -----
       - "登录账号: rdijqkl@f.lm"
@@ -86,7 +82,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-11-28 17:16:58"
+      - "🏳️‍🌈 时间: 2023-11-28 20:32:33"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -98,7 +94,6 @@ proxy-groups:
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇸🇬 新加坡 G0 | 华南移动 | 3x
       - 🇸🇬 新加坡 G2 | 华南移动 | 3x
-      - 🇭🇰 香港 G13 | 小带宽 | 4x
       - 🇹🇭 泰国 B29 | 广东移动 | 3x
       - ----- 账号信息 -----
       - "登录账号: rdijqkl@f.lm"
@@ -108,7 +103,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-11-28 17:16:58"
+      - "🏳️‍🌈 时间: 2023-11-28 20:32:33"
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -120,7 +115,6 @@ proxy-groups:
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇸🇬 新加坡 G0 | 华南移动 | 3x
       - 🇸🇬 新加坡 G2 | 华南移动 | 3x
-      - 🇭🇰 香港 G13 | 小带宽 | 4x
       - 🇹🇭 泰国 B29 | 广东移动 | 3x
       - ----- 账号信息 -----
       - "登录账号: rdijqkl@f.lm"
@@ -130,7 +124,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-11-28 17:16:58"
+      - "🏳️‍🌈 时间: 2023-11-28 20:32:33"
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -142,7 +136,6 @@ proxy-groups:
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇸🇬 新加坡 G0 | 华南移动 | 3x
       - 🇸🇬 新加坡 G2 | 华南移动 | 3x
-      - 🇭🇰 香港 G13 | 小带宽 | 4x
       - 🇹🇭 泰国 B29 | 广东移动 | 3x
       - ----- 账号信息 -----
       - "登录账号: rdijqkl@f.lm"
@@ -152,7 +145,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-11-28 17:16:58"
+      - "🏳️‍🌈 时间: 2023-11-28 20:32:33"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -175,7 +168,6 @@ proxy-groups:
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇸🇬 新加坡 G0 | 华南移动 | 3x
       - 🇸🇬 新加坡 G2 | 华南移动 | 3x
-      - 🇭🇰 香港 G13 | 小带宽 | 4x
       - 🇹🇭 泰国 B29 | 广东移动 | 3x
       - ----- 账号信息 -----
       - "登录账号: rdijqkl@f.lm"
@@ -185,7 +177,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-11-28 17:16:58"
+      - "🏳️‍🌈 时间: 2023-11-28 20:32:33"
   - name: 🐟 漏网之鱼
     type: select
     proxies:
@@ -197,7 +189,6 @@ proxy-groups:
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇸🇬 新加坡 G0 | 华南移动 | 3x
       - 🇸🇬 新加坡 G2 | 华南移动 | 3x
-      - 🇭🇰 香港 G13 | 小带宽 | 4x
       - 🇹🇭 泰国 B29 | 广东移动 | 3x
       - ----- 账号信息 -----
       - "登录账号: rdijqkl@f.lm"
@@ -207,7 +198,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-11-28 17:16:58"
+      - "🏳️‍🌈 时间: 2023-11-28 20:32:33"
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
