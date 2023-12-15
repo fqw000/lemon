@@ -1,33 +1,21 @@
 [Proxy]
 DIRECT = direct
-消息: 2条未读，在APP查看 = trojan, 146.190.40.130, 45300, password=XQBkBeqsyf, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇸🇬 美国 G93 | 直连、Spotify(US)、新开机 | 3x = trojan, 146.190.40.130, 45300, password=XQBkBeqsyf, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+消息: 4条未读，在APP查看 = trojan, 146.190.42.67, 45302, password=XQBkBeqsyf, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇸🇬 美国 G59 | 直连、Spotify(US)、新开机 | 3x = trojan, 146.190.42.67, 45302, password=XQBkBeqsyf, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇸🇬 美国 G97 | 直连、Spotify(US)、新开机 | 3x = trojan, 165.232.156.178, 45301, password=XQBkBeqsyf, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇺🇸 美国 G04 | 江苏移动、闲时可见 | 3x = trojan, 36.158.205.197, 21117, password=XQBkBeqsyf, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇸🇬 美国 G93 | 直连、Spotify(US)、新开机 | 3x = trojan, 146.190.40.130, 45300, password=XQBkBeqsyf, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇺🇸 美国 G29 | 小带宽 | 3x = trojan, 36.158.205.197, 30187, password=XQBkBeqsyf, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇺🇸 美国 G23 | 浙江联通 | 3x = trojan, 123.156.229.62, 12281, password=XQBkBeqsyf, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇸🇬 新加坡 G0 | 直连、新开机 | 3x = trojan, 157.230.244.85, 16133, password=XQBkBeqsyf, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇸🇬 新加坡 G2 | 华南移动、闲时可见 | 3x = trojan, 36.158.205.197, 45303, password=XQBkBeqsyf, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇸🇬 新加坡 G1 | 华南移动、闲时可见 | 3x = trojan, 36.158.205.197, 45304, password=XQBkBeqsyf, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇭🇰 香港 G17 | 小带宽 | 4x = trojan, 183.213.200.199, 19817, password=XQBkBeqsyf, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇩🇪 德国 B16 | 浙江联通、ChatGPT、闲时可见 | 2x = trojan, 123.156.229.62, 22116, password=XQBkBeqsyf, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇭🇰 泰国 B29 | 广港隧道 | 3x = trojan, 183.232.170.62, 31008, password=XQBkBeqsyf, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇻🇳 越南 B60 | 华南移动、ChatGPT(原生)、闲时可见 | 3x = trojan, 36.158.205.197, 32011, password=XQBkBeqsyf, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇮🇩 印尼 B46 | 华南移动、闲时可见 | 3x = trojan, 36.158.205.197, 31010, password=XQBkBeqsyf, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇮🇳 印度 B46 | 江苏移动、闲时可见 | 3x = trojan, 36.158.205.197, 12385, password=XQBkBeqsyf, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇺🇦 乌克兰 B11 | 华南移动、闲时可见 | 2x = trojan, 36.158.205.197, 30282, password=XQBkBeqsyf, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇷🇺 俄罗斯 B75 | 广东移动、闲时可见 | 2x = trojan, 183.213.200.143, 30183, password=XQBkBeqsyf, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇦🇷 阿根廷 B46 | 浙江联通、ChatGPT、闲时可见 | 2x = trojan, 123.156.229.62, 48402, password=XQBkBeqsyf, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇭🇰 加拿大 B62 | 深港隧道、闲时可见 | 2x = trojan, 36.158.249.43, 18140, password=XQBkBeqsyf, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇭🇰 马来西亚 B15 | 广港隧道、ChatGPT、Netflix(SG)、闲时可见 | 3x = trojan, 183.232.170.62, 21215, password=XQBkBeqsyf, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
------ 账号信息 ----- = trojan, 146.190.40.130, 45300, password=XQBkBeqsyf, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-登录账号: rtijvhe@f.lm = trojan, 146.190.40.130, 45300, password=XQBkBeqsyf, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-体验套餐: 剩余4天 = trojan, 146.190.40.130, 45300, password=XQBkBeqsyf, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🏳️‍🌈 流量重置: 每月14日 10G，剩余9G = trojan, 146.190.40.130, 45300, password=XQBkBeqsyf, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
------ 联系我们 ----- = trojan, 146.190.40.130, 45300, password=XQBkBeqsyf, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-电报: https://t.me/falemon_group = trojan, 146.190.40.130, 45300, password=XQBkBeqsyf, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-邮箱: contact@falemon.com = trojan, 146.190.40.130, 45300, password=XQBkBeqsyf, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-官网: falm.cc = trojan, 146.190.40.130, 45300, password=XQBkBeqsyf, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🏳️‍🌈 时间: 2023-12-15 14:22:14 = trojan, 146.190.40.130, 45300, password=XQBkBeqsyf, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+----- 账号信息 ----- = trojan, 146.190.42.67, 45302, password=XQBkBeqsyf, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+登录账号: rtijvhe@f.lm = trojan, 146.190.42.67, 45302, password=XQBkBeqsyf, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+体验套餐: 剩余4天 = trojan, 146.190.42.67, 45302, password=XQBkBeqsyf, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🏳️‍🌈 流量重置: 每月14日 10G，剩余9G = trojan, 146.190.42.67, 45302, password=XQBkBeqsyf, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+----- 联系我们 ----- = trojan, 146.190.42.67, 45302, password=XQBkBeqsyf, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+电报: https://t.me/falemon_group = trojan, 146.190.42.67, 45302, password=XQBkBeqsyf, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+邮箱: contact@falemon.com = trojan, 146.190.42.67, 45302, password=XQBkBeqsyf, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+官网: falm.cc = trojan, 146.190.42.67, 45302, password=XQBkBeqsyf, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🏳️‍🌈 时间: 2023-12-15 17:17:00 = trojan, 146.190.42.67, 45302, password=XQBkBeqsyf, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 
