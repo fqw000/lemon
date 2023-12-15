@@ -5,32 +5,32 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: "消息: 4条未读，在APP查看", server: 146.190.42.67, port: 45302, type: trojan, password: XQBkBeqsyf, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "消息: 4条未读，在APP查看", server: 146.190.40.130, port: 45300, type: trojan, password: XQBkBeqsyf, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 美国 G93 | 直连、Spotify(US)、新开机 | 3x, server: 146.190.40.130, port: 45300, type: trojan, password: XQBkBeqsyf, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 美国 G59 | 直连、Spotify(US)、新开机 | 3x, server: 146.190.42.67, port: 45302, type: trojan, password: XQBkBeqsyf, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 美国 G97 | 直连、Spotify(US)、新开机 | 3x, server: 165.232.156.178, port: 45301, type: trojan, password: XQBkBeqsyf, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇬 美国 G93 | 直连、Spotify(US)、新开机 | 3x, server: 146.190.40.130, port: 45300, type: trojan, password: XQBkBeqsyf, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G29 | 小带宽 | 3x, server: 36.158.205.197, port: 30187, type: trojan, password: XQBkBeqsyf, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G23 | 浙江联通 | 3x, server: 123.156.229.62, port: 12281, type: trojan, password: XQBkBeqsyf, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 新加坡 G0 | 直连、新开机 | 3x, server: 157.230.244.85, port: 16133, type: trojan, password: XQBkBeqsyf, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇭🇰 香港 G17 | 小带宽 | 4x, server: 183.213.200.199, port: 19817, type: trojan, password: XQBkBeqsyf, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇭🇰 泰国 B29 | 广港隧道 | 3x, server: 183.232.170.62, port: 31008, type: trojan, password: XQBkBeqsyf, sni: www.icloud.com, skip-cert-verify: true, udp: true}
-  - {name: ----- 账号信息 -----, server: 146.190.42.67, port: 45302, type: trojan, password: XQBkBeqsyf, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "登录账号: rtijvhe@f.lm", server: 146.190.42.67, port: 45302, type: trojan, password: XQBkBeqsyf, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "体验套餐: 剩余4天", server: 146.190.42.67, port: 45302, type: trojan, password: XQBkBeqsyf, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 流量重置: 每月14日 10G，剩余9G", server: 146.190.42.67, port: 45302, type: trojan, password: XQBkBeqsyf, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: ----- 联系我们 -----, server: 146.190.42.67, port: 45302, type: trojan, password: XQBkBeqsyf, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "电报: https://t.me/falemon_group", server: 146.190.42.67, port: 45302, type: trojan, password: XQBkBeqsyf, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "邮箱: contact@falemon.com", server: 146.190.42.67, port: 45302, type: trojan, password: XQBkBeqsyf, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "官网: falm.cc", server: 146.190.42.67, port: 45302, type: trojan, password: XQBkBeqsyf, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2023-12-15 17:16:59", server: 146.190.42.67, port: 45302, type: trojan, password: XQBkBeqsyf, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: ----- 账号信息 -----, server: 146.190.40.130, port: 45300, type: trojan, password: XQBkBeqsyf, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "登录账号: rtijvhe@f.lm", server: 146.190.40.130, port: 45300, type: trojan, password: XQBkBeqsyf, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "体验套餐: 剩余4天", server: 146.190.40.130, port: 45300, type: trojan, password: XQBkBeqsyf, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 流量重置: 每月14日 10G，剩余9G", server: 146.190.40.130, port: 45300, type: trojan, password: XQBkBeqsyf, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: ----- 联系我们 -----, server: 146.190.40.130, port: 45300, type: trojan, password: XQBkBeqsyf, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "电报: https://t.me/falemon_group", server: 146.190.40.130, port: 45300, type: trojan, password: XQBkBeqsyf, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "邮箱: contact@falemon.com", server: 146.190.40.130, port: 45300, type: trojan, password: XQBkBeqsyf, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "官网: falm.cc", server: 146.190.40.130, port: 45300, type: trojan, password: XQBkBeqsyf, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2023-12-15 20:32:23", server: 146.190.40.130, port: 45300, type: trojan, password: XQBkBeqsyf, sni: v.qq.com, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - "消息: 4条未读，在APP查看"
+      - 🇸🇬 美国 G93 | 直连、Spotify(US)、新开机 | 3x
       - 🇸🇬 美国 G59 | 直连、Spotify(US)、新开机 | 3x
       - 🇸🇬 美国 G97 | 直连、Spotify(US)、新开机 | 3x
-      - 🇸🇬 美国 G93 | 直连、Spotify(US)、新开机 | 3x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇺🇸 美国 G23 | 浙江联通 | 3x
       - 🇸🇬 新加坡 G0 | 直连、新开机 | 3x
@@ -44,16 +44,16 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-12-15 17:16:59"
+      - "🏳️‍🌈 时间: 2023-12-15 20:32:23"
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - "消息: 4条未读，在APP查看"
+      - 🇸🇬 美国 G93 | 直连、Spotify(US)、新开机 | 3x
       - 🇸🇬 美国 G59 | 直连、Spotify(US)、新开机 | 3x
       - 🇸🇬 美国 G97 | 直连、Spotify(US)、新开机 | 3x
-      - 🇸🇬 美国 G93 | 直连、Spotify(US)、新开机 | 3x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇺🇸 美国 G23 | 浙江联通 | 3x
       - 🇸🇬 新加坡 G0 | 直连、新开机 | 3x
@@ -67,16 +67,16 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-12-15 17:16:59"
+      - "🏳️‍🌈 时间: 2023-12-15 20:32:23"
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - "消息: 4条未读，在APP查看"
+      - 🇸🇬 美国 G93 | 直连、Spotify(US)、新开机 | 3x
       - 🇸🇬 美国 G59 | 直连、Spotify(US)、新开机 | 3x
       - 🇸🇬 美国 G97 | 直连、Spotify(US)、新开机 | 3x
-      - 🇸🇬 美国 G93 | 直连、Spotify(US)、新开机 | 3x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇺🇸 美国 G23 | 浙江联通 | 3x
       - 🇸🇬 新加坡 G0 | 直连、新开机 | 3x
@@ -90,16 +90,16 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-12-15 17:16:59"
+      - "🏳️‍🌈 时间: 2023-12-15 20:32:23"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
       - "消息: 4条未读，在APP查看"
+      - 🇸🇬 美国 G93 | 直连、Spotify(US)、新开机 | 3x
       - 🇸🇬 美国 G59 | 直连、Spotify(US)、新开机 | 3x
       - 🇸🇬 美国 G97 | 直连、Spotify(US)、新开机 | 3x
-      - 🇸🇬 美国 G93 | 直连、Spotify(US)、新开机 | 3x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇺🇸 美国 G23 | 浙江联通 | 3x
       - 🇸🇬 新加坡 G0 | 直连、新开机 | 3x
@@ -113,16 +113,16 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-12-15 17:16:59"
+      - "🏳️‍🌈 时间: 2023-12-15 20:32:23"
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - "消息: 4条未读，在APP查看"
+      - 🇸🇬 美国 G93 | 直连、Spotify(US)、新开机 | 3x
       - 🇸🇬 美国 G59 | 直连、Spotify(US)、新开机 | 3x
       - 🇸🇬 美国 G97 | 直连、Spotify(US)、新开机 | 3x
-      - 🇸🇬 美国 G93 | 直连、Spotify(US)、新开机 | 3x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇺🇸 美国 G23 | 浙江联通 | 3x
       - 🇸🇬 新加坡 G0 | 直连、新开机 | 3x
@@ -136,16 +136,16 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-12-15 17:16:59"
+      - "🏳️‍🌈 时间: 2023-12-15 20:32:23"
   - name: 📢 谷歌FCM
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - "消息: 4条未读，在APP查看"
+      - 🇸🇬 美国 G93 | 直连、Spotify(US)、新开机 | 3x
       - 🇸🇬 美国 G59 | 直连、Spotify(US)、新开机 | 3x
       - 🇸🇬 美国 G97 | 直连、Spotify(US)、新开机 | 3x
-      - 🇸🇬 美国 G93 | 直连、Spotify(US)、新开机 | 3x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇺🇸 美国 G23 | 浙江联通 | 3x
       - 🇸🇬 新加坡 G0 | 直连、新开机 | 3x
@@ -159,7 +159,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-12-15 17:16:59"
+      - "🏳️‍🌈 时间: 2023-12-15 20:32:23"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -177,9 +177,9 @@ proxy-groups:
       - DIRECT
       - 🚀 节点选择
       - "消息: 4条未读，在APP查看"
+      - 🇸🇬 美国 G93 | 直连、Spotify(US)、新开机 | 3x
       - 🇸🇬 美国 G59 | 直连、Spotify(US)、新开机 | 3x
       - 🇸🇬 美国 G97 | 直连、Spotify(US)、新开机 | 3x
-      - 🇸🇬 美国 G93 | 直连、Spotify(US)、新开机 | 3x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇺🇸 美国 G23 | 浙江联通 | 3x
       - 🇸🇬 新加坡 G0 | 直连、新开机 | 3x
@@ -193,16 +193,16 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-12-15 17:16:59"
+      - "🏳️‍🌈 时间: 2023-12-15 20:32:23"
   - name: 🐟 漏网之鱼
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - "消息: 4条未读，在APP查看"
+      - 🇸🇬 美国 G93 | 直连、Spotify(US)、新开机 | 3x
       - 🇸🇬 美国 G59 | 直连、Spotify(US)、新开机 | 3x
       - 🇸🇬 美国 G97 | 直连、Spotify(US)、新开机 | 3x
-      - 🇸🇬 美国 G93 | 直连、Spotify(US)、新开机 | 3x
       - 🇺🇸 美国 G29 | 小带宽 | 3x
       - 🇺🇸 美国 G23 | 浙江联通 | 3x
       - 🇸🇬 新加坡 G0 | 直连、新开机 | 3x
@@ -216,7 +216,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-12-15 17:16:59"
+      - "🏳️‍🌈 时间: 2023-12-15 20:32:23"
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
