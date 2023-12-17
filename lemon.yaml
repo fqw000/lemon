@@ -8,13 +8,13 @@ proxies:
   - {name: "消息: 6条未读，在APP查看", server: 127.0.0.1, port: 443, type: trojan, password: msg, sni: msg@f.lm, skip-cert-verify: true, udp: true}
   - {name: ----- 账号信息 -----, server: 127.0.0.1, port: 443, type: trojan, password: l2, sni: l2@f.lm, skip-cert-verify: true, udp: true}
   - {name: "登录账号: rtijvhe@f.lm", server: 127.0.0.1, port: 443, type: trojan, password: uemail, sni: uemail@f.lm, skip-cert-verify: true, udp: true}
-  - {name: "体验套餐: 剩余2天", server: 127.0.0.1, port: 443, type: trojan, password: vip, sni: vip@f.lm, skip-cert-verify: true, udp: true}
+  - {name: "体验套餐: 剩余1天", server: 127.0.0.1, port: 443, type: trojan, password: vip, sni: vip@f.lm, skip-cert-verify: true, udp: true}
   - {name: "🏳️‍🌈 流量重置: 每月14日 10G，剩余0B", server: 127.0.0.1, port: 443, type: trojan, password: flow, sni: flow@f.lm, skip-cert-verify: true, udp: true}
   - {name: ----- 联系我们 -----, server: 127.0.0.1, port: 443, type: trojan, password: l3, sni: l3@f.lm, skip-cert-verify: true, udp: true}
   - {name: "电报: https://t.me/falemon_group", server: 127.0.0.1, port: 443, type: trojan, password: dac5, sni: dac5@f.lm, skip-cert-verify: true, udp: true}
   - {name: "邮箱: contact@falemon.com", server: 127.0.0.1, port: 443, type: trojan, password: con_email, sni: con_email@f.lm, skip-cert-verify: true, udp: true}
   - {name: "官网: falm.cc", server: 127.0.0.1, port: 443, type: trojan, password: fbbe, sni: fbbe@f.lm, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2023-12-18 02:19:32", server: 127.0.0.1, port: 443, type: trojan, password: bcf4, sni: bcf4@f.lm, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2023-12-18 05:13:46", server: 127.0.0.1, port: 443, type: trojan, password: !<str> 8843, sni: 8843@f.lm, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -22,13 +22,13 @@ proxy-groups:
       - "消息: 6条未读，在APP查看"
       - ----- 账号信息 -----
       - "登录账号: rtijvhe@f.lm"
-      - "体验套餐: 剩余2天"
+      - "体验套餐: 剩余1天"
       - "🏳️‍🌈 流量重置: 每月14日 10G，剩余0B"
       - ----- 联系我们 -----
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-12-18 02:19:32"
+      - "🏳️‍🌈 时间: 2023-12-18 05:13:46"
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -37,13 +37,13 @@ proxy-groups:
       - "消息: 6条未读，在APP查看"
       - ----- 账号信息 -----
       - "登录账号: rtijvhe@f.lm"
-      - "体验套餐: 剩余2天"
+      - "体验套餐: 剩余1天"
       - "🏳️‍🌈 流量重置: 每月14日 10G，剩余0B"
       - ----- 联系我们 -----
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-12-18 02:19:32"
+      - "🏳️‍🌈 时间: 2023-12-18 05:13:46"
   - name: 📲 电报信息
     type: select
     proxies:
@@ -52,13 +52,13 @@ proxy-groups:
       - "消息: 6条未读，在APP查看"
       - ----- 账号信息 -----
       - "登录账号: rtijvhe@f.lm"
-      - "体验套餐: 剩余2天"
+      - "体验套餐: 剩余1天"
       - "🏳️‍🌈 流量重置: 每月14日 10G，剩余0B"
       - ----- 联系我们 -----
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-12-18 02:19:32"
+      - "🏳️‍🌈 时间: 2023-12-18 05:13:46"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -67,13 +67,13 @@ proxy-groups:
       - "消息: 6条未读，在APP查看"
       - ----- 账号信息 -----
       - "登录账号: rtijvhe@f.lm"
-      - "体验套餐: 剩余2天"
+      - "体验套餐: 剩余1天"
       - "🏳️‍🌈 流量重置: 每月14日 10G，剩余0B"
       - ----- 联系我们 -----
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-12-18 02:19:32"
+      - "🏳️‍🌈 时间: 2023-12-18 05:13:46"
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -82,13 +82,13 @@ proxy-groups:
       - "消息: 6条未读，在APP查看"
       - ----- 账号信息 -----
       - "登录账号: rtijvhe@f.lm"
-      - "体验套餐: 剩余2天"
+      - "体验套餐: 剩余1天"
       - "🏳️‍🌈 流量重置: 每月14日 10G，剩余0B"
       - ----- 联系我们 -----
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-12-18 02:19:32"
+      - "🏳️‍🌈 时间: 2023-12-18 05:13:46"
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -97,13 +97,13 @@ proxy-groups:
       - "消息: 6条未读，在APP查看"
       - ----- 账号信息 -----
       - "登录账号: rtijvhe@f.lm"
-      - "体验套餐: 剩余2天"
+      - "体验套餐: 剩余1天"
       - "🏳️‍🌈 流量重置: 每月14日 10G，剩余0B"
       - ----- 联系我们 -----
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-12-18 02:19:32"
+      - "🏳️‍🌈 时间: 2023-12-18 05:13:46"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -123,13 +123,13 @@ proxy-groups:
       - "消息: 6条未读，在APP查看"
       - ----- 账号信息 -----
       - "登录账号: rtijvhe@f.lm"
-      - "体验套餐: 剩余2天"
+      - "体验套餐: 剩余1天"
       - "🏳️‍🌈 流量重置: 每月14日 10G，剩余0B"
       - ----- 联系我们 -----
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-12-18 02:19:32"
+      - "🏳️‍🌈 时间: 2023-12-18 05:13:46"
   - name: 🐟 漏网之鱼
     type: select
     proxies:
@@ -138,13 +138,13 @@ proxy-groups:
       - "消息: 6条未读，在APP查看"
       - ----- 账号信息 -----
       - "登录账号: rtijvhe@f.lm"
-      - "体验套餐: 剩余2天"
+      - "体验套餐: 剩余1天"
       - "🏳️‍🌈 流量重置: 每月14日 10G，剩余0B"
       - ----- 联系我们 -----
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2023-12-18 02:19:32"
+      - "🏳️‍🌈 时间: 2023-12-18 05:13:46"
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
