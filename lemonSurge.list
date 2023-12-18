@@ -1,7 +1,7 @@
 #!MANAGED-CONFIG https://falemon.com/SEBzo/FoO9X/sg4 interval=21600 strict=false
 
 [Panel]
-快柠檬账号 = title="快柠檬账号", content="登录账号: rtijvhe@f.lm\n体验套餐: 剩余1天\n流量重置: 每月14日 10G", style=info
+快柠檬账号 = title="快柠檬账号", content="登录账号: rtijvhe@f.lm\n体验套餐: 剩余23小时38分钟\n流量重置: 每月14日 10G", style=info
 联系快柠檬 = title="联系快柠檬", content="电报: https://t.me/falemon_group\n邮箱: contact@falemon.com\n官网: falm.cc", style=good
 
 
@@ -18,28 +18,28 @@ http-request https?:\/\/.*\.iqiyi\.com\/.*authcookie= script-path=https://raw.gi
 
 [Proxy]
 DIRECT = direct
-消息: 6条未读，在APP查看 = trojan, 127.0.0.1, 443, password=msg, sni=msg@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
+消息: 7条未读，在APP查看 = trojan, 127.0.0.1, 443, password=msg, sni=msg@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 ----- 账号信息 ----- = trojan, 127.0.0.1, 443, password=l2, sni=l2@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 登录账号: rtijvhe@f.lm = trojan, 127.0.0.1, 443, password=uemail, sni=uemail@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
-体验套餐: 剩余1天 = trojan, 127.0.0.1, 443, password=vip, sni=vip@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
+体验套餐: 剩余23小时38分钟 = trojan, 127.0.0.1, 443, password=vip, sni=vip@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 🏳️‍🌈 流量重置: 每月14日 10G，剩余0B = trojan, 127.0.0.1, 443, password=flow, sni=flow@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 ----- 联系我们 ----- = trojan, 127.0.0.1, 443, password=l3, sni=l3@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 电报: https://t.me/falemon_group = trojan, 127.0.0.1, 443, password=dac5, sni=dac5@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 邮箱: contact@falemon.com = trojan, 127.0.0.1, 443, password=con_email, sni=con_email@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 官网: falm.cc = trojan, 127.0.0.1, 443, password=fbbe, sni=fbbe@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
-🏳️‍🌈 时间: 2023-12-18 14:23:07 = trojan, 127.0.0.1, 443, password=5356, sni=5356@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
+🏳️‍🌈 时间: 2023-12-18 17:17:44 = trojan, 127.0.0.1, 443, password=c60b, sni=c60b@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 
 [Proxy Group]
-🚀 节点选择 = select,消息: 6条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 剩余1天,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-18 14:23:07
-🌍 国外媒体 = select,🚀 节点选择,🎯 全球直连,消息: 6条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 剩余1天,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-18 14:23:07
-📲 电报信息 = select,🚀 节点选择,🎯 全球直连,消息: 6条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 剩余1天,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-18 14:23:07
-Ⓜ️ 微软服务 = select,🎯 全球直连,🚀 节点选择,消息: 6条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 剩余1天,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-18 14:23:07
-🍎 苹果服务 = select,🚀 节点选择,🎯 全球直连,消息: 6条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 剩余1天,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-18 14:23:07
-📢 谷歌FCM = select,🚀 节点选择,🎯 全球直连,消息: 6条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 剩余1天,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-18 14:23:07
+🚀 节点选择 = select,消息: 7条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 剩余23小时38分钟,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-18 17:17:44
+🌍 国外媒体 = select,🚀 节点选择,🎯 全球直连,消息: 7条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 剩余23小时38分钟,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-18 17:17:44
+📲 电报信息 = select,🚀 节点选择,🎯 全球直连,消息: 7条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 剩余23小时38分钟,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-18 17:17:44
+Ⓜ️ 微软服务 = select,🎯 全球直连,🚀 节点选择,消息: 7条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 剩余23小时38分钟,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-18 17:17:44
+🍎 苹果服务 = select,🚀 节点选择,🎯 全球直连,消息: 7条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 剩余23小时38分钟,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-18 17:17:44
+📢 谷歌FCM = select,🚀 节点选择,🎯 全球直连,消息: 7条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 剩余23小时38分钟,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-18 17:17:44
 🎯 全球直连 = select,DIRECT,🚀 节点选择
 🛑 全球拦截 = select,REJECT,DIRECT
-🍃 应用净化 = select,REJECT,DIRECT,🚀 节点选择,消息: 6条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 剩余1天,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-18 14:23:07
-🐟 漏网之鱼 = select,🚀 节点选择,🎯 全球直连,消息: 6条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 剩余1天,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-18 14:23:07
+🍃 应用净化 = select,REJECT,DIRECT,🚀 节点选择,消息: 7条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 剩余23小时38分钟,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-18 17:17:44
+🐟 漏网之鱼 = select,🚀 节点选择,🎯 全球直连,消息: 7条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 剩余23小时38分钟,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-18 17:17:44
 
 [Rule]
 RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list,🎯 全球直连,update-interval=86400
