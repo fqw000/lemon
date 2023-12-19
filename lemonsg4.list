@@ -10,5 +10,5 @@ DIRECT = direct
 电报: https://t.me/falemon_group = trojan, 127.0.0.1, 443, password=dac5, sni=dac5@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 邮箱: contact@falemon.com = trojan, 127.0.0.1, 443, password=email, sni=email@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 官网: falm.cc = trojan, 127.0.0.1, 443, password=fbbe, sni=fbbe@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
-🏳️‍🌈 时间: 2023-12-19 20:31:42 = trojan, 127.0.0.1, 443, password=aaed, sni=aaed@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
+🏳️‍🌈 时间: 2023-12-19 23:17:11 = trojan, 127.0.0.1, 443, password=1511, sni=1511@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 
