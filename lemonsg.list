@@ -1,12 +1,13 @@
 [Proxy]
-消息: 7条未读，在APP查看 = trojan, 127.0.0.1, 443, password=msg, sni=msg@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
+账号套餐已到期，请续费后使用 = trojan, 127.0.0.1, 443, password=919e, sni=919e@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
+消息: 8条未读，在APP查看 = trojan, 127.0.0.1, 443, password=msg, sni=msg@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 ----- 账号信息 ----- = trojan, 127.0.0.1, 443, password=l2, sni=l2@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 登录账号: rtijvhe@f.lm = trojan, 127.0.0.1, 443, password=uemail, sni=uemail@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
-体验套餐: 剩余2小时33分钟 = trojan, 127.0.0.1, 443, password=vip, sni=vip@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
+体验套餐: 已到期 = trojan, 127.0.0.1, 443, password=vip, sni=vip@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 🏳️‍🌈 流量重置: 每月14日 10G，剩余0B = trojan, 127.0.0.1, 443, password=flow, sni=flow@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 ----- 联系我们 ----- = trojan, 127.0.0.1, 443, password=l3, sni=l3@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 电报: https://t.me/falemon_group = trojan, 127.0.0.1, 443, password=dac5, sni=dac5@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
-邮箱: contact@falemon.com = trojan, 127.0.0.1, 443, password=con_email, sni=con_email@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
+邮箱: contact@falemon.com = trojan, 127.0.0.1, 443, password=email, sni=email@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 官网: falm.cc = trojan, 127.0.0.1, 443, password=fbbe, sni=fbbe@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
-🏳️‍🌈 时间: 2023-12-19 14:22:04 = trojan, 127.0.0.1, 443, password=c87c, sni=c87c@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
+🏳️‍🌈 时间: 2023-12-19 17:16:36 = trojan, 127.0.0.1, 443, password=9aff, sni=9aff@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 
