@@ -28,19 +28,19 @@ DIRECT = direct
 电报: https://t.me/falemon_group = trojan, 127.0.0.1, 443, password=dac5, sni=dac5@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 邮箱: contact@falemon.com = trojan, 127.0.0.1, 443, password=email, sni=email@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 官网: falm.cc = trojan, 127.0.0.1, 443, password=fbbe, sni=fbbe@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
-🏳️‍🌈 时间: 2023-12-26 14:21:19 = trojan, 127.0.0.1, 443, password=fe96, sni=fe96@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
+🏳️‍🌈 时间: 2023-12-26 17:16:24 = trojan, 127.0.0.1, 443, password=eb5e, sni=eb5e@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 
 [Proxy Group]
-🚀 节点选择 = select,账号套餐已到期，请续费后使用,消息: 12条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 已到期,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-26 14:21:19
-🌍 国外媒体 = select,🚀 节点选择,🎯 全球直连,账号套餐已到期，请续费后使用,消息: 12条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 已到期,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-26 14:21:19
-📲 电报信息 = select,🚀 节点选择,🎯 全球直连,账号套餐已到期，请续费后使用,消息: 12条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 已到期,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-26 14:21:19
-Ⓜ️ 微软服务 = select,🎯 全球直连,🚀 节点选择,账号套餐已到期，请续费后使用,消息: 12条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 已到期,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-26 14:21:19
-🍎 苹果服务 = select,🚀 节点选择,🎯 全球直连,账号套餐已到期，请续费后使用,消息: 12条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 已到期,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-26 14:21:19
-📢 谷歌FCM = select,🚀 节点选择,🎯 全球直连,账号套餐已到期，请续费后使用,消息: 12条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 已到期,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-26 14:21:19
+🚀 节点选择 = select,账号套餐已到期，请续费后使用,消息: 12条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 已到期,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-26 17:16:24
+🌍 国外媒体 = select,🚀 节点选择,🎯 全球直连,账号套餐已到期，请续费后使用,消息: 12条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 已到期,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-26 17:16:24
+📲 电报信息 = select,🚀 节点选择,🎯 全球直连,账号套餐已到期，请续费后使用,消息: 12条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 已到期,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-26 17:16:24
+Ⓜ️ 微软服务 = select,🎯 全球直连,🚀 节点选择,账号套餐已到期，请续费后使用,消息: 12条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 已到期,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-26 17:16:24
+🍎 苹果服务 = select,🚀 节点选择,🎯 全球直连,账号套餐已到期，请续费后使用,消息: 12条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 已到期,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-26 17:16:24
+📢 谷歌FCM = select,🚀 节点选择,🎯 全球直连,账号套餐已到期，请续费后使用,消息: 12条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 已到期,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-26 17:16:24
 🎯 全球直连 = select,DIRECT,🚀 节点选择
 🛑 全球拦截 = select,REJECT,DIRECT
-🍃 应用净化 = select,REJECT,DIRECT,🚀 节点选择,账号套餐已到期，请续费后使用,消息: 12条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 已到期,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-26 14:21:19
-🐟 漏网之鱼 = select,🚀 节点选择,🎯 全球直连,账号套餐已到期，请续费后使用,消息: 12条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 已到期,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-26 14:21:19
+🍃 应用净化 = select,REJECT,DIRECT,🚀 节点选择,账号套餐已到期，请续费后使用,消息: 12条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 已到期,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-26 17:16:24
+🐟 漏网之鱼 = select,🚀 节点选择,🎯 全球直连,账号套餐已到期，请续费后使用,消息: 12条未读，在APP查看,----- 账号信息 -----,登录账号: rtijvhe@f.lm,体验套餐: 已到期,🏳️‍🌈 流量重置: 每月14日 10G，剩余0B,----- 联系我们 -----,电报: https://t.me/falemon_group,邮箱: contact@falemon.com,官网: falm.cc,🏳️‍🌈 时间: 2023-12-26 17:16:24
 
 [Rule]
 RULE-SET,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list,🎯 全球直连,update-interval=86400
