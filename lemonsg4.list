@@ -5,7 +5,9 @@ DIRECT = direct
 🇭🇰 香港 G13I | 海外直连 | 4x = trojan, 185.74.222.113, 22113, password=IplZdjK0jC, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇺🇸 美国 G86l | 海外直连、IPv6 | 3x = trojan, 92.118.112.86, 12281, password=IplZdjK0jC, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇺🇸 美国 G29I | 海外直连 | 3x = trojan, 193.178.210.29, 15010, password=IplZdjK0jC, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇺🇸 美国 G3 | 浙江联通、IPv6 | 2x = trojan, 123.156.231.12, 21984, password=IplZdjK0jC, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇸🇬 美国 G1 | 华南移动、新开机 | 3x = trojan, 183.249.109.23, 47208, password=IplZdjK0jC, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇺🇸 美国 G2 | 浙江联通、Spotify(US) | 3x = trojan, 123.156.231.12, 45301, password=IplZdjK0jC, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇺🇸 美国 G3 | 浙江联通、IPv6 | 3x = trojan, 123.156.231.12, 21984, password=IplZdjK0jC, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇺🇸 美国 G4 | 浙江联通 | 3x = trojan, 123.156.231.12, 43187, password=IplZdjK0jC, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇯🇵 日本 G0 | {N} | 3x = trojan, 185.220.238.239, 26118, password=IplZdjK0jC, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
 🇸🇬 新加坡 G1 | 华南移动 | 3x = trojan, 183.249.109.23, 16121, password=IplZdjK0jC, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
@@ -21,5 +23,5 @@ DIRECT = direct
 电报: https://t.me/falemon_group = trojan, 194.156.98.17, 19817, password=IplZdjK0jC, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 邮箱: contact@falemon.com = trojan, 194.156.98.17, 19817, password=IplZdjK0jC, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 官网: falm.cc = trojan, 194.156.98.17, 19817, password=IplZdjK0jC, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🏳️‍🌈 时间: 2024-03-07 17:04:51 = trojan, 194.156.98.17, 19817, password=IplZdjK0jC, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🏳️‍🌈 时间: 2024-03-07 20:11:46 = trojan, 194.156.98.17, 19817, password=IplZdjK0jC, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
 
