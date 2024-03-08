@@ -23,14 +23,14 @@ proxies:
   - {name: 🇩🇪 德国 B16I | 海外直连、ChatGPT | 2x, server: 5.252.22.116, port: 22116, type: trojan, password: IplZdjK0jC, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇩🇪 德国 B16 | 浙江联通、ChatGPT、闲时可见 | 2x, server: 123.156.231.12, port: 22116, type: trojan, password: IplZdjK0jC, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇦 乌克兰 B11 | 华南移动、闲时可见 | 2x, server: 183.249.109.23, port: 30282, type: trojan, password: IplZdjK0jC, sni: www.icloud.com, skip-cert-verify: true, udp: true}
-  - {name: 🇨🇦 加拿大 B62 | 浙江联通、闲时可见 | 2x, server: 123.156.231.12, port: 33852, type: trojan, password: IplZdjK0jC, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇷🇺 俄罗斯 B75 | 广东移动、闲时可见 | 2x, server: 183.236.53.112, port: 30183, type: trojan, password: IplZdjK0jC, sni: www.icloud.com, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇦 加拿大 B62 | 浙江联通、闲时可见 | 2x, server: 123.156.231.12, port: 33852, type: trojan, password: IplZdjK0jC, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: ----- 账号信息 -----, server: 194.156.98.17, port: 19817, type: trojan, password: IplZdjK0jC, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "登录账号: rzijjzz@f.lm", server: 194.156.98.17, port: 19817, type: trojan, password: IplZdjK0jC, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "体验套餐: 剩余4天", server: 194.156.98.17, port: 19817, type: trojan, password: IplZdjK0jC, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "体验套餐: 剩余3天", server: 194.156.98.17, port: 19817, type: trojan, password: IplZdjK0jC, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "🏳️‍🌈 流量重置: 每月6日 10G，剩余9G", server: 194.156.98.17, port: 19817, type: trojan, password: IplZdjK0jC, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: ----- 联系我们 -----, server: 194.156.98.17, port: 19817, type: trojan, password: IplZdjK0jC, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "电报: https://t.me/falemon_group", server: 194.156.98.17, port: 19817, type: trojan, password: IplZdjK0jC, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "邮箱: contact@falemon.com", server: 194.156.98.17, port: 19817, type: trojan, password: IplZdjK0jC, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "官网: falm.cc", server: 194.156.98.17, port: 19817, type: trojan, password: IplZdjK0jC, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2024-03-08 08:31:02", server: 194.156.98.17, port: 19817, type: trojan, password: IplZdjK0jC, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2024-03-08 11:07:16", server: 194.156.98.17, port: 19817, type: trojan, password: IplZdjK0jC, sni: v.qq.com, skip-cert-verify: true, udp: true}
