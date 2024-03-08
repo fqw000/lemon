@@ -28,4 +28,4 @@ proxies:
   - {name: "电报: https://t.me/falemon_group", server: 194.156.98.17, port: 19817, type: trojan, password: IplZdjK0jC, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "邮箱: contact@falemon.com", server: 194.156.98.17, port: 19817, type: trojan, password: IplZdjK0jC, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "官网: falm.cc", server: 194.156.98.17, port: 19817, type: trojan, password: IplZdjK0jC, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2024-03-08 17:06:51", server: 194.156.98.17, port: 19817, type: trojan, password: IplZdjK0jC, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2024-03-08 20:12:10", server: 194.156.98.17, port: 19817, type: trojan, password: IplZdjK0jC, sni: v.qq.com, skip-cert-verify: true, udp: true}
