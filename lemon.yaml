@@ -28,7 +28,7 @@ proxies:
   - {name: "电报: https://t.me/falemon_group", server: 194.156.98.17, port: 19817, type: trojan, password: IplZdjK0jC, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "邮箱: contact@falemon.com", server: 194.156.98.17, port: 19817, type: trojan, password: IplZdjK0jC, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: "官网: falm.cc", server: 194.156.98.17, port: 19817, type: trojan, password: IplZdjK0jC, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2024-03-08 20:12:10", server: 194.156.98.17, port: 19817, type: trojan, password: IplZdjK0jC, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2024-03-08 23:07:18", server: 194.156.98.17, port: 19817, type: trojan, password: IplZdjK0jC, sni: v.qq.com, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -56,7 +56,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2024-03-08 20:12:10"
+      - "🏳️‍🌈 时间: 2024-03-08 23:07:18"
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -85,7 +85,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2024-03-08 20:12:10"
+      - "🏳️‍🌈 时间: 2024-03-08 23:07:18"
   - name: 📲 电报信息
     type: select
     proxies:
@@ -114,7 +114,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2024-03-08 20:12:10"
+      - "🏳️‍🌈 时间: 2024-03-08 23:07:18"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -143,7 +143,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2024-03-08 20:12:10"
+      - "🏳️‍🌈 时间: 2024-03-08 23:07:18"
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -172,7 +172,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2024-03-08 20:12:10"
+      - "🏳️‍🌈 时间: 2024-03-08 23:07:18"
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -201,7 +201,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2024-03-08 20:12:10"
+      - "🏳️‍🌈 时间: 2024-03-08 23:07:18"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -241,7 +241,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2024-03-08 20:12:10"
+      - "🏳️‍🌈 时间: 2024-03-08 23:07:18"
   - name: 🐟 漏网之鱼
     type: select
     proxies:
@@ -270,7 +270,7 @@ proxy-groups:
       - "电报: https://t.me/falemon_group"
       - "邮箱: contact@falemon.com"
       - "官网: falm.cc"
-      - "🏳️‍🌈 时间: 2024-03-08 20:12:10"
+      - "🏳️‍🌈 时间: 2024-03-08 23:07:18"
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
