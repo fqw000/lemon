@@ -6,7 +6,6 @@ name: extract_lemon_list
 on:
   schedule:
     - cron: '0 */3 * * *'
-    workflow_dispatch:
   push:
     branches: [ main ]
     path:
