@@ -1,16 +1,25 @@
 [Proxy]
-🇸🇬 美国 V2 | 浙江联通、IPv6、限时体验4小时、新开机 | 3x = trojan, 123.158.253.165, 21110, password=Z3tJcuAgZp, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇸🇬 美国 G1 | 直连、新开机 | 3x = trojan, 45.79.93.114, 16131, password=Z3tJcuAgZp, sni=v.qq.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇺🇸 美国 G2 | 浙江联通、Spotify(US) | 3x = trojan, 123.158.253.165, 45301, password=Z3tJcuAgZp, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇸🇬 新加坡 G1 | 华南移动 | 3x = trojan, 183.249.109.23, 16121, password=Z3tJcuAgZp, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇭🇰 香港 G1 | 小带宽 | 4x = trojan, 183.249.109.23, 19817, password=Z3tJcuAgZp, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
------ 账号信息 ----- = trojan, 123.158.253.165, 21110, password=Z3tJcuAgZp, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-登录账号: qxijkbs@f.lm = trojan, 123.158.253.165, 21110, password=Z3tJcuAgZp, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-体验套餐: 剩余2天 = trojan, 123.158.253.165, 21110, password=Z3tJcuAgZp, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🏳️‍🌈 流量重置: 每月9日 10G，剩余10G = trojan, 123.158.253.165, 21110, password=Z3tJcuAgZp, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
------ 联系我们 ----- = trojan, 123.158.253.165, 21110, password=Z3tJcuAgZp, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-电报: https://t.me/falemon_group = trojan, 123.158.253.165, 21110, password=Z3tJcuAgZp, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-邮箱: contact@falemon.com = trojan, 123.158.253.165, 21110, password=Z3tJcuAgZp, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-官网: falm.cc = trojan, 123.158.253.165, 21110, password=Z3tJcuAgZp, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🏳️‍🌈 时间: 2024-03-09 23:04:48 = trojan, 123.158.253.165, 21110, password=Z3tJcuAgZp, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇸🇬 美国 V2 | 浙江联通、IPv6、限时体验1小时、新开机 | 3x = trojan, 123.158.253.165, 21110, password=Z3tJcuAgZp, sni=z74.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+🇺🇸 美国 G1 | 直连 | 3x = trojan, 45.79.93.114, 16131, password=Z3tJcuAgZp, sni=g36b.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+🇺🇸 美国 G2 | 浙江联通、Spotify(US) | 3x = trojan, 123.158.253.165, 45301, password=Z3tJcuAgZp, sni=z74.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+🇺🇸 美国 G3 | 浙江联通、IPv6、闲时可见 | 3x = trojan, 123.158.253.165, 12281, password=Z3tJcuAgZp, sni=z74.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+🇺🇸 美国 G4 | 浙江联通 | 3x = trojan, 123.158.253.165, 43187, password=Z3tJcuAgZp, sni=z74.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+🇯🇵 日本 G0 | {N} | 3x = trojan, 185.220.238.239, 26118, password=Z3tJcuAgZp, sni=g34b.ft5.site, skip-cert-verify=true, tfo=false, udp-relay=true
+🇯🇵 日本 G1 | 华南移动、闲时可见 | 3x = trojan, 183.249.109.23, 26118, password=Z3tJcuAgZp, sni=z62.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+🇸🇬 新加坡 G1 | 华南移动 | 3x = trojan, 183.249.109.23, 16121, password=Z3tJcuAgZp, sni=z62.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+🇭🇰 香港 G1 | 小带宽 | 4x = trojan, 183.249.109.23, 19817, password=Z3tJcuAgZp, sni=z62.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+🇩🇪 德国 B16 | 浙江联通、ChatGPT、闲时可见 | 2x = trojan, 123.158.253.165, 22116, password=Z3tJcuAgZp, sni=z74.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+🇦🇷 阿根廷 B46 | 浙江联通、ChatGPT、限时体验1小时、闲时可见 | 5x = trojan, 123.158.253.165, 48402, password=Z3tJcuAgZp, sni=z74.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+🇷🇺 俄罗斯 B75 | 广东移动、闲时可见 | 2x = trojan, 183.236.53.112, 30183, password=Z3tJcuAgZp, sni=if22b.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+🇨🇦 加拿大 B62 | 浙江联通、闲时可见 | 2x = trojan, 123.158.253.165, 33852, password=Z3tJcuAgZp, sni=z74.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+🇺🇦 乌克兰 B11 | 华南移动、闲时可见 | 2x = trojan, 183.249.109.23, 30282, password=Z3tJcuAgZp, sni=z62.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+----- 账号信息 ----- = trojan, 123.158.253.165, 21110, password=Z3tJcuAgZp, sni=z74.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+登录账号: qxijkbs@f.lm = trojan, 123.158.253.165, 21110, password=Z3tJcuAgZp, sni=z74.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+体验套餐: 剩余2天 = trojan, 123.158.253.165, 21110, password=Z3tJcuAgZp, sni=z74.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+🏳️‍🌈 流量重置: 每月9日 10G，剩余10G = trojan, 123.158.253.165, 21110, password=Z3tJcuAgZp, sni=z74.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+----- 联系我们 ----- = trojan, 123.158.253.165, 21110, password=Z3tJcuAgZp, sni=z74.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+电报: https://t.me/falemon_group = trojan, 123.158.253.165, 21110, password=Z3tJcuAgZp, sni=z74.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+邮箱: contact@falemon.com = trojan, 123.158.253.165, 21110, password=Z3tJcuAgZp, sni=z74.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+官网: falm.cc = trojan, 123.158.253.165, 21110, password=Z3tJcuAgZp, sni=z74.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
+🏳️‍🌈 时间: 2024-03-10 02:14:37 = trojan, 123.158.253.165, 21110, password=Z3tJcuAgZp, sni=z74.ft4.xyz, skip-cert-verify=true, tfo=false, udp-relay=true
 
