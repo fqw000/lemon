@@ -1,6 +1,6 @@
 [Proxy]
 🏳️‍🌈 倍率流量已用完，无高级节点 = trojan, 127.0.0.1, 443, password=flow_run_out, sni=flow_run_out@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
-消息: 4条未读，在APP查看 = trojan, 127.0.0.1, 443, password=msg, sni=msg@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
+消息: 5条未读，在APP查看 = trojan, 127.0.0.1, 443, password=msg, sni=msg@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 ----- 账号信息 ----- = trojan, 127.0.0.1, 443, password=l2, sni=l2@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 登录账号: rzijjzz@f.lm = trojan, 127.0.0.1, 443, password=uemail, sni=uemail@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 体验套餐: 剩余2天 = trojan, 127.0.0.1, 443, password=vip, sni=vip@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
@@ -9,5 +9,5 @@
 电报: https://t.me/falemon_group = trojan, 127.0.0.1, 443, password=dac5, sni=dac5@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 邮箱: contact@falemon.com = trojan, 127.0.0.1, 443, password=con_email, sni=con_email@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 官网: falm.cc = trojan, 127.0.0.1, 443, password=fbbe, sni=fbbe@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
-🏳️‍🌈 时间: 2024-03-09 14:09:56 = trojan, 127.0.0.1, 443, password=c853, sni=c853@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
+🏳️‍🌈 时间: 2024-03-09 17:06:51 = trojan, 127.0.0.1, 443, password=80b9, sni=80b9@f.lm, skip-cert-verify=true, tfo=false, udp-relay=true
 
