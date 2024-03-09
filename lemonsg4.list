@@ -1,20 +1,18 @@
 [Proxy]
 DIRECT = direct
-消息: 1条未读，在APP查看 = trojan, 123.158.253.165, 26322, password=ntvaQpHpIV, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇸🇬 美国 V2 | 浙江联通、IPv6、限时体验2小时、新开机 | 3x = trojan, 123.158.253.165, 26322, password=ntvaQpHpIV, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇸🇬 美国 G1 | 华南移动、新开机 | 3x = trojan, 183.249.109.23, 47208, password=ntvaQpHpIV, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇺🇸 美国 G2 | 浙江联通、Spotify(US) | 3x = trojan, 123.158.253.165, 45301, password=ntvaQpHpIV, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇺🇸 美国 G4 | 浙江联通 | 3x = trojan, 123.158.253.165, 43187, password=ntvaQpHpIV, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇯🇵 日本 G0 | {N} | 3x = trojan, 185.220.238.239, 26118, password=ntvaQpHpIV, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇸🇬 新加坡 G1 | 华南移动 | 3x = trojan, 183.249.109.23, 16121, password=ntvaQpHpIV, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🇭🇰 香港 G1 | 小带宽 | 4x = trojan, 183.249.109.23, 14571, password=ntvaQpHpIV, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
------ 账号信息 ----- = trojan, 123.158.253.165, 26322, password=ntvaQpHpIV, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-登录账号: pdijejj@f.lm = trojan, 123.158.253.165, 26322, password=ntvaQpHpIV, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-体验套餐: 剩余2天 = trojan, 123.158.253.165, 26322, password=ntvaQpHpIV, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🏳️‍🌈 流量重置: 每月9日 10G，剩余10G = trojan, 123.158.253.165, 26322, password=ntvaQpHpIV, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
------ 联系我们 ----- = trojan, 123.158.253.165, 26322, password=ntvaQpHpIV, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-电报: https://t.me/falemon_group = trojan, 123.158.253.165, 26322, password=ntvaQpHpIV, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-邮箱: contact@falemon.com = trojan, 123.158.253.165, 26322, password=ntvaQpHpIV, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-官网: falm.cc = trojan, 123.158.253.165, 26322, password=ntvaQpHpIV, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
-🏳️‍🌈 时间: 2024-03-09 20:11:00 = trojan, 123.158.253.165, 26322, password=ntvaQpHpIV, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇸🇬 美国 V2 | 浙江联通、IPv6、限时体验4小时、新开机 | 3x = trojan, 123.158.253.165, 21110, password=Z3tJcuAgZp, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇺🇸 美国 G2 | 浙江联通、Spotify(US) | 3x = trojan, 123.158.253.165, 45301, password=Z3tJcuAgZp, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇺🇸 美国 G4 | 浙江联通 | 3x = trojan, 123.158.253.165, 43187, password=Z3tJcuAgZp, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇯🇵 日本 G0 | {N} | 3x = trojan, 185.220.238.239, 26118, password=Z3tJcuAgZp, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇸🇬 新加坡 G1 | 华南移动 | 3x = trojan, 183.249.109.23, 16121, password=Z3tJcuAgZp, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🇭🇰 香港 G1 | 小带宽 | 4x = trojan, 183.249.109.23, 19817, password=Z3tJcuAgZp, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+----- 账号信息 ----- = trojan, 123.158.253.165, 21110, password=Z3tJcuAgZp, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+登录账号: qxijkbs@f.lm = trojan, 123.158.253.165, 21110, password=Z3tJcuAgZp, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+体验套餐: 剩余2天 = trojan, 123.158.253.165, 21110, password=Z3tJcuAgZp, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🏳️‍🌈 流量重置: 每月9日 10G，剩余10G = trojan, 123.158.253.165, 21110, password=Z3tJcuAgZp, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+----- 联系我们 ----- = trojan, 123.158.253.165, 21110, password=Z3tJcuAgZp, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+电报: https://t.me/falemon_group = trojan, 123.158.253.165, 21110, password=Z3tJcuAgZp, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+邮箱: contact@falemon.com = trojan, 123.158.253.165, 21110, password=Z3tJcuAgZp, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+官网: falm.cc = trojan, 123.158.253.165, 21110, password=Z3tJcuAgZp, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
+🏳️‍🌈 时间: 2024-03-09 22:57:07 = trojan, 123.158.253.165, 21110, password=Z3tJcuAgZp, sni=www.icloud.com, skip-cert-verify=true, tfo=false, udp-relay=true
 
