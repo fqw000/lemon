@@ -5,7 +5,6 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: 🇺🇸 美国 G1 | 直连 | 3x, server: 45.79.93.114, port: 16131, type: trojan, password: Z3tJcuAgZp, sni: v.qq.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G2 | 浙江联通、Spotify(US) | 3x, server: 123.158.253.165, port: 45301, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G3 | 浙江联通、IPv6、闲时可见 | 3x, server: 123.158.253.165, port: 12281, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国 G4 | 浙江联通 | 3x, server: 123.158.253.165, port: 43187, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
@@ -17,15 +16,15 @@ proxies:
   - {name: 🇷🇺 俄罗斯 B75 | 广东移动、闲时可见 | 2x, server: 183.236.53.112, port: 30183, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇨🇦 加拿大 B62 | 浙江联通、闲时可见 | 2x, server: 123.158.253.165, port: 33852, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇦 乌克兰 B11 | 华南移动、闲时可见 | 2x, server: 183.249.109.23, port: 30282, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
-  - {name: ----- 账号信息 -----, server: 45.79.93.114, port: 16131, type: trojan, password: Z3tJcuAgZp, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "登录账号: qxijkbs@f.lm", server: 45.79.93.114, port: 16131, type: trojan, password: Z3tJcuAgZp, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "体验套餐: 剩余2天", server: 45.79.93.114, port: 16131, type: trojan, password: Z3tJcuAgZp, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 流量重置: 每月9日 10G，剩余10G", server: 45.79.93.114, port: 16131, type: trojan, password: Z3tJcuAgZp, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: ----- 联系我们 -----, server: 45.79.93.114, port: 16131, type: trojan, password: Z3tJcuAgZp, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "电报: https://t.me/falemon_group", server: 45.79.93.114, port: 16131, type: trojan, password: Z3tJcuAgZp, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "邮箱: contact@falemon.com", server: 45.79.93.114, port: 16131, type: trojan, password: Z3tJcuAgZp, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "官网: falm.cc", server: 45.79.93.114, port: 16131, type: trojan, password: Z3tJcuAgZp, sni: v.qq.com, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2024-03-10 05:15:53", server: 45.79.93.114, port: 16131, type: trojan, password: Z3tJcuAgZp, sni: v.qq.com, skip-cert-verify: true, udp: true}
+  - {name: ----- 账号信息 -----, server: 123.158.253.165, port: 45301, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
+  - {name: "登录账号: qxijkbs@f.lm", server: 123.158.253.165, port: 45301, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
+  - {name: "体验套餐: 剩余2天", server: 123.158.253.165, port: 45301, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 流量重置: 每月9日 10G，剩余10G", server: 123.158.253.165, port: 45301, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
+  - {name: ----- 联系我们 -----, server: 123.158.253.165, port: 45301, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
+  - {name: "电报: https://t.me/falemon_group", server: 123.158.253.165, port: 45301, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
+  - {name: "邮箱: contact@falemon.com", server: 123.158.253.165, port: 45301, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
+  - {name: "官网: falm.cc", server: 123.158.253.165, port: 45301, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2024-03-10 09:13:49", server: 123.158.253.165, port: 45301, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
 # banner.yaml
 
 # 为lemonnode.yaml追加规则分流文件，合并整体订阅到lemonlite.yaml中。
