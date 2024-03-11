@@ -14,14 +14,14 @@ proxies:
   - {name: 🇭🇰 香港 G1 | 小带宽 | 4x, server: 183.232.170.60, port: 19817, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇩🇪 德国 B16 | 浙江联通、ChatGPT、闲时可见 | 2x, server: 123.158.253.165, port: 22116, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇷🇺 俄罗斯 B75 | 广东移动、闲时可见 | 2x, server: 183.236.53.112, port: 30183, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
-  - {name: 🇨🇦 加拿大 B62 | 浙江联通、闲时可见 | 2x, server: 123.158.253.165, port: 33852, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇦 乌克兰 B11 | 华南移动、闲时可见 | 2x, server: 183.249.109.23, port: 30282, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇦 加拿大 B62 | 浙江联通、闲时可见 | 2x, server: 123.158.253.165, port: 33852, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: ----- 账号信息 -----, server: 123.158.253.165, port: 45301, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: "登录账号: qxijkbs@f.lm", server: 123.158.253.165, port: 45301, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
-  - {name: "体验套餐: 剩余12小时37分钟", server: 123.158.253.165, port: 45301, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
+  - {name: "体验套餐: 剩余12小时34分钟", server: 123.158.253.165, port: 45301, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: "🏳️‍🌈 流量重置: 每月9日 10G，剩余9G", server: 123.158.253.165, port: 45301, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: ----- 联系我们 -----, server: 123.158.253.165, port: 45301, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: "电报: https://t.me/falemon_group", server: 123.158.253.165, port: 45301, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: "邮箱: contact@falemon.com", server: 123.158.253.165, port: 45301, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
   - {name: "官网: falm.cc", server: 123.158.253.165, port: 45301, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
-  - {name: "🏳️‍🌈 时间: 2024-03-11 14:17:54", server: 123.158.253.165, port: 45301, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
+  - {name: "🏳️‍🌈 时间: 2024-03-11 14:21:12", server: 123.158.253.165, port: 45301, type: trojan, password: Z3tJcuAgZp, sni: www.icloud.com, skip-cert-verify: true, udp: true}
